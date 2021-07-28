@@ -1,0 +1,644 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>My Friend Pedro</GameName>
+  <CategoryName>The Sewer%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables>
+      <Variable name="Any% Platform">
+      </Variable>
+    </Variables>
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>15</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="01/30/2021 20:44:03" isStartedSynced="True" ended="01/30/2021 20:44:27" isEndedSynced="True" />
+    <Attempt id="2" started="01/30/2021 20:44:33" isStartedSynced="True" ended="01/30/2021 21:00:25" isEndedSynced="True" />
+    <Attempt id="3" started="01/31/2021 17:53:04" isStartedSynced="True" ended="01/31/2021 18:11:56" isEndedSynced="True">
+      <RealTime>00:18:52.6860000</RealTime>
+      <GameTime>00:16:38.4220000</GameTime>
+    </Attempt>
+    <Attempt id="4" started="01/31/2021 18:12:51" isStartedSynced="True" ended="01/31/2021 18:31:50" isEndedSynced="True">
+      <RealTime>00:18:58.8090000</RealTime>
+      <GameTime>00:16:48.8940000</GameTime>
+    </Attempt>
+    <Attempt id="5" started="01/31/2021 18:33:43" isStartedSynced="True" ended="01/31/2021 18:37:56" isEndedSynced="True" />
+    <Attempt id="6" started="01/31/2021 18:40:24" isStartedSynced="True" ended="01/31/2021 18:42:22" isEndedSynced="True" />
+    <Attempt id="7" started="01/31/2021 18:44:43" isStartedSynced="True" ended="01/31/2021 19:01:55" isEndedSynced="True" />
+    <Attempt id="8" started="01/31/2021 19:14:30" isStartedSynced="True" ended="01/31/2021 19:32:09" isEndedSynced="True" />
+    <Attempt id="9" started="02/01/2021 12:46:10" isStartedSynced="True" ended="02/01/2021 13:14:24" isEndedSynced="True">
+      <RealTime>00:28:13.5540000</RealTime>
+      <GameTime>00:16:37.0530000</GameTime>
+    </Attempt>
+    <Attempt id="10" started="02/01/2021 13:56:15" isStartedSynced="True" ended="02/01/2021 14:14:55" isEndedSynced="True">
+      <RealTime>00:18:39.6130000</RealTime>
+      <GameTime>00:16:39.3190000</GameTime>
+    </Attempt>
+    <Attempt id="11" started="02/01/2021 14:44:42" isStartedSynced="False" ended="02/01/2021 14:49:46" isEndedSynced="True" />
+    <Attempt id="12" started="02/01/2021 14:51:30" isStartedSynced="True" ended="02/01/2021 14:53:48" isEndedSynced="True" />
+    <Attempt id="13" started="02/01/2021 14:55:09" isStartedSynced="True" ended="02/01/2021 14:55:45" isEndedSynced="True" />
+    <Attempt id="14" started="02/01/2021 14:55:51" isStartedSynced="True" ended="02/01/2021 14:56:28" isEndedSynced="True" />
+    <Attempt id="15" started="02/01/2021 14:57:18" isStartedSynced="True" ended="02/01/2021 14:58:41" isEndedSynced="True" />
+    <Attempt id="16" started="02/01/2021 15:02:08" isStartedSynced="True" ended="02/01/2021 15:16:48" isEndedSynced="True" />
+    <Attempt id="17" started="06/25/2021 14:16:40" isStartedSynced="True" ended="06/25/2021 14:47:36" isEndedSynced="True">
+      <RealTime>00:30:55.9020000</RealTime>
+      <GameTime>00:18:41.4510000</GameTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>
+      </Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:56.3800000</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2" />
+        <Time id="3" />
+        <Time id="4" />
+        <Time id="5" />
+        <Time id="7" />
+        <Time id="8" />
+        <Time id="9" />
+        <Time id="10" />
+        <Time id="11" />
+        <Time id="12" />
+        <Time id="17">
+          <RealTime>00:01:56.3800000</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+        <Time id="16" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Sewer 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:51.4340000</RealTime>
+          <GameTime>00:01:35.9640000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:48.9440000</RealTime>
+        <GameTime>00:01:34.6430000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:27.1920000</RealTime>
+          <GameTime>00:01:55.4480000</GameTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:01.5350000</RealTime>
+          <GameTime>00:01:38.5390000</GameTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:48.9440000</RealTime>
+          <GameTime>00:01:34.6430000</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:52.0070000</RealTime>
+          <GameTime>00:01:37.0940000</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:49.2320000</RealTime>
+          <GameTime>00:01:36.6910000</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:49.7870000</RealTime>
+          <GameTime>00:01:37.1990000</GameTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:01:51.4340000</RealTime>
+          <GameTime>00:01:35.9640000</GameTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:54.1870000</RealTime>
+          <GameTime>00:01:40.9430000</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:50.1290000</RealTime>
+          <GameTime>00:01:36.5370000</GameTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:49.0500000</RealTime>
+          <GameTime>00:01:36.8660000</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:51.2300000</RealTime>
+          <GameTime>00:01:37.5400000</GameTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:04:47.7320000</RealTime>
+          <GameTime>00:01:44.4730000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Sewer 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:47.0650000</RealTime>
+          <GameTime>00:03:18.2750000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:28.0890000</RealTime>
+        <GameTime>00:01:32.4840000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:03:02.8790000</RealTime>
+          <GameTime>00:02:47.4040000</GameTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:51.3520000</RealTime>
+          <GameTime>00:01:39.5560000</GameTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:44.1000000</RealTime>
+          <GameTime>00:01:33.4970000</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:49.3920000</RealTime>
+          <GameTime>00:01:35.2680000</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:48.3360000</RealTime>
+          <GameTime>00:01:35.9520000</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:45.4760000</RealTime>
+          <GameTime>00:01:34.4520000</GameTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:01:55.6310000</RealTime>
+          <GameTime>00:01:42.3110000</GameTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:43.5910000</RealTime>
+          <GameTime>00:01:32.4840000</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:44.2510000</RealTime>
+          <GameTime>00:01:34.2830000</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:53.7830000</RealTime>
+          <GameTime>00:01:41.2820000</GameTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:01:28.0890000</RealTime>
+          <GameTime>00:02:01.6650000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Sewer 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:17.6430000</RealTime>
+          <GameTime>00:04:37.7180000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:30.5780000</RealTime>
+        <GameTime>00:01:18.5150000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:12.3820000</RealTime>
+          <GameTime>00:02:00.4310000</GameTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:37.9960000</RealTime>
+          <GameTime>00:01:25.7990000</GameTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:32.7160000</RealTime>
+          <GameTime>00:01:21.7390000</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:48.2850000</RealTime>
+          <GameTime>00:01:26.6710000</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:34.3200000</RealTime>
+          <GameTime>00:01:19.3330000</GameTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:01:30.5780000</RealTime>
+          <GameTime>00:01:19.4430000</GameTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:41.0180000</RealTime>
+          <GameTime>00:01:29.0100000</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:30.7820000</RealTime>
+          <GameTime>00:01:18.5150000</GameTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:02:29.0160000</RealTime>
+          <GameTime>00:01:19.5150000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Sewer 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:51.3690000</RealTime>
+          <GameTime>00:06:55.0400000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:13.4870000</RealTime>
+        <GameTime>00:02:16.9360000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:43.7470000</RealTime>
+          <GameTime>00:02:31.5960000</GameTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:31.6470000</RealTime>
+          <GameTime>00:02:18.6510000</GameTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:28.5120000</RealTime>
+          <GameTime>00:02:17.0820000</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:33.3180000</RealTime>
+          <GameTime>00:02:20.3780000</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:32.4010000</RealTime>
+          <GameTime>00:02:20.2280000</GameTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:02:33.7260000</RealTime>
+          <GameTime>00:02:17.3220000</GameTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:31.0950000</RealTime>
+          <GameTime>00:02:18.3940000</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:36.4380000</RealTime>
+          <GameTime>00:02:16.9360000</GameTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:01:13.4870000</RealTime>
+          <GameTime>00:02:18.7430000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Sewer 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:11.3070000</RealTime>
+          <GameTime>00:08:01.2610000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:12.9510000</RealTime>
+        <GameTime>00:01:02.9370000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:18.4510000</RealTime>
+          <GameTime>00:01:08.5470000</GameTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:17.0360000</RealTime>
+          <GameTime>00:01:06.7210000</GameTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:28.2580000</RealTime>
+          <GameTime>00:01:07.7570000</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:13.5300000</RealTime>
+          <GameTime>00:01:03.6490000</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:50.7050000</RealTime>
+          <GameTime>00:01:23.2150000</GameTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:01:19.9380000</RealTime>
+          <GameTime>00:01:06.2210000</GameTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:12.9510000</RealTime>
+          <GameTime>00:01:02.9370000</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:16.1770000</RealTime>
+          <GameTime>00:01:05.2520000</GameTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:02:19.2520000</RealTime>
+          <GameTime>00:01:04.2990000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Sewer 6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:26.7470000</RealTime>
+          <GameTime>00:10:00.5080000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:08.6970000</RealTime>
+        <GameTime>00:01:54.5950000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:19.8380000</RealTime>
+          <GameTime>00:02:09.0750000</GameTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:09.2860000</RealTime>
+          <GameTime>00:01:58.1780000</GameTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:09.1730000</RealTime>
+          <GameTime>00:01:59.0560000</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:11.2230000</RealTime>
+          <GameTime>00:01:59.2420000</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:11.4670000</RealTime>
+          <GameTime>00:01:59.5120000</GameTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:02:15.4400000</RealTime>
+          <GameTime>00:01:59.2470000</GameTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:08.6970000</RealTime>
+          <GameTime>00:01:54.5950000</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:57.6010000</RealTime>
+          <GameTime>00:02:02.5660000</GameTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:02:59.6670000</RealTime>
+          <GameTime>00:02:10.0370000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Sewer 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:13:26.2100000</RealTime>
+          <GameTime>00:11:48.3230000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:56.0010000</RealTime>
+        <GameTime>00:01:45.4140000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:02:06.5120000</RealTime>
+          <GameTime>00:01:53.2610000</GameTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:27.7650000</RealTime>
+          <GameTime>00:02:11.5460000</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:58.4160000</RealTime>
+          <GameTime>00:01:46.9550000</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:56.0010000</RealTime>
+          <GameTime>00:01:45.4140000</GameTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:01:59.4630000</RealTime>
+          <GameTime>00:01:47.8150000</GameTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:03.6320000</RealTime>
+          <GameTime>00:01:52.4160000</GameTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:02:20.7290000</RealTime>
+          <GameTime>00:02:48.2460000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Sewer 8</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:15:46.0760000</RealTime>
+          <GameTime>00:13:54.7380000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:13.8770000</RealTime>
+        <GameTime>00:02:01.8390000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:02:17.1550000</RealTime>
+          <GameTime>00:02:04.6920000</GameTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:16.4740000</RealTime>
+          <GameTime>00:02:05.0430000</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:18.3220000</RealTime>
+          <GameTime>00:02:04.8660000</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:13.8770000</RealTime>
+          <GameTime>00:02:01.8390000</GameTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:02:19.8660000</RealTime>
+          <GameTime>00:02:06.4150000</GameTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:17.6020000</RealTime>
+          <GameTime>00:02:05.8910000</GameTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:03:59.5130000</RealTime>
+          <GameTime>00:02:10.6720000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Sewer 9</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:30.8680000</RealTime>
+          <GameTime>00:15:26.5380000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:33.2350000</RealTime>
+        <GameTime>00:01:22.1340000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:33.2350000</RealTime>
+          <GameTime>00:01:22.1340000</GameTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:37.6660000</RealTime>
+          <GameTime>00:01:25.4790000</GameTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:01:44.7920000</RealTime>
+          <GameTime>00:01:31.8000000</GameTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:35.5200000</RealTime>
+          <GameTime>00:01:25.2030000</GameTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:07:20.7520000</RealTime>
+          <GameTime>00:01:30.2080000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Sewer 10</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:28:13.5540000</RealTime>
+          <GameTime>00:16:37.0530000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:01.2850000</RealTime>
+        <GameTime>00:01:10.5150000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:26.9320000</RealTime>
+          <GameTime>00:01:10.8910000</GameTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:25.2010000</RealTime>
+          <GameTime>00:01:13.0520000</GameTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:10:42.6860000</RealTime>
+          <GameTime>00:01:10.5150000</GameTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:31.3200000</RealTime>
+          <GameTime>00:01:17.4460000</GameTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:00:01.2850000</RealTime>
+          <GameTime>00:01:33.5930000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>E:\Speedrun\LiveSplit\Components\MyFriendPedro.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>True</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="StartGroup" type="bool">True</Setting>
+      <Setting id="TutorialLevel_start" type="bool">False</Setting>
+      <Setting id="OldTownLevel_start" type="bool">False</Setting>
+      <Setting id="DistrictNullLevel_start" type="bool">False</Setting>
+      <Setting id="PedroWorldLevel_start" type="bool">False</Setting>
+      <Setting id="SewerLevel_start" type="bool">True</Setting>
+      <Setting id="InternetLevel_start" type="bool">False</Setting>
+      <Setting id="PedroBossFightLevel_start" type="bool">False</Setting>
+      <Setting id="level_splits" type="bool">True</Setting>
+      <Setting id="TutorialLevel_1" type="bool">True</Setting>
+      <Setting id="TutorialLevel_2" type="bool">True</Setting>
+      <Setting id="TutorialLevel_3" type="bool">True</Setting>
+      <Setting id="OldTownLevel_1" type="bool">True</Setting>
+      <Setting id="OldTownLevel_2" type="bool">True</Setting>
+      <Setting id="OldTownLevel_3" type="bool">True</Setting>
+      <Setting id="OldTownLevel_4" type="bool">True</Setting>
+      <Setting id="OldTownLevel_5" type="bool">True</Setting>
+      <Setting id="OldTownLevel_6" type="bool">True</Setting>
+      <Setting id="OldTownLevel_7" type="bool">True</Setting>
+      <Setting id="OldTownLevel_7_5" type="bool">True</Setting>
+      <Setting id="OldTownLevel_8" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_Cutscene" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_1" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_2" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_3" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_4" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_5" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_6" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_7" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_8" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_9" type="bool">True</Setting>
+      <Setting id="PedroWorldLevel_1" type="bool">True</Setting>
+      <Setting id="PedroWorldLevel_2" type="bool">True</Setting>
+      <Setting id="PedroWorldLevel_3" type="bool">True</Setting>
+      <Setting id="PedroWorldLevel_4" type="bool">True</Setting>
+      <Setting id="PedroWorldLevel_CutScene" type="bool">True</Setting>
+      <Setting id="SewerLevel_CutScene" type="bool">False</Setting>
+      <Setting id="SewerLevel_1" type="bool">True</Setting>
+      <Setting id="SewerLevel_2" type="bool">True</Setting>
+      <Setting id="SewerLevel_3" type="bool">True</Setting>
+      <Setting id="SewerLevel_4" type="bool">True</Setting>
+      <Setting id="SewerLevel_5" type="bool">True</Setting>
+      <Setting id="SewerLevel_6" type="bool">True</Setting>
+      <Setting id="SewerLevel_7" type="bool">True</Setting>
+      <Setting id="SewerLevel_8" type="bool">True</Setting>
+      <Setting id="SewerLevel_9" type="bool">True</Setting>
+      <Setting id="SewerLevel_CutScene2" type="bool">False</Setting>
+      <Setting id="SewerLevel_10" type="bool">True</Setting>
+      <Setting id="InternetLevel_CutScene" type="bool">True</Setting>
+      <Setting id="InternetLevel_1" type="bool">True</Setting>
+      <Setting id="InternetLevel_2" type="bool">True</Setting>
+      <Setting id="InternetLevel_3" type="bool">True</Setting>
+      <Setting id="InternetLevel_4" type="bool">True</Setting>
+      <Setting id="InternetLevel_5" type="bool">True</Setting>
+      <Setting id="InternetLevel_6" type="bool">True</Setting>
+      <Setting id="InternetLevel_7" type="bool">True</Setting>
+      <Setting id="InternetLevel_8" type="bool">True</Setting>
+      <Setting id="InternetLevel_CutScene2" type="bool">True</Setting>
+      <Setting id="PedroBossFightLevel" type="bool">True</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>

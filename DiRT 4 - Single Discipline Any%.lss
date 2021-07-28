@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>DiRT 4</GameName>
+  <CategoryName>Single Discipline Any%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables>
+      <Variable name="Discipline Any%">Rally</Variable>
+    </Variables>
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>15</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="07/19/2021 11:41:53" isStartedSynced="True" ended="07/19/2021 13:29:25" isEndedSynced="True">
+      <PauseTime>00:07:35.9900000</PauseTime>
+    </Attempt>
+    <Attempt id="2" started="07/19/2021 15:28:30" isStartedSynced="True" ended="07/19/2021 15:32:14" isEndedSynced="True">
+      <PauseTime>00:00:42.9120000</PauseTime>
+    </Attempt>
+    <Attempt id="3" started="07/19/2021 15:34:29" isStartedSynced="True" ended="07/19/2021 15:57:30" isEndedSynced="True">
+      <PauseTime>00:03:03.5270000</PauseTime>
+    </Attempt>
+    <Attempt id="4" started="07/19/2021 16:23:01" isStartedSynced="True" ended="07/19/2021 17:19:39" isEndedSynced="True">
+      <PauseTime>00:04:31.9460000</PauseTime>
+    </Attempt>
+    <Attempt id="5" started="07/23/2021 18:27:17" isStartedSynced="True" ended="07/23/2021 18:39:24" isEndedSynced="True">
+      <PauseTime>00:12:06.5190000</PauseTime>
+    </Attempt>
+    <Attempt id="6" started="07/23/2021 20:07:51" isStartedSynced="False" ended="07/23/2021 20:28:42" isEndedSynced="True">
+      <PauseTime>00:12:37.4250000</PauseTime>
+    </Attempt>
+    <Attempt id="7" started="07/23/2021 21:10:55" isStartedSynced="True" ended="07/23/2021 21:43:31" isEndedSynced="True">
+      <PauseTime>00:02:00.8090000</PauseTime>
+    </Attempt>
+    <Attempt id="8" started="07/24/2021 11:29:18" isStartedSynced="True" ended="07/24/2021 11:29:26" isEndedSynced="True">
+      <PauseTime>00:00:07.6700000</PauseTime>
+    </Attempt>
+    <Attempt id="9" started="07/24/2021 11:34:38" isStartedSynced="True" ended="07/24/2021 11:35:29" isEndedSynced="True">
+      <PauseTime>00:00:12.7820000</PauseTime>
+    </Attempt>
+    <Attempt id="10" started="07/24/2021 17:54:39" isStartedSynced="True" ended="07/24/2021 18:13:41" isEndedSynced="True">
+      <PauseTime>00:07:29.2160000</PauseTime>
+    </Attempt>
+    <Attempt id="11" started="07/25/2021 17:48:01" isStartedSynced="True" ended="07/25/2021 19:00:04" isEndedSynced="True">
+      <PauseTime>00:20:04.9480000</PauseTime>
+    </Attempt>
+    <Attempt id="12" started="07/28/2021 08:21:55" isStartedSynced="True" ended="07/28/2021 08:53:38" isEndedSynced="True" />
+    <Attempt id="13" started="07/28/2021 08:57:05" isStartedSynced="True" ended="07/28/2021 14:33:18" isEndedSynced="True">
+      <RealTime>05:36:13.1010000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>National Clubman</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:02.5910000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:02.5910000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:03:02.5910000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>National Rally B</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:30.5500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:27.9590000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:05:27.9590000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>National Rally A</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:26.8620000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:56.3120000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:11:56.3120000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Australian Challenge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:34:08.5650000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:13:41.7030000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:13:41.7030000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Contemporary Open</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:00:44.1950000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:26:35.6300000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:26:35.6300000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>'90 International</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:28:55.8050000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:28:11.6100000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:28:11.6100000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>USA Trophy  R-3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:42:13.2750000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:13:17.4700000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:13:17.4700000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Winter Stages</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:18:41.6690000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:36:28.3940000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:36:28.3940000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Noughtues Cup</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:58:22.8820000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:39:41.2130000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:39:41.2130000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Euro Loose R-2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:36:51.7680000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:38:28.8860000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:38:28.8860000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Intercontinental Series Skip 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:28:41.6210000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:51:49.8530000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:51:49.8530000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Global Rally Series Skip 3,4,5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:36:13.1010000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>01:07:31.4800000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>01:07:31.4800000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>My Friend Pedro</GameName>
+  <CategoryName>No Hit Run%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables>
+      <Variable name="Any% Platform">
+      </Variable>
+    </Variables>
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>84</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="01/15/2021 19:10:26" isStartedSynced="True" ended="01/15/2021 19:10:39" isEndedSynced="True" />
+    <Attempt id="2" started="01/15/2021 19:10:39" isStartedSynced="True" ended="01/15/2021 19:10:43" isEndedSynced="True" />
+    <Attempt id="3" started="01/15/2021 19:10:43" isStartedSynced="True" ended="01/15/2021 19:11:11" isEndedSynced="True" />
+    <Attempt id="4" started="01/15/2021 19:12:26" isStartedSynced="True" ended="01/15/2021 19:13:02" isEndedSynced="True" />
+    <Attempt id="5" started="01/15/2021 19:13:11" isStartedSynced="True" ended="01/15/2021 19:13:14" isEndedSynced="True" />
+    <Attempt id="6" started="01/15/2021 19:13:26" isStartedSynced="True" ended="01/15/2021 19:15:43" isEndedSynced="True" />
+    <Attempt id="7" started="01/15/2021 19:16:15" isStartedSynced="True" ended="01/15/2021 19:25:31" isEndedSynced="True">
+      <PauseTime>00:00:04.7660000</PauseTime>
+    </Attempt>
+    <Attempt id="8" started="01/15/2021 19:28:27" isStartedSynced="True" ended="01/15/2021 19:28:28" isEndedSynced="True" />
+    <Attempt id="9" started="01/15/2021 19:31:12" isStartedSynced="True" ended="01/15/2021 19:36:19" isEndedSynced="True" />
+    <Attempt id="10" started="01/15/2021 19:36:33" isStartedSynced="True" ended="01/15/2021 19:46:22" isEndedSynced="True">
+      <PauseTime>00:00:03.0090000</PauseTime>
+    </Attempt>
+    <Attempt id="11" started="01/15/2021 19:49:04" isStartedSynced="True" ended="01/15/2021 19:49:11" isEndedSynced="True" />
+    <Attempt id="12" started="01/15/2021 19:49:12" isStartedSynced="True" ended="01/15/2021 19:49:31" isEndedSynced="True" />
+    <Attempt id="13" started="01/15/2021 19:49:35" isStartedSynced="True" ended="01/15/2021 19:50:12" isEndedSynced="True" />
+    <Attempt id="14" started="01/15/2021 19:50:32" isStartedSynced="True" ended="01/15/2021 19:50:36" isEndedSynced="True" />
+    <Attempt id="15" started="01/15/2021 19:50:41" isStartedSynced="True" ended="01/15/2021 19:50:45" isEndedSynced="True" />
+    <Attempt id="16" started="01/15/2021 19:50:49" isStartedSynced="True" ended="01/15/2021 19:50:57" isEndedSynced="True" />
+    <Attempt id="17" started="01/15/2021 19:51:01" isStartedSynced="True" ended="01/15/2021 19:52:56" isEndedSynced="True" />
+    <Attempt id="18" started="01/15/2021 19:52:59" isStartedSynced="True" ended="01/15/2021 20:03:11" isEndedSynced="True" />
+    <Attempt id="19" started="01/15/2021 20:03:52" isStartedSynced="True" ended="01/15/2021 20:05:39" isEndedSynced="True" />
+    <Attempt id="20" started="01/15/2021 20:05:51" isStartedSynced="True" ended="01/15/2021 20:11:20" isEndedSynced="True" />
+    <Attempt id="21" started="01/15/2021 20:11:48" isStartedSynced="True" ended="01/15/2021 20:17:23" isEndedSynced="True" />
+    <Attempt id="22" started="01/15/2021 21:12:47" isStartedSynced="True" ended="01/15/2021 21:14:04" isEndedSynced="True" />
+    <Attempt id="23" started="01/15/2021 21:14:08" isStartedSynced="True" ended="01/15/2021 21:18:31" isEndedSynced="True" />
+    <Attempt id="24" started="01/15/2021 21:18:47" isStartedSynced="True" ended="01/15/2021 21:18:48" isEndedSynced="True" />
+    <Attempt id="25" started="01/15/2021 21:19:04" isStartedSynced="True" ended="01/15/2021 21:25:19" isEndedSynced="True" />
+    <Attempt id="26" started="01/15/2021 21:26:05" isStartedSynced="True" ended="01/15/2021 21:27:29" isEndedSynced="True" />
+    <Attempt id="27" started="01/15/2021 21:27:41" isStartedSynced="True" ended="01/15/2021 21:31:38" isEndedSynced="True" />
+    <Attempt id="28" started="01/15/2021 21:32:08" isStartedSynced="True" ended="01/15/2021 21:32:22" isEndedSynced="True" />
+    <Attempt id="29" started="01/15/2021 21:32:56" isStartedSynced="True" ended="01/15/2021 21:33:02" isEndedSynced="True" />
+    <Attempt id="30" started="01/15/2021 21:33:02" isStartedSynced="True" ended="01/15/2021 21:37:47" isEndedSynced="True" />
+    <Attempt id="31" started="01/15/2021 21:57:51" isStartedSynced="True" ended="01/15/2021 21:59:51" isEndedSynced="True" />
+    <Attempt id="32" started="01/15/2021 22:04:02" isStartedSynced="True" ended="01/15/2021 22:04:25" isEndedSynced="True" />
+    <Attempt id="33" started="01/15/2021 22:04:34" isStartedSynced="True" ended="01/15/2021 22:05:22" isEndedSynced="True" />
+    <Attempt id="34" started="01/15/2021 22:05:26" isStartedSynced="True" ended="01/15/2021 22:56:10" isEndedSynced="True">
+      <RealTime>00:49:15.7340000</RealTime>
+      <PauseTime>00:04:58.7560000</PauseTime>
+    </Attempt>
+    <Attempt id="35" started="01/15/2021 23:19:28" isStartedSynced="True" ended="01/15/2021 23:19:29" isEndedSynced="True" />
+    <Attempt id="36" started="01/15/2021 23:19:30" isStartedSynced="True" ended="01/15/2021 23:19:33" isEndedSynced="True" />
+    <Attempt id="37" started="01/15/2021 23:22:02" isStartedSynced="True" ended="01/15/2021 23:22:58" isEndedSynced="True" />
+    <Attempt id="38" started="01/15/2021 23:23:20" isStartedSynced="True" ended="01/15/2021 23:28:59" isEndedSynced="True" />
+    <Attempt id="39" started="01/15/2021 23:30:57" isStartedSynced="True" ended="01/16/2021 00:10:24" isEndedSynced="True">
+      <RealTime>00:39:27.5050000</RealTime>
+    </Attempt>
+    <Attempt id="40" started="01/16/2021 00:22:19" isStartedSynced="True" ended="01/16/2021 00:28:32" isEndedSynced="True" />
+    <Attempt id="41" started="01/16/2021 00:28:58" isStartedSynced="True" ended="01/16/2021 00:52:02" isEndedSynced="True" />
+    <Attempt id="42" started="01/16/2021 10:57:35" isStartedSynced="True" ended="01/16/2021 10:57:59" isEndedSynced="True" />
+    <Attempt id="43" started="01/16/2021 10:58:07" isStartedSynced="True" ended="01/16/2021 10:58:23" isEndedSynced="True" />
+    <Attempt id="44" started="01/16/2021 10:58:31" isStartedSynced="True" ended="01/16/2021 11:00:24" isEndedSynced="True" />
+    <Attempt id="45" started="01/16/2021 11:01:30" isStartedSynced="True" ended="01/16/2021 11:17:54" isEndedSynced="True" />
+    <Attempt id="46" started="01/16/2021 11:20:02" isStartedSynced="True" ended="01/16/2021 11:21:44" isEndedSynced="True">
+      <PauseTime>00:00:08.2600000</PauseTime>
+    </Attempt>
+    <Attempt id="47" started="01/16/2021 11:22:05" isStartedSynced="True" ended="01/16/2021 11:46:04" isEndedSynced="True" />
+    <Attempt id="48" started="01/16/2021 15:48:18" isStartedSynced="True" ended="01/16/2021 15:51:24" isEndedSynced="True" />
+    <Attempt id="49" started="01/16/2021 15:51:45" isStartedSynced="True" ended="01/16/2021 15:55:19" isEndedSynced="True" />
+    <Attempt id="50" started="01/16/2021 15:55:39" isStartedSynced="True" ended="01/16/2021 16:28:17" isEndedSynced="True" />
+    <Attempt id="51" started="01/16/2021 18:48:17" isStartedSynced="True" ended="01/16/2021 18:48:47" isEndedSynced="True" />
+    <Attempt id="52" started="01/16/2021 18:48:49" isStartedSynced="True" ended="01/16/2021 19:00:18" isEndedSynced="True">
+      <PauseTime>00:00:01.4480000</PauseTime>
+    </Attempt>
+    <Attempt id="53" started="01/16/2021 19:00:34" isStartedSynced="True" ended="01/16/2021 19:00:50" isEndedSynced="True" />
+    <Attempt id="54" started="01/16/2021 19:02:01" isStartedSynced="True" ended="01/16/2021 19:34:17" isEndedSynced="True">
+      <PauseTime>00:00:00.3670000</PauseTime>
+    </Attempt>
+    <Attempt id="55" started="01/18/2021 18:12:07" isStartedSynced="True" ended="01/18/2021 18:12:19" isEndedSynced="True" />
+    <Attempt id="56" started="01/18/2021 18:12:29" isStartedSynced="True" ended="01/18/2021 18:16:01" isEndedSynced="True" />
+    <Attempt id="57" started="01/18/2021 18:16:24" isStartedSynced="True" ended="01/18/2021 19:01:33" isEndedSynced="True">
+      <RealTime>00:45:08.5720000</RealTime>
+    </Attempt>
+    <Attempt id="58" started="01/18/2021 20:36:46" isStartedSynced="True" ended="01/18/2021 20:37:37" isEndedSynced="True" />
+    <Attempt id="59" started="01/18/2021 20:39:11" isStartedSynced="True" ended="01/18/2021 21:07:10" isEndedSynced="True" />
+    <Attempt id="60" started="01/18/2021 21:07:28" isStartedSynced="True" ended="01/18/2021 21:09:20" isEndedSynced="True" />
+    <Attempt id="61" started="01/18/2021 21:09:36" isStartedSynced="True" ended="01/18/2021 21:10:27" isEndedSynced="True" />
+    <Attempt id="62" started="01/18/2021 21:10:46" isStartedSynced="True" ended="01/18/2021 21:53:00" isEndedSynced="True">
+      <RealTime>00:42:14.6480000</RealTime>
+    </Attempt>
+    <Attempt id="63" started="01/18/2021 21:54:10" isStartedSynced="True" ended="01/18/2021 21:54:11" isEndedSynced="True" />
+    <Attempt id="64" started="01/19/2021 11:06:49" isStartedSynced="True" ended="01/19/2021 11:44:45" isEndedSynced="True">
+      <RealTime>00:37:56.5250000</RealTime>
+    </Attempt>
+    <Attempt id="65" started="01/25/2021 13:05:18" isStartedSynced="True" ended="01/25/2021 13:41:51" isEndedSynced="True">
+      <RealTime>00:36:32.9080000</RealTime>
+      <GameTime>00:06:06.9420000</GameTime>
+    </Attempt>
+    <Attempt id="66" started="01/25/2021 13:42:06" isStartedSynced="True" ended="01/25/2021 13:42:07" isEndedSynced="True" />
+    <Attempt id="67" started="01/25/2021 19:13:44" isStartedSynced="True" ended="01/25/2021 19:18:02" isEndedSynced="True" />
+    <Attempt id="68" started="01/25/2021 19:18:22" isStartedSynced="True" ended="01/25/2021 19:20:17" isEndedSynced="True" />
+    <Attempt id="69" started="01/25/2021 19:20:22" isStartedSynced="True" ended="01/25/2021 19:21:40" isEndedSynced="True" />
+    <Attempt id="70" started="01/25/2021 19:21:52" isStartedSynced="True" ended="01/25/2021 19:26:25" isEndedSynced="True" />
+    <Attempt id="71" started="01/26/2021 19:18:23" isStartedSynced="True" ended="01/26/2021 19:18:38" isEndedSynced="True" />
+    <Attempt id="72" started="01/26/2021 19:18:42" isStartedSynced="True" ended="01/26/2021 19:21:49" isEndedSynced="True" />
+    <Attempt id="73" started="01/26/2021 19:21:49" isStartedSynced="True" ended="01/26/2021 19:21:52" isEndedSynced="True" />
+    <Attempt id="74" started="01/26/2021 19:22:00" isStartedSynced="True" ended="01/26/2021 19:23:59" isEndedSynced="True" />
+    <Attempt id="75" started="01/26/2021 19:23:59" isStartedSynced="True" ended="01/26/2021 19:24:03" isEndedSynced="True" />
+    <Attempt id="76" started="01/26/2021 19:24:03" isStartedSynced="True" ended="01/26/2021 19:24:07" isEndedSynced="True" />
+    <Attempt id="77" started="01/26/2021 19:24:14" isStartedSynced="True" ended="01/26/2021 19:43:20" isEndedSynced="True" />
+    <Attempt id="78" started="01/26/2021 19:44:14" isStartedSynced="True" ended="01/26/2021 19:53:48" isEndedSynced="True" />
+    <Attempt id="79" started="01/26/2021 19:54:02" isStartedSynced="True" ended="01/26/2021 19:57:06" isEndedSynced="True" />
+    <Attempt id="80" started="01/26/2021 19:57:06" isStartedSynced="True" ended="01/26/2021 19:57:08" isEndedSynced="True" />
+    <Attempt id="81" started="01/26/2021 19:57:20" isStartedSynced="True" ended="01/26/2021 20:13:13" isEndedSynced="True" />
+    <Attempt id="82" started="01/26/2021 20:13:38" isStartedSynced="True" ended="01/26/2021 20:17:58" isEndedSynced="True" />
+    <Attempt id="83" started="01/26/2021 20:18:02" isStartedSynced="True" ended="01/26/2021 20:24:22" isEndedSynced="True" />
+    <Attempt id="84" started="01/26/2021 20:24:43" isStartedSynced="True" ended="01/26/2021 20:29:06" isEndedSynced="True" />
+    <Attempt id="85" started="01/26/2021 20:29:10" isStartedSynced="True" ended="01/26/2021 20:33:43" isEndedSynced="True" />
+    <Attempt id="86" started="01/26/2021 20:33:50" isStartedSynced="True" ended="01/26/2021 20:48:24" isEndedSynced="True" />
+    <Attempt id="87" started="01/26/2021 20:48:30" isStartedSynced="True" ended="01/26/2021 20:53:58" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>The Sewer 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:36:32.9080000</RealTime>
+          <GameTime>00:02:40.9000000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:53.3480000</RealTime>
+        <GameTime>00:02:40.9000000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="57">
+          <RealTime>00:45:08.5720000</RealTime>
+        </Time>
+        <Time id="62">
+          <RealTime>00:42:14.6480000</RealTime>
+        </Time>
+        <Time id="64">
+          <RealTime>00:37:56.5250000</RealTime>
+        </Time>
+        <Time id="65">
+          <RealTime>00:36:32.9080000</RealTime>
+          <GameTime>00:06:06.9420000</GameTime>
+        </Time>
+        <Time id="77">
+          <RealTime>00:02:53.3480000</RealTime>
+          <GameTime>00:02:40.9030000</GameTime>
+        </Time>
+        <Time id="78">
+          <RealTime>00:02:56.8540000</RealTime>
+          <GameTime>00:02:45.6450000</GameTime>
+        </Time>
+        <Time id="81">
+          <RealTime>00:03:18.6930000</RealTime>
+          <GameTime>00:03:06.8770000</GameTime>
+        </Time>
+        <Time id="82">
+          <RealTime>00:03:13.2170000</RealTime>
+          <GameTime>00:02:58.7810000</GameTime>
+        </Time>
+        <Time id="83">
+          <RealTime>00:03:04.6740000</RealTime>
+          <GameTime>00:02:53.0140000</GameTime>
+        </Time>
+        <Time id="84">
+          <RealTime>00:03:39.1480000</RealTime>
+          <GameTime>00:03:23.6320000</GameTime>
+        </Time>
+        <Time id="85">
+          <RealTime>00:03:06.0320000</RealTime>
+          <GameTime>00:02:54.7270000</GameTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:03:48.2740000</RealTime>
+          <GameTime>00:03:35.9550000</GameTime>
+        </Time>
+        <Time id="87">
+          <RealTime>00:03:14.7140000</RealTime>
+          <GameTime>00:03:03.0890000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Sewer 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <GameTime>00:05:07.1700000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:36.0020000</RealTime>
+        <GameTime>00:02:26.2700000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="86">
+          <RealTime>00:02:36.0020000</RealTime>
+          <GameTime>00:02:26.2780000</GameTime>
+        </Time>
+        <Time id="83">
+          <RealTime>00:02:38.8590000</RealTime>
+          <GameTime>00:02:28.2160000</GameTime>
+        </Time>
+        <Time id="81">
+          <RealTime>00:02:53.3600000</RealTime>
+          <GameTime>00:02:39.8560000</GameTime>
+        </Time>
+        <Time id="78">
+          <RealTime>00:02:58.5870000</RealTime>
+          <GameTime>00:02:44.4270000</GameTime>
+        </Time>
+        <Time id="77">
+          <RealTime>00:02:48.4370000</RealTime>
+          <GameTime>00:02:39.1680000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Sewer 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <GameTime>00:07:43.7500000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:45.0790000</RealTime>
+        <GameTime>00:02:36.5800000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="86">
+          <RealTime>00:03:03.0750000</RealTime>
+          <GameTime>00:02:40.6580000</GameTime>
+        </Time>
+        <Time id="81">
+          <RealTime>00:02:45.0790000</RealTime>
+          <GameTime>00:02:36.5870000</GameTime>
+        </Time>
+        <Time id="78">
+          <RealTime>00:02:56.3580000</RealTime>
+          <GameTime>00:02:47.2950000</GameTime>
+        </Time>
+        <Time id="77">
+          <RealTime>00:03:06.1560000</RealTime>
+          <GameTime>00:02:57.1480000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Sewer 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <GameTime>00:13:42</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:13.8270000</RealTime>
+        <GameTime>00:05:58.2500000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="81">
+          <RealTime>00:06:13.8270000</RealTime>
+          <GameTime>00:05:58.2500000</GameTime>
+        </Time>
+        <Time id="77">
+          <RealTime>00:06:24.4400000</RealTime>
+          <GameTime>00:06:14.1050000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Sewer 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <GameTime>00:16:46.6000000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:23.0900000</RealTime>
+        <GameTime>00:03:04.6000000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="77">
+          <RealTime>00:03:23.0900000</RealTime>
+          <GameTime>00:03:04.6040000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Sewer 6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Sewer 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Sewer 8</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Sewer 9</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Sewer 10</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>E:\Speedrun\LiveSplit\Components\MyFriendPedro.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>True</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="StartGroup" type="bool">True</Setting>
+      <Setting id="TutorialLevel_start" type="bool">False</Setting>
+      <Setting id="OldTownLevel_start" type="bool">False</Setting>
+      <Setting id="DistrictNullLevel_start" type="bool">False</Setting>
+      <Setting id="PedroWorldLevel_start" type="bool">False</Setting>
+      <Setting id="SewerLevel_start" type="bool">True</Setting>
+      <Setting id="InternetLevel_start" type="bool">False</Setting>
+      <Setting id="PedroBossFightLevel_start" type="bool">False</Setting>
+      <Setting id="level_splits" type="bool">True</Setting>
+      <Setting id="TutorialLevel_1" type="bool">True</Setting>
+      <Setting id="TutorialLevel_2" type="bool">True</Setting>
+      <Setting id="TutorialLevel_3" type="bool">True</Setting>
+      <Setting id="OldTownLevel_1" type="bool">True</Setting>
+      <Setting id="OldTownLevel_2" type="bool">True</Setting>
+      <Setting id="OldTownLevel_3" type="bool">True</Setting>
+      <Setting id="OldTownLevel_4" type="bool">True</Setting>
+      <Setting id="OldTownLevel_5" type="bool">True</Setting>
+      <Setting id="OldTownLevel_6" type="bool">True</Setting>
+      <Setting id="OldTownLevel_7" type="bool">True</Setting>
+      <Setting id="OldTownLevel_7_5" type="bool">True</Setting>
+      <Setting id="OldTownLevel_8" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_Cutscene" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_1" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_2" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_3" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_4" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_5" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_6" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_7" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_8" type="bool">True</Setting>
+      <Setting id="DistrictNullLevel_9" type="bool">True</Setting>
+      <Setting id="PedroWorldLevel_1" type="bool">True</Setting>
+      <Setting id="PedroWorldLevel_2" type="bool">True</Setting>
+      <Setting id="PedroWorldLevel_3" type="bool">True</Setting>
+      <Setting id="PedroWorldLevel_4" type="bool">True</Setting>
+      <Setting id="PedroWorldLevel_CutScene" type="bool">True</Setting>
+      <Setting id="SewerLevel_CutScene" type="bool">False</Setting>
+      <Setting id="SewerLevel_1" type="bool">True</Setting>
+      <Setting id="SewerLevel_2" type="bool">True</Setting>
+      <Setting id="SewerLevel_3" type="bool">True</Setting>
+      <Setting id="SewerLevel_4" type="bool">True</Setting>
+      <Setting id="SewerLevel_5" type="bool">True</Setting>
+      <Setting id="SewerLevel_6" type="bool">True</Setting>
+      <Setting id="SewerLevel_7" type="bool">True</Setting>
+      <Setting id="SewerLevel_8" type="bool">True</Setting>
+      <Setting id="SewerLevel_9" type="bool">True</Setting>
+      <Setting id="SewerLevel_CutScene2" type="bool">False</Setting>
+      <Setting id="SewerLevel_10" type="bool">True</Setting>
+      <Setting id="InternetLevel_CutScene" type="bool">True</Setting>
+      <Setting id="InternetLevel_1" type="bool">True</Setting>
+      <Setting id="InternetLevel_2" type="bool">True</Setting>
+      <Setting id="InternetLevel_3" type="bool">True</Setting>
+      <Setting id="InternetLevel_4" type="bool">True</Setting>
+      <Setting id="InternetLevel_5" type="bool">True</Setting>
+      <Setting id="InternetLevel_6" type="bool">True</Setting>
+      <Setting id="InternetLevel_7" type="bool">True</Setting>
+      <Setting id="InternetLevel_8" type="bool">True</Setting>
+      <Setting id="InternetLevel_CutScene2" type="bool">True</Setting>
+      <Setting id="PedroBossFightLevel" type="bool">True</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>
