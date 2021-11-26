@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Sniper Elite: Nazi Zombie Army 2</GameName>
+  <CategoryName>Purgatory</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>3</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="09/28/2021 18:06:45" isStartedSynced="True" ended="09/28/2021 18:17:45" isEndedSynced="True">
+      <RealTime>00:10:59.7580000</RealTime>
+    </Attempt>
+    <Attempt id="2" started="09/28/2021 18:19:33" isStartedSynced="True" ended="09/28/2021 18:30:48" isEndedSynced="True">
+      <RealTime>00:11:14.7160000</RealTime>
+    </Attempt>
+    <Attempt id="3" started="09/30/2021 16:37:58" isStartedSynced="True" ended="09/30/2021 16:48:45" isEndedSynced="True">
+      <RealTime>00:10:47.0490000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Purgatory</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:43.8800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:43.8800000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:11:00</RealTime>
+        </Time>
+        <Time id="1">
+          <RealTime>00:10:59.7580000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:11:14.7160000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:10:47.0490000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
