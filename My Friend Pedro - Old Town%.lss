@@ -12,7 +12,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>105</AttemptCount>
+  <AttemptCount>120</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="11/19/2021 18:04:31" isStartedSynced="True" ended="11/19/2021 18:04:55" isEndedSynced="True" />
     <Attempt id="2" started="11/19/2021 18:04:56" isStartedSynced="True" ended="11/19/2021 18:15:59" isEndedSynced="True">
@@ -162,6 +162,30 @@
       <RealTime>00:10:37.8140000</RealTime>
       <GameTime>00:09:07.5540000</GameTime>
     </Attempt>
+    <Attempt id="104" started="11/27/2021 12:24:31" isStartedSynced="True" ended="11/27/2021 12:35:12" isEndedSynced="True">
+      <RealTime>00:10:41.0240000</RealTime>
+      <GameTime>00:09:17.5910000</GameTime>
+    </Attempt>
+    <Attempt id="105" started="11/27/2021 12:35:47" isStartedSynced="True" ended="11/27/2021 12:36:29" isEndedSynced="True" />
+    <Attempt id="106" started="11/27/2021 12:36:29" isStartedSynced="True" ended="11/27/2021 12:36:47" isEndedSynced="True" />
+    <Attempt id="107" started="11/27/2021 12:36:47" isStartedSynced="True" ended="11/27/2021 12:36:57" isEndedSynced="True" />
+    <Attempt id="108" started="11/27/2021 12:36:57" isStartedSynced="True" ended="11/27/2021 12:43:55" isEndedSynced="True" />
+    <Attempt id="109" started="11/27/2021 12:44:56" isStartedSynced="True" ended="11/27/2021 12:45:12" isEndedSynced="True" />
+    <Attempt id="110" started="11/27/2021 12:45:12" isStartedSynced="True" ended="11/27/2021 12:55:57" isEndedSynced="True">
+      <RealTime>00:10:44.5410000</RealTime>
+      <GameTime>00:09:30.2070000</GameTime>
+    </Attempt>
+    <Attempt id="111" started="11/27/2021 12:56:59" isStartedSynced="True" ended="11/27/2021 12:57:23" isEndedSynced="True" />
+    <Attempt id="112" started="11/27/2021 12:57:23" isStartedSynced="True" ended="11/27/2021 13:02:42" isEndedSynced="True" />
+    <Attempt id="113" started="11/27/2021 13:05:09" isStartedSynced="True" ended="11/27/2021 13:05:33" isEndedSynced="True" />
+    <Attempt id="114" started="11/27/2021 13:05:33" isStartedSynced="True" ended="11/27/2021 13:05:55" isEndedSynced="True" />
+    <Attempt id="115" started="11/27/2021 13:05:55" isStartedSynced="True" ended="11/27/2021 13:06:03" isEndedSynced="True" />
+    <Attempt id="116" started="11/27/2021 13:06:03" isStartedSynced="True" ended="11/27/2021 13:06:27" isEndedSynced="True" />
+    <Attempt id="117" started="11/27/2021 13:06:27" isStartedSynced="True" ended="11/27/2021 13:07:00" isEndedSynced="True" />
+    <Attempt id="118" started="11/27/2021 13:07:00" isStartedSynced="True" ended="11/27/2021 13:17:30" isEndedSynced="True">
+      <RealTime>00:10:30.1650000</RealTime>
+      <GameTime>00:09:01.0010000</GameTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -169,13 +193,13 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:02:59.4700000</RealTime>
-          <GameTime>00:00:49.0460000</GameTime>
+          <RealTime>00:00:57.9820000</RealTime>
+          <GameTime>00:00:49.2570000</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:55.1150000</RealTime>
-        <GameTime>00:00:47.2190000</GameTime>
+        <GameTime>00:00:47.0010000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="2">
@@ -282,6 +306,26 @@
           <RealTime>00:00:56.5280000</RealTime>
           <GameTime>00:00:47.2190000</GameTime>
         </Time>
+        <Time id="104">
+          <RealTime>00:01:01.4020000</RealTime>
+          <GameTime>00:00:49.6290000</GameTime>
+        </Time>
+        <Time id="108">
+          <RealTime>00:00:56.3870000</RealTime>
+          <GameTime>00:00:47.0500000</GameTime>
+        </Time>
+        <Time id="110">
+          <RealTime>00:00:55.8660000</RealTime>
+          <GameTime>00:00:47.0010000</GameTime>
+        </Time>
+        <Time id="112">
+          <RealTime>00:01:00.8950000</RealTime>
+          <GameTime>00:00:49.7400000</GameTime>
+        </Time>
+        <Time id="118">
+          <RealTime>00:00:57.9820000</RealTime>
+          <GameTime>00:00:49.2570000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -289,8 +333,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:04:00.4330000</RealTime>
-          <GameTime>00:01:41.2060000</GameTime>
+          <RealTime>00:01:59.0600000</RealTime>
+          <GameTime>00:01:41.9580000</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -394,6 +438,26 @@
           <RealTime>00:01:06.4110000</RealTime>
           <GameTime>00:00:54.3730000</GameTime>
         </Time>
+        <Time id="104">
+          <RealTime>00:01:03.5340000</RealTime>
+          <GameTime>00:00:54.7590000</GameTime>
+        </Time>
+        <Time id="108">
+          <RealTime>00:01:07.5920000</RealTime>
+          <GameTime>00:00:56.7350000</GameTime>
+        </Time>
+        <Time id="110">
+          <RealTime>00:01:02.1740000</RealTime>
+          <GameTime>00:00:53.8750000</GameTime>
+        </Time>
+        <Time id="112">
+          <RealTime>00:01:04.2460000</RealTime>
+          <GameTime>00:00:53.6630000</GameTime>
+        </Time>
+        <Time id="118">
+          <RealTime>00:01:01.0780000</RealTime>
+          <GameTime>00:00:52.7010000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -401,8 +465,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:05:42.4490000</RealTime>
-          <GameTime>00:03:13.4700000</GameTime>
+          <RealTime>00:03:39.4970000</RealTime>
+          <GameTime>00:03:13.7420000</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -498,6 +562,26 @@
           <RealTime>00:01:39.0930000</RealTime>
           <GameTime>00:01:30.0510000</GameTime>
         </Time>
+        <Time id="104">
+          <RealTime>00:01:40.8270000</RealTime>
+          <GameTime>00:01:31.8650000</GameTime>
+        </Time>
+        <Time id="108">
+          <RealTime>00:01:42.1180000</RealTime>
+          <GameTime>00:01:31.2900000</GameTime>
+        </Time>
+        <Time id="110">
+          <RealTime>00:01:39.7770000</RealTime>
+          <GameTime>00:01:30.9030000</GameTime>
+        </Time>
+        <Time id="112">
+          <RealTime>00:01:42.0960000</RealTime>
+          <GameTime>00:01:32.5290000</GameTime>
+        </Time>
+        <Time id="118">
+          <RealTime>00:01:40.4370000</RealTime>
+          <GameTime>00:01:31.7840000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -505,8 +589,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:07:12.9900000</RealTime>
-          <GameTime>00:04:34.6940000</GameTime>
+          <RealTime>00:05:08.3700000</RealTime>
+          <GameTime>00:04:33.3400000</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -602,6 +686,22 @@
           <RealTime>00:01:29.5630000</RealTime>
           <GameTime>00:01:20.1170000</GameTime>
         </Time>
+        <Time id="104">
+          <RealTime>00:01:29.1090000</RealTime>
+          <GameTime>00:01:19.9530000</GameTime>
+        </Time>
+        <Time id="108">
+          <RealTime>00:01:31.2490000</RealTime>
+          <GameTime>00:01:21.9680000</GameTime>
+        </Time>
+        <Time id="110">
+          <RealTime>00:01:29.2390000</RealTime>
+          <GameTime>00:01:19.9900000</GameTime>
+        </Time>
+        <Time id="118">
+          <RealTime>00:01:28.8730000</RealTime>
+          <GameTime>00:01:19.5980000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -609,12 +709,12 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:08:07.7100000</RealTime>
-          <GameTime>00:05:17.8420000</GameTime>
+          <RealTime>00:05:59.5580000</RealTime>
+          <GameTime>00:05:15.2370000</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:51.2280000</RealTime>
+        <RealTime>00:00:51.1880000</RealTime>
         <GameTime>00:00:41.7670000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -694,6 +794,22 @@
           <RealTime>00:00:51.8300000</RealTime>
           <GameTime>00:00:42.1980000</GameTime>
         </Time>
+        <Time id="104">
+          <RealTime>00:01:07.5930000</RealTime>
+          <GameTime>00:00:52.7900000</GameTime>
+        </Time>
+        <Time id="108">
+          <RealTime>00:00:57.9990000</RealTime>
+          <GameTime>00:00:45.4800000</GameTime>
+        </Time>
+        <Time id="110">
+          <RealTime>00:00:59.7760000</RealTime>
+          <GameTime>00:00:48.1810000</GameTime>
+        </Time>
+        <Time id="118">
+          <RealTime>00:00:51.1880000</RealTime>
+          <GameTime>00:00:41.8970000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -701,13 +817,13 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:09:19.7300000</RealTime>
-          <GameTime>00:06:20.7130000</GameTime>
+          <RealTime>00:07:17.8130000</RealTime>
+          <GameTime>00:06:21.0850000</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:12.0200000</RealTime>
-        <GameTime>00:01:02.8600000</GameTime>
+        <RealTime>00:01:11.2980000</RealTime>
+        <GameTime>00:01:02.0070000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="2">
@@ -774,6 +890,18 @@
           <RealTime>00:01:20.9760000</RealTime>
           <GameTime>00:01:06.6250000</GameTime>
         </Time>
+        <Time id="104">
+          <RealTime>00:01:11.2980000</RealTime>
+          <GameTime>00:01:02.0070000</GameTime>
+        </Time>
+        <Time id="110">
+          <RealTime>00:01:11.6270000</RealTime>
+          <GameTime>00:01:02.8730000</GameTime>
+        </Time>
+        <Time id="118">
+          <RealTime>00:01:18.2550000</RealTime>
+          <GameTime>00:01:05.8480000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -781,13 +909,13 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:10:33.6540000</RealTime>
-          <GameTime>00:07:23.6850000</GameTime>
+          <RealTime>00:08:37.2480000</RealTime>
+          <GameTime>00:07:22.4640000</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:10.4670000</RealTime>
-        <GameTime>00:01:01.5570000</GameTime>
+        <RealTime>00:01:09.7610000</RealTime>
+        <GameTime>00:01:00.8230000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="2">
@@ -854,6 +982,18 @@
           <RealTime>00:01:17.9370000</RealTime>
           <GameTime>00:01:04.2640000</GameTime>
         </Time>
+        <Time id="104">
+          <RealTime>00:01:09.7610000</RealTime>
+          <GameTime>00:01:00.8230000</GameTime>
+        </Time>
+        <Time id="110">
+          <RealTime>00:01:11.7160000</RealTime>
+          <GameTime>00:01:02.6300000</GameTime>
+        </Time>
+        <Time id="118">
+          <RealTime>00:01:19.4350000</RealTime>
+          <GameTime>00:01:01.3790000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -861,8 +1001,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:10:51.5160000</RealTime>
-          <GameTime>00:07:37.0160000</GameTime>
+          <RealTime>00:08:54.7000000</RealTime>
+          <GameTime>00:07:35.5480000</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -934,6 +1074,18 @@
           <RealTime>00:00:17.5200000</RealTime>
           <GameTime>00:00:13.0150000</GameTime>
         </Time>
+        <Time id="104">
+          <RealTime>00:00:17.3340000</RealTime>
+          <GameTime>00:00:12.6540000</GameTime>
+        </Time>
+        <Time id="110">
+          <RealTime>00:00:17.7730000</RealTime>
+          <GameTime>00:00:13.2520000</GameTime>
+        </Time>
+        <Time id="118">
+          <RealTime>00:00:17.4520000</RealTime>
+          <GameTime>00:00:13.0840000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -941,13 +1093,13 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:12:32.6690000</RealTime>
-          <GameTime>00:09:07.1380000</GameTime>
+          <RealTime>00:10:30.1650000</RealTime>
+          <GameTime>00:09:01.0010000</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:01:32.1550000</RealTime>
-        <GameTime>00:01:27.4330000</GameTime>
+        <GameTime>00:01:25.4530000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="2">
@@ -1009,6 +1161,18 @@
         <Time id="103">
           <RealTime>00:01:37.9560000</RealTime>
           <GameTime>00:01:29.6920000</GameTime>
+        </Time>
+        <Time id="104">
+          <RealTime>00:01:40.1660000</RealTime>
+          <GameTime>00:01:33.1110000</GameTime>
+        </Time>
+        <Time id="110">
+          <RealTime>00:01:56.5930000</RealTime>
+          <GameTime>00:01:51.5020000</GameTime>
+        </Time>
+        <Time id="118">
+          <RealTime>00:01:35.4650000</RealTime>
+          <GameTime>00:01:25.4530000</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
