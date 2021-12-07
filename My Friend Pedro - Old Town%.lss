@@ -3,6 +3,8 @@
   <GameIcon />
   <GameName>My Friend Pedro</GameName>
   <CategoryName>Old Town%</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">
@@ -2629,7 +2631,7 @@
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:01:32.1550000</RealTime>
-        <GameTime>00:01:23.9350000</GameTime>
+        <GameTime>00:01:20.1000000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="2">
