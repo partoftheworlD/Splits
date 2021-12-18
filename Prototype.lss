@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>7</AttemptCount>
+  <AttemptCount>15</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="12/11/2021 13:27:03" isStartedSynced="False" ended="12/11/2021 13:27:12" isEndedSynced="True" />
     <Attempt id="2" started="12/11/2021 13:28:14" isStartedSynced="True" ended="12/11/2021 13:35:59" isEndedSynced="True" />
@@ -27,6 +27,14 @@
     <Attempt id="7" started="12/11/2021 18:27:41" isStartedSynced="True" ended="12/11/2021 18:48:37" isEndedSynced="True">
       <PauseTime>00:01:33.6420000</PauseTime>
     </Attempt>
+    <Attempt id="8" started="12/18/2021 10:33:09" isStartedSynced="True" ended="12/18/2021 10:41:08" isEndedSynced="True" />
+    <Attempt id="9" started="12/18/2021 13:29:01" isStartedSynced="True" ended="12/18/2021 13:29:03" isEndedSynced="True" />
+    <Attempt id="10" started="12/18/2021 13:29:06" isStartedSynced="True" ended="12/18/2021 13:29:10" isEndedSynced="True" />
+    <Attempt id="11" started="12/18/2021 13:29:14" isStartedSynced="True" ended="12/18/2021 13:29:15" isEndedSynced="True" />
+    <Attempt id="12" started="12/18/2021 13:29:15" isStartedSynced="True" ended="12/18/2021 13:29:16" isEndedSynced="True" />
+    <Attempt id="13" started="12/18/2021 13:29:16" isStartedSynced="True" ended="12/18/2021 13:29:16" isEndedSynced="True" />
+    <Attempt id="14" started="12/18/2021 13:29:17" isStartedSynced="True" ended="12/18/2021 13:29:17" isEndedSynced="True" />
+    <Attempt id="15" started="12/18/2021 13:30:16" isStartedSynced="True" ended="12/18/2021 15:15:08" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -39,7 +47,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:07:32.6680000</RealTime>
+        <RealTime>00:07:27.2380000</RealTime>
         <GameTime>00:02:54.9000000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -56,6 +64,13 @@
           <GameTime>00:03:10.7380000</GameTime>
         </Time>
         <Time id="7" />
+        <Time id="8">
+          <RealTime>00:07:27.8580000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:07:27.2380000</RealTime>
+          <GameTime>00:03:00.5120000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -68,8 +83,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:23.1450000</RealTime>
-        <GameTime>00:02:47.7190000</GameTime>
+        <RealTime>00:03:03.5330000</RealTime>
+        <GameTime>00:02:34.2550000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
@@ -81,6 +96,10 @@
           <GameTime>00:02:47.7190000</GameTime>
         </Time>
         <Time id="7" />
+        <Time id="15">
+          <RealTime>00:03:03.5330000</RealTime>
+          <GameTime>00:02:34.2550000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -93,8 +112,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:07:27.3300000</RealTime>
-        <GameTime>00:05:52.0900000</GameTime>
+        <RealTime>00:07:15.4010000</RealTime>
+        <GameTime>00:05:42.7190000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
@@ -106,6 +125,10 @@
           <GameTime>00:06:38.4730000</GameTime>
         </Time>
         <Time id="7" />
+        <Time id="15">
+          <RealTime>00:07:15.4010000</RealTime>
+          <GameTime>00:05:42.7190000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -119,12 +142,16 @@
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:07:25.7800000</RealTime>
-        <GameTime>00:07:25.0300000</GameTime>
+        <GameTime>00:06:25.0360000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="7">
           <RealTime>00:07:25.7880000</RealTime>
           <GameTime>00:19:02.6380000</GameTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:08:03.1440000</RealTime>
+          <GameTime>00:06:25.0360000</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -138,13 +165,17 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:07:24.1300000</RealTime>
-        <GameTime>00:06:10.3800000</GameTime>
+        <RealTime>00:06:45.4490000</RealTime>
+        <GameTime>00:05:15.7210000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="7">
           <RealTime>00:07:24.1320000</RealTime>
           <GameTime>00:06:10.3880000</GameTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:06:45.4490000</RealTime>
+          <GameTime>00:05:15.7210000</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -152,100 +183,210 @@
       <Name>Open Conspiracy</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:41:26.3000000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:08:05.0300000</RealTime>
+        <GameTime>00:06:36.8100000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:08:05.0320000</RealTime>
+          <GameTime>00:06:36.8100000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>In the Web</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:46:44.6200000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:05:18.3200000</RealTime>
+        <GameTime>00:03:29.3110000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:05:18.3260000</RealTime>
+          <GameTime>00:03:29.3110000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>The Altered World</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:51:24.7400000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:04:40.1200000</RealTime>
+        <GameTime>00:03:07.1180000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:04:40.1280000</RealTime>
+          <GameTime>00:03:07.1180000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Errand Boy</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:55:45.8700000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:04:21.1300000</RealTime>
+        <GameTime>00:03:03.2670000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:04:21.1310000</RealTime>
+          <GameTime>00:03:03.2670000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Confessions</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:56:59.3600000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:01:13.4900000</RealTime>
+        <GameTime>00:00:28.7300000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:01:13.4960000</RealTime>
+          <GameTime>00:00:28.7300000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Under the Knife</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:05:28.6700000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:08:29.3100000</RealTime>
+        <GameTime>00:07:24.9750000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:08:29.3190000</RealTime>
+          <GameTime>00:07:24.9750000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>The Stolen Body</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:16:12.3200000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:10:43.6500000</RealTime>
+        <GameTime>00:09:14.1170000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:10:43.6560000</RealTime>
+          <GameTime>00:09:14.1170000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Biological Imperative</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:21:30.4400000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:05:18.1200000</RealTime>
+        <GameTime>00:04:44.9710000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:05:18.1250000</RealTime>
+          <GameTime>00:04:44.9710000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>The Door in the Wall</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:29:20.4000000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:07:49.9600000</RealTime>
+        <GameTime>00:05:44.0890000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:07:49.9640000</RealTime>
+          <GameTime>00:05:44.0890000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>First and Last Things</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:38:10.8000000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:08:50.4000000</RealTime>
+        <GameTime>00:06:55.1930000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:08:50.4080000</RealTime>
+          <GameTime>00:06:55.1930000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>The First Monster</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:44:53.5600000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:06:42.7600000</RealTime>
+        <GameTime>00:05:21.4450000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:06:42.7650000</RealTime>
+          <GameTime>00:05:21.4450000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Making the Future</Name>
