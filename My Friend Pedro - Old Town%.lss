@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>408</AttemptCount>
+  <AttemptCount>411</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="11/19/2021 18:04:31" isStartedSynced="True" ended="11/19/2021 18:04:55" isEndedSynced="True" />
     <Attempt id="2" started="11/19/2021 18:04:56" isStartedSynced="True" ended="11/19/2021 18:15:59" isEndedSynced="True">
@@ -554,6 +554,9 @@
     <Attempt id="404" started="11/29/2021 21:18:11" isStartedSynced="True" ended="11/29/2021 21:18:32" isEndedSynced="True" />
     <Attempt id="405" started="11/29/2021 21:18:32" isStartedSynced="True" ended="11/29/2021 21:18:54" isEndedSynced="True" />
     <Attempt id="406" started="11/29/2021 21:18:54" isStartedSynced="True" ended="11/29/2021 21:28:58" isEndedSynced="True" />
+    <Attempt id="407" started="02/26/2022 13:37:39" isStartedSynced="False" ended="02/26/2022 13:53:42" isEndedSynced="True" />
+    <Attempt id="408" started="02/26/2022 14:31:45" isStartedSynced="False" ended="02/26/2022 14:33:08" isEndedSynced="True" />
+    <Attempt id="409" started="02/26/2022 14:33:36" isStartedSynced="True" ended="02/26/2022 14:35:00" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -566,7 +569,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:54.3760000</RealTime>
+        <RealTime>00:00:09.7790000</RealTime>
         <GameTime>00:00:45.9900000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -937,6 +940,14 @@
         <Time id="406">
           <RealTime>00:00:58.3100000</RealTime>
           <GameTime>00:00:48.1270000</GameTime>
+        </Time>
+        <Time id="408">
+          <RealTime>00:00:09.7790000</RealTime>
+          <GameTime>00:00:55.6410000</GameTime>
+        </Time>
+        <Time id="409">
+          <RealTime>00:01:15.9420000</RealTime>
+          <GameTime>00:01:02.6320000</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -2839,7 +2850,7 @@
       <Setting id="OldTownLevel_5" type="bool">True</Setting>
       <Setting id="OldTownLevel_6" type="bool">True</Setting>
       <Setting id="OldTownLevel_7" type="bool">True</Setting>
-      <Setting id="OldTownLevel_7_5" type="bool">True</Setting>
+      <Setting id="OldTownLevel_7_5" type="bool">False</Setting>
       <Setting id="OldTownLevel_8" type="bool">True</Setting>
       <Setting id="DistrictNullLevel_Cutscene" type="bool">True</Setting>
       <Setting id="DistrictNullLevel_1" type="bool">True</Setting>
