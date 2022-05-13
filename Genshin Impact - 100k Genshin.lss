@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Genshin</GameName>
+  <CategoryName>100k</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>7</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="05/08/2022 12:52:03" isStartedSynced="False" ended="05/08/2022 12:52:05" isEndedSynced="False" />
+    <Attempt id="2" started="05/08/2022 12:58:25" isStartedSynced="True" ended="05/08/2022 13:06:32" isEndedSynced="True">
+      <RealTime>00:08:07.2760000</RealTime>
+    </Attempt>
+    <Attempt id="3" started="05/08/2022 17:11:06" isStartedSynced="True" ended="05/08/2022 17:11:43" isEndedSynced="True" />
+    <Attempt id="4" started="05/08/2022 17:14:36" isStartedSynced="True" ended="05/08/2022 17:23:48" isEndedSynced="True">
+      <RealTime>00:09:11.5590000</RealTime>
+    </Attempt>
+    <Attempt id="5" started="05/09/2022 10:15:00" isStartedSynced="True" ended="05/09/2022 10:22:59" isEndedSynced="True" />
+    <Attempt id="6" started="05/09/2022 10:29:35" isStartedSynced="True" ended="05/09/2022 10:32:11" isEndedSynced="True" />
+    <Attempt id="7" started="05/11/2022 12:01:59" isStartedSynced="True" ended="05/11/2022 12:12:57" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>100k</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:58</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:58</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
