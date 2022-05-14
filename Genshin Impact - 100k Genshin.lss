@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>7</AttemptCount>
+  <AttemptCount>10</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="05/08/2022 12:52:03" isStartedSynced="False" ended="05/08/2022 12:52:05" isEndedSynced="False" />
     <Attempt id="2" started="05/08/2022 12:58:25" isStartedSynced="True" ended="05/08/2022 13:06:32" isEndedSynced="True">
@@ -27,6 +27,13 @@
     <Attempt id="5" started="05/09/2022 10:15:00" isStartedSynced="True" ended="05/09/2022 10:22:59" isEndedSynced="True" />
     <Attempt id="6" started="05/09/2022 10:29:35" isStartedSynced="True" ended="05/09/2022 10:32:11" isEndedSynced="True" />
     <Attempt id="7" started="05/11/2022 12:01:59" isStartedSynced="True" ended="05/11/2022 12:12:57" isEndedSynced="True" />
+    <Attempt id="8" started="05/13/2022 18:24:16" isStartedSynced="True" ended="05/13/2022 18:24:17" isEndedSynced="True" />
+    <Attempt id="9" started="05/13/2022 18:24:22" isStartedSynced="True" ended="05/13/2022 18:28:36" isEndedSynced="True">
+      <RealTime>00:04:13.9610000</RealTime>
+    </Attempt>
+    <Attempt id="10" started="05/14/2022 07:43:10" isStartedSynced="False" ended="05/14/2022 07:46:32" isEndedSynced="True">
+      <RealTime>00:03:23.3510000</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -34,13 +41,23 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:06:58</RealTime>
+          <RealTime>00:03:23.3510000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:06:58</RealTime>
+        <RealTime>00:03:23.3510000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:06:58</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:04:13.9610000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:03:23.3510000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings />
