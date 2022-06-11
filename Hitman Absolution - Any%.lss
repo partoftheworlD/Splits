@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>2</AttemptCount>
+  <AttemptCount>3</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="06/09/2022 20:49:46" isStartedSynced="False" ended="06/09/2022 20:49:47" isEndedSynced="False" />
     <Attempt id="2" started="06/09/2022 20:50:53" isStartedSynced="True" ended="06/09/2022 22:24:55" isEndedSynced="True">
@@ -26,6 +26,7 @@
       <GameTime>01:05:40.2090000</GameTime>
       <PauseTime>00:00:40.9260000</PauseTime>
     </Attempt>
+    <Attempt id="4" started="06/11/2022 15:23:53" isStartedSynced="True" ended="06/11/2022 15:23:58" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
