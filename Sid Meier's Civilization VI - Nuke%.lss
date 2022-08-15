@@ -3,6 +3,8 @@
   <GameIcon />
   <GameName>Sid Meier's Civilization VI</GameName>
   <CategoryName>Nuke%</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">
@@ -12,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>150</AttemptCount>
+  <AttemptCount>169</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="07/03/2021 10:58:35" isStartedSynced="True" ended="07/03/2021 11:08:16" isEndedSynced="True">
       <RealTime>00:09:40.7070000</RealTime>
@@ -427,6 +429,55 @@
     <Attempt id="159" started="07/11/2021 12:31:54" isStartedSynced="True" ended="07/11/2021 12:31:54" isEndedSynced="True">
       <RealTime>00:00:34.4640000</RealTime>
     </Attempt>
+    <Attempt id="160" started="08/15/2022 17:37:59" isStartedSynced="True" ended="08/15/2022 17:39:10" isEndedSynced="True">
+      <RealTime>00:01:11.5590000</RealTime>
+    </Attempt>
+    <Attempt id="161" started="08/15/2022 17:40:58" isStartedSynced="True" ended="08/15/2022 17:41:53" isEndedSynced="True">
+      <RealTime>00:00:54.3940000</RealTime>
+    </Attempt>
+    <Attempt id="162" started="08/15/2022 17:43:26" isStartedSynced="True" ended="08/15/2022 17:44:19" isEndedSynced="True">
+      <RealTime>00:00:53.2680000</RealTime>
+    </Attempt>
+    <Attempt id="163" started="08/15/2022 17:45:51" isStartedSynced="True" ended="08/15/2022 17:46:49" isEndedSynced="True">
+      <RealTime>00:00:58.0730000</RealTime>
+    </Attempt>
+    <Attempt id="164" started="08/15/2022 17:48:33" isStartedSynced="True" ended="08/15/2022 17:49:19" isEndedSynced="True">
+      <RealTime>00:00:46.1300000</RealTime>
+    </Attempt>
+    <Attempt id="165" started="08/15/2022 17:51:56" isStartedSynced="True" ended="08/15/2022 17:52:43" isEndedSynced="True">
+      <RealTime>00:00:46.9270000</RealTime>
+    </Attempt>
+    <Attempt id="166" started="08/15/2022 17:55:20" isStartedSynced="True" ended="08/15/2022 17:56:06" isEndedSynced="True">
+      <RealTime>00:00:46.1160000</RealTime>
+    </Attempt>
+    <Attempt id="167" started="08/15/2022 17:58:06" isStartedSynced="True" ended="08/15/2022 17:58:54" isEndedSynced="True">
+      <RealTime>00:00:48.0050000</RealTime>
+    </Attempt>
+    <Attempt id="168" started="08/15/2022 18:00:25" isStartedSynced="True" ended="08/15/2022 18:01:04" isEndedSynced="True">
+      <RealTime>00:00:39.3650000</RealTime>
+    </Attempt>
+    <Attempt id="169" started="08/15/2022 18:03:18" isStartedSynced="True" ended="08/15/2022 18:04:08" isEndedSynced="True">
+      <RealTime>00:00:49.4260000</RealTime>
+    </Attempt>
+    <Attempt id="170" started="08/15/2022 18:06:17" isStartedSynced="True" ended="08/15/2022 18:06:30" isEndedSynced="True" />
+    <Attempt id="171" started="08/15/2022 18:08:36" isStartedSynced="True" ended="08/15/2022 18:09:19" isEndedSynced="True">
+      <RealTime>00:00:43.5290000</RealTime>
+    </Attempt>
+    <Attempt id="172" started="08/15/2022 18:11:50" isStartedSynced="True" ended="08/15/2022 18:12:20" isEndedSynced="True" />
+    <Attempt id="173" started="08/15/2022 18:14:47" isStartedSynced="True" ended="08/15/2022 18:16:16" isEndedSynced="True" />
+    <Attempt id="174" started="08/15/2022 18:22:31" isStartedSynced="True" ended="08/15/2022 18:23:13" isEndedSynced="True">
+      <RealTime>00:00:41.9040000</RealTime>
+    </Attempt>
+    <Attempt id="175" started="08/15/2022 18:25:59" isStartedSynced="True" ended="08/15/2022 18:26:42" isEndedSynced="True">
+      <RealTime>00:00:43.2950000</RealTime>
+    </Attempt>
+    <Attempt id="176" started="08/15/2022 18:29:09" isStartedSynced="True" ended="08/15/2022 18:29:51" isEndedSynced="True">
+      <RealTime>00:00:42.4580000</RealTime>
+    </Attempt>
+    <Attempt id="177" started="08/15/2022 18:33:06" isStartedSynced="True" ended="08/15/2022 18:33:52" isEndedSynced="True">
+      <RealTime>00:00:46.8100000</RealTime>
+    </Attempt>
+    <Attempt id="178" started="08/15/2022 18:37:12" isStartedSynced="True" ended="08/15/2022 18:37:45" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -434,7 +485,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:00:34.4640000</RealTime>
+          <RealTime>00:00:41.9040000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -821,6 +872,51 @@
         </Time>
         <Time id="159">
           <RealTime>00:00:34.4640000</RealTime>
+        </Time>
+        <Time id="160">
+          <RealTime>00:01:11.5590000</RealTime>
+        </Time>
+        <Time id="161">
+          <RealTime>00:00:54.3940000</RealTime>
+        </Time>
+        <Time id="162">
+          <RealTime>00:00:53.2680000</RealTime>
+        </Time>
+        <Time id="163">
+          <RealTime>00:00:58.0730000</RealTime>
+        </Time>
+        <Time id="164">
+          <RealTime>00:00:46.1300000</RealTime>
+        </Time>
+        <Time id="165">
+          <RealTime>00:00:46.9270000</RealTime>
+        </Time>
+        <Time id="166">
+          <RealTime>00:00:46.1160000</RealTime>
+        </Time>
+        <Time id="167">
+          <RealTime>00:00:48.0050000</RealTime>
+        </Time>
+        <Time id="168">
+          <RealTime>00:00:39.3650000</RealTime>
+        </Time>
+        <Time id="169">
+          <RealTime>00:00:49.4260000</RealTime>
+        </Time>
+        <Time id="175">
+          <RealTime>00:00:43.2950000</RealTime>
+        </Time>
+        <Time id="171">
+          <RealTime>00:00:43.5290000</RealTime>
+        </Time>
+        <Time id="174">
+          <RealTime>00:00:41.9040000</RealTime>
+        </Time>
+        <Time id="176">
+          <RealTime>00:00:42.4580000</RealTime>
+        </Time>
+        <Time id="177">
+          <RealTime>00:00:46.8100000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
