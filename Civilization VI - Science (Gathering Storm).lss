@@ -14,13 +14,21 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>1</AttemptCount>
+  <AttemptCount>8</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="08/15/2022 22:47:02" isStartedSynced="True" ended="08/15/2022 22:47:19" isEndedSynced="True" />
     <Attempt id="2" started="08/15/2022 22:49:30" isStartedSynced="True" ended="08/15/2022 23:06:16" isEndedSynced="True" />
     <Attempt id="3" started="09/21/2022 22:25:45" isStartedSynced="True" ended="09/21/2022 22:41:31" isEndedSynced="True">
       <RealTime>00:15:45.5040000</RealTime>
     </Attempt>
+    <Attempt id="4" started="09/21/2022 22:43:42" isStartedSynced="True" ended="09/21/2022 22:43:42" isEndedSynced="True" />
+    <Attempt id="5" started="09/21/2022 22:44:37" isStartedSynced="True" ended="09/21/2022 22:56:26" isEndedSynced="True" />
+    <Attempt id="6" started="09/21/2022 22:56:59" isStartedSynced="True" ended="09/21/2022 22:56:59" isEndedSynced="True" />
+    <Attempt id="7" started="09/21/2022 22:59:08" isStartedSynced="True" ended="09/21/2022 23:11:21" isEndedSynced="True" />
+    <Attempt id="8" started="09/21/2022 23:12:21" isStartedSynced="True" ended="09/21/2022 23:25:27" isEndedSynced="True">
+      <RealTime>00:13:06.0870000</RealTime>
+    </Attempt>
+    <Attempt id="9" started="09/21/2022 23:34:32" isStartedSynced="True" ended="09/21/2022 23:48:35" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -28,15 +36,18 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:15:45.5040000</RealTime>
+          <RealTime>00:13:06.0870000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:15:45.5040000</RealTime>
+        <RealTime>00:13:06.0870000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
           <RealTime>00:15:45.5040000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:13:06.0870000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
