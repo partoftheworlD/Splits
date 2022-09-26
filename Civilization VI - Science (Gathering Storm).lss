@@ -106,6 +106,10 @@
     <Attempt id="48" started="09/25/2022 19:07:54" isStartedSynced="True" ended="09/25/2022 19:17:03" isEndedSynced="True">
       <RealTime>00:09:09.0630000</RealTime>
     </Attempt>
+    <Attempt id="49" started="09/26/2022 21:55:53" isStartedSynced="False" ended="09/26/2022 21:56:05" isEndedSynced="False">
+      <RealTime>00:08:21.9600000</RealTime>
+    </Attempt>
+    <Attempt id="50" started="09/26/2022 21:56:45" isStartedSynced="True" ended="09/26/2022 21:56:59" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -185,6 +189,9 @@
         </Time>
         <Time id="48">
           <RealTime>00:09:09.0630000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:08:21.9600000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
