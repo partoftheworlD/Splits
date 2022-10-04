@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>58</AttemptCount>
+  <AttemptCount>62</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="08/15/2022 22:47:02" isStartedSynced="True" ended="08/15/2022 22:47:19" isEndedSynced="True" />
     <Attempt id="2" started="08/15/2022 22:49:30" isStartedSynced="True" ended="08/15/2022 23:06:16" isEndedSynced="True" />
@@ -133,6 +133,16 @@
     <Attempt id="59" started="10/03/2022 13:16:01" isStartedSynced="True" ended="10/03/2022 13:21:55" isEndedSynced="True">
       <RealTime>00:05:53.8030000</RealTime>
     </Attempt>
+    <Attempt id="60" started="10/04/2022 07:29:34" isStartedSynced="True" ended="10/04/2022 07:36:17" isEndedSynced="True" />
+    <Attempt id="61" started="10/04/2022 07:37:08" isStartedSynced="True" ended="10/04/2022 07:43:25" isEndedSynced="True">
+      <RealTime>00:06:16.4860000</RealTime>
+    </Attempt>
+    <Attempt id="62" started="10/04/2022 07:44:19" isStartedSynced="True" ended="10/04/2022 07:49:46" isEndedSynced="True">
+      <RealTime>00:05:27.4320000</RealTime>
+    </Attempt>
+    <Attempt id="63" started="10/04/2022 07:51:19" isStartedSynced="True" ended="10/04/2022 07:57:11" isEndedSynced="True">
+      <RealTime>00:05:52.5390000</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -140,11 +150,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:05:53.8030000</RealTime>
+          <RealTime>00:05:27.4320000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:53.8030000</RealTime>
+        <RealTime>00:05:27.4320000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0">
@@ -236,6 +246,15 @@
         </Time>
         <Time id="59">
           <RealTime>00:05:53.8030000</RealTime>
+        </Time>
+        <Time id="61">
+          <RealTime>00:06:16.4860000</RealTime>
+        </Time>
+        <Time id="63">
+          <RealTime>00:05:52.5390000</RealTime>
+        </Time>
+        <Time id="62">
+          <RealTime>00:05:27.4320000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
