@@ -74,7 +74,7 @@
     </Attempt>
     <Attempt id="33" started="09/24/2022 16:54:52" isStartedSynced="True" ended="09/24/2022 16:58:52" isEndedSynced="True" />
     <Attempt id="34" started="09/24/2022 17:05:35" isStartedSynced="True" ended="09/24/2022 17:16:19" isEndedSynced="True">
-      <RealTime>00:10:44.0070000</RealTime>
+      <RealTime>00:10:44.0069999</RealTime>
     </Attempt>
     <Attempt id="35" started="09/24/2022 21:57:13" isStartedSynced="True" ended="09/24/2022 22:07:36" isEndedSynced="True" />
     <Attempt id="36" started="09/24/2022 23:48:37" isStartedSynced="False" ended="09/24/2022 23:58:38" isEndedSynced="True">
@@ -197,7 +197,7 @@
           <RealTime>00:10:49.7700000</RealTime>
         </Time>
         <Time id="34">
-          <RealTime>00:10:44.0070000</RealTime>
+          <RealTime>00:10:44.0069999</RealTime>
         </Time>
         <Time id="36">
           <RealTime>00:10:00.2540000</RealTime>
@@ -250,11 +250,11 @@
         <Time id="61">
           <RealTime>00:06:16.4860000</RealTime>
         </Time>
-        <Time id="63">
-          <RealTime>00:05:52.5390000</RealTime>
-        </Time>
         <Time id="62">
           <RealTime>00:05:27.4320000</RealTime>
+        </Time>
+        <Time id="63">
+          <RealTime>00:05:52.5390000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
