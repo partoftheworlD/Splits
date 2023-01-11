@@ -15,13 +15,20 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>3</AttemptCount>
+  <AttemptCount>8</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="01/11/2023 01:43:05" isStartedSynced="True" ended="01/11/2023 01:45:50" isEndedSynced="True" />
     <Attempt id="2" started="01/11/2023 01:45:58" isStartedSynced="True" ended="01/11/2023 01:53:38" isEndedSynced="True" />
     <Attempt id="3" started="01/11/2023 01:54:23" isStartedSynced="True" ended="01/11/2023 02:06:22" isEndedSynced="True">
-      <RealTime>00:11:58.9136369</RealTime>
+      <RealTime>00:11:58.9136360</RealTime>
     </Attempt>
+    <Attempt id="4" started="01/11/2023 15:01:49" isStartedSynced="True" ended="01/11/2023 15:15:35" isEndedSynced="True">
+      <RealTime>00:13:45.8391204</RealTime>
+    </Attempt>
+    <Attempt id="5" started="01/11/2023 15:19:50" isStartedSynced="True" ended="01/11/2023 15:26:38" isEndedSynced="True" />
+    <Attempt id="6" started="01/11/2023 15:26:44" isStartedSynced="True" ended="01/11/2023 15:30:14" isEndedSynced="True" />
+    <Attempt id="7" started="01/11/2023 15:30:18" isStartedSynced="True" ended="01/11/2023 15:41:56" isEndedSynced="True" />
+    <Attempt id="8" started="01/11/2023 15:42:06" isStartedSynced="True" ended="01/11/2023 15:48:31" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -29,15 +36,18 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:11:58.9136369</RealTime>
+          <RealTime>00:11:58.9136360</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:11:58.9136369</RealTime>
+        <RealTime>00:11:58.9136360</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
-          <RealTime>00:11:58.9136369</RealTime>
+          <RealTime>00:11:58.9136360</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:13:45.8391204</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
