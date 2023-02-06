@@ -2,8 +2,7 @@
 <Run version="1.7.0">
   <GameIcon />
   <GameName>noita</GameName>
-  <CategoryName>
-  </CategoryName>
+  <CategoryName>callme death</CategoryName>
   <LayoutPath>
   </LayoutPath>
   <Metadata>
@@ -15,9 +14,20 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>4</AttemptCount>
-  <AttemptHistory />
+  <AttemptCount>5</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="02/06/2023 19:52:44" isStartedSynced="True" ended="02/06/2023 19:55:39" isEndedSynced="True" />
+  </AttemptHistory>
   <Segments>
+    <Segment>
+      <Name>tablet</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
     <Segment>
       <Name>callme death</Name>
       <Icon />
