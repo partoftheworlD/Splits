@@ -14,28 +14,68 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>5</AttemptCount>
+  <AttemptCount>12</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="02/06/2023 19:52:44" isStartedSynced="True" ended="02/06/2023 19:55:39" isEndedSynced="True" />
+    <Attempt id="2" started="02/06/2023 19:59:13" isStartedSynced="True" ended="02/06/2023 20:02:16" isEndedSynced="True" />
+    <Attempt id="3" started="02/06/2023 20:08:22" isStartedSynced="True" ended="02/06/2023 20:10:40" isEndedSynced="True" />
+    <Attempt id="4" started="02/06/2023 20:10:58" isStartedSynced="True" ended="02/06/2023 20:18:12" isEndedSynced="True">
+      <RealTime>00:07:14.3090668</RealTime>
+    </Attempt>
+    <Attempt id="5" started="02/06/2023 20:27:47" isStartedSynced="True" ended="02/06/2023 20:30:20" isEndedSynced="True" />
+    <Attempt id="6" started="02/06/2023 20:30:29" isStartedSynced="True" ended="02/06/2023 20:33:00" isEndedSynced="True" />
+    <Attempt id="7" started="02/06/2023 20:33:08" isStartedSynced="True" ended="02/06/2023 20:35:18" isEndedSynced="True" />
+    <Attempt id="8" started="02/06/2023 20:36:01" isStartedSynced="True" ended="02/06/2023 20:38:21" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
       <Name>tablet</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:41.2547877</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:41.2547877</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:55.4993309</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:01.7455319</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:41.2547877</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:01:00.3754148</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:47.0016040</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:00:56.1505104</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>callme death</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:14.3090668</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:06:33.0542791</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:06:33.0542791</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings />
