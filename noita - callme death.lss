@@ -2,7 +2,7 @@
 <Run version="1.7.0">
   <GameIcon />
   <GameName>noita</GameName>
-  <CategoryName>callme death</CategoryName>
+  <CategoryName>callme suicide</CategoryName>
   <LayoutPath>
   </LayoutPath>
   <Metadata>
@@ -37,14 +37,14 @@
       <RealTime>00:07:49.5786060</RealTime>
     </Attempt>
     <Attempt id="15" started="02/07/2023 17:43:45" isStartedSynced="True" ended="02/07/2023 17:50:51" isEndedSynced="True">
-      <RealTime>00:07:05.1882197</RealTime>
+      <RealTime>00:07:05.1882190</RealTime>
     </Attempt>
     <Attempt id="16" started="02/07/2023 17:53:00" isStartedSynced="True" ended="02/07/2023 17:53:52" isEndedSynced="True" />
     <Attempt id="17" started="02/07/2023 17:53:59" isStartedSynced="True" ended="02/07/2023 18:01:30" isEndedSynced="True">
-      <RealTime>00:07:31.4024607</RealTime>
+      <RealTime>00:07:31.4024600</RealTime>
     </Attempt>
     <Attempt id="18" started="02/07/2023 18:02:43" isStartedSynced="True" ended="02/07/2023 18:09:32" isEndedSynced="True">
-      <RealTime>00:06:49.0134437</RealTime>
+      <RealTime>00:06:49.0134430</RealTime>
     </Attempt>
   </AttemptHistory>
   <Segments>
@@ -53,7 +53,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:00:43.2348516</RealTime>
+          <RealTime>00:00:43.2348510</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -93,27 +93,27 @@
         <Time id="14">
           <RealTime>00:01:10.7134030</RealTime>
         </Time>
-        <Time id="17">
-          <RealTime>00:00:51.3537814</RealTime>
-        </Time>
         <Time id="15">
-          <RealTime>00:01:05.1440455</RealTime>
+          <RealTime>00:01:05.1440450</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:00:51.3537810</RealTime>
         </Time>
         <Time id="18">
-          <RealTime>00:00:43.2348516</RealTime>
+          <RealTime>00:00:43.2348510</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>callme death</Name>
+      <Name>callme suicide</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:06:49.0134437</RealTime>
+          <RealTime>00:06:49.0134430</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:06:00.0441742</RealTime>
+        <RealTime>00:06:00.0441740</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="4">
@@ -125,14 +125,14 @@
         <Time id="14">
           <RealTime>00:06:38.8652030</RealTime>
         </Time>
-        <Time id="17">
-          <RealTime>00:06:40.0486793</RealTime>
-        </Time>
         <Time id="15">
-          <RealTime>00:06:00.0441742</RealTime>
+          <RealTime>00:06:00.0441740</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:06:40.0486790</RealTime>
         </Time>
         <Time id="18">
-          <RealTime>00:06:05.7785921</RealTime>
+          <RealTime>00:06:05.7785920</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
