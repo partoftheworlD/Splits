@@ -19,7 +19,7 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>Bottom of the Eighth</Name>
+      <Name>Конец восьмого иннинга</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -28,7 +28,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>They Can't Hide</Name>
+      <Name>Они не спрячутся</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -37,7 +37,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Big Brother</Name>
+      <Name>Старший брат</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -46,7 +46,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Foresight</Name>
+      <Name>Предвидение</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -55,7 +55,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Backstage Pass</Name>
+      <Name>Пропуск за кулисы</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -64,7 +64,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Hacking Contract</Name>
+      <Name>Сетевой контракт</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -73,7 +73,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Backseat Driver</Name>
+      <Name>Назойливая муха</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -82,7 +82,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Open Your World</Name>
+      <Name>Открой свой мир</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -91,7 +91,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Thanks for the Tip</Name>
+      <Name>Спасибо за совет</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -100,7 +100,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Remember</Name>
+      <Name>Вспомнить</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -109,7 +109,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Not the Pizza Guy</Name>
+      <Name>А это не пицца</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -118,7 +118,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>A Wrench in the Works</Name>
+      <Name>Палки в колеса</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -127,7 +127,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Dressed in Peels</Name>
+      <Name>Рыжий тебе не идет</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -136,7 +136,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Hold On, Kiddo</Name>
+      <Name>Держись, малыш</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -145,7 +145,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Tools of the Trade</Name>
+      <Name>Расходные материалы</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -154,7 +154,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Breakable Things</Name>
+      <Name>Хрупкие вещи</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -163,7 +163,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Collateral</Name>
+      <Name>Сопутствующий ущерб</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -172,7 +172,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>One Foot in the Grave</Name>
+      <Name>Одной ногой в могиле</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -181,7 +181,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>A Blank Spot There-ish</Name>
+      <Name>Вход где-то рядом</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -190,7 +190,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jury-Rigged</Name>
+      <Name>На скорую руку</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -199,7 +199,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Grandma's Bulldog</Name>
+      <Name>Братская преданность</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -208,7 +208,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Not a Job for Tyrone</Name>
+      <Name>Тайрон не потянет</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -217,7 +217,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Uninvited</Name>
+      <Name>Незваный гость</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -226,7 +226,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Breadcrumbs</Name>
+      <Name>Без шума и пыли</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -235,7 +235,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stare into the Abyss</Name>
+      <Name>Взгляд в бездну</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -244,7 +244,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>A Risky Bid</Name>
+      <Name>Рисковый ход</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -253,7 +253,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Role Model</Name>
+      <Name>Пример для подражания</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -262,7 +262,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Planting a Bug</Name>
+      <Name>Прослушка</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -271,7 +271,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Way Off the Grid</Name>
+      <Name>Проникновение</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -280,7 +280,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Hope is a Sad Thing</Name>
+      <Name>Последняя зацепка</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -289,7 +289,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>A Pit of Paranoia</Name>
+      <Name>Шаги за спиной</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -298,7 +298,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Unstoppable Force</Name>
+      <Name>Напролом</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -307,7 +307,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>The Future is in Blume</Name>
+      <Name>Будущее не за горами</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -316,7 +316,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>For the Portfolio</Name>
+      <Name>Для портфолио</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -325,7 +325,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>By Any Means Necessary</Name>
+      <Name>Любыми средствами</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -334,7 +334,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Someone's Knocking</Name>
+      <Name>Стучали</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -343,7 +343,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>In Plain Sight</Name>
+      <Name>Лицом к лицу</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -352,7 +352,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>The Rat's Lair</Name>
+      <Name>Крысиное гнездо</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -361,7 +361,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>The Defalt Condition</Name>
+      <Name>Дефолтная ситуация</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -370,7 +370,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Little Sister</Name>
+      <Name>Младшая сестра</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -379,7 +379,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Ghosts of the Past</Name>
+      <Name>Призраки прошлого</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -388,7 +388,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>No Turning Back</Name>
+      <Name>Нет пути назад</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -397,7 +397,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Sometimes You Still Lose</Name>
+      <Name>Все когда-то проигрывают</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -406,7 +406,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Guys Like Us</Name>
+      <Name>Такие как мы</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
