@@ -13,7 +13,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>9</AttemptCount>
+  <AttemptCount>10</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="03/03/2023 00:55:16" isStartedSynced="False" ended="03/03/2023 00:55:17" isEndedSynced="False" />
     <Attempt id="2" started="03/03/2023 00:55:27" isStartedSynced="False" ended="03/03/2023 00:55:45" isEndedSynced="False" />
@@ -23,20 +23,23 @@
       <PauseTime>00:03:48.8715350</PauseTime>
     </Attempt>
     <Attempt id="6" started="03/07/2023 14:34:58" isStartedSynced="False" ended="03/07/2023 15:15:02" isEndedSynced="False">
-      <PauseTime>00:13:31.1943189</PauseTime>
+      <PauseTime>00:13:31.1943180</PauseTime>
     </Attempt>
     <Attempt id="7" started="03/07/2023 15:27:43" isStartedSynced="False" ended="03/07/2023 15:27:49" isEndedSynced="False" />
     <Attempt id="8" started="03/07/2023 15:27:52" isStartedSynced="False" ended="03/07/2023 16:20:30" isEndedSynced="False">
       <PauseTime>00:09:20.2937960</PauseTime>
     </Attempt>
     <Attempt id="9" started="03/07/2023 20:40:20" isStartedSynced="True" ended="03/07/2023 21:08:24" isEndedSynced="True">
-      <PauseTime>00:00:54.5587861</PauseTime>
+      <PauseTime>00:00:54.5587860</PauseTime>
     </Attempt>
     <Attempt id="10" started="03/07/2023 21:09:22" isStartedSynced="True" ended="03/07/2023 21:15:57" isEndedSynced="True">
-      <PauseTime>00:00:13.4300447</PauseTime>
+      <PauseTime>00:00:13.4300440</PauseTime>
     </Attempt>
     <Attempt id="11" started="03/07/2023 21:15:59" isStartedSynced="True" ended="03/07/2023 22:56:32" isEndedSynced="True">
-      <PauseTime>00:02:12.3137058</PauseTime>
+      <PauseTime>00:02:12.3137050</PauseTime>
+    </Attempt>
+    <Attempt id="12" started="03/08/2023 23:08:01" isStartedSynced="False" ended="03/09/2023 00:45:45" isEndedSynced="True">
+      <PauseTime>00:05:04.4495424</PauseTime>
     </Attempt>
   </AttemptHistory>
   <Segments>
@@ -44,10 +47,12 @@
       <Name>Конец восьмого иннинга</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:32.6300000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:07:32.6359291</RealTime>
+        <RealTime>00:07:32.6300000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
@@ -55,288 +60,340 @@
           <RealTime>00:19:02.3259030</RealTime>
         </Time>
         <Time id="9">
-          <RealTime>00:07:32.6359291</RealTime>
+          <RealTime>00:07:32.6359290</RealTime>
         </Time>
         <Time id="10" />
         <Time id="11" />
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Они не спрячутся</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:23.9500000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:51.3221025</RealTime>
+        <RealTime>00:04:51.3200000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="9">
-          <RealTime>00:04:51.3221025</RealTime>
+          <RealTime>00:04:51.3221019</RealTime>
         </Time>
         <Time id="10" />
         <Time id="11" />
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Старший брат</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:29.6500000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:06:05.7073238</RealTime>
+        <RealTime>00:06:05.7000000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="9">
-          <RealTime>00:06:05.7073238</RealTime>
+          <RealTime>00:06:05.7073229</RealTime>
         </Time>
         <Time id="10" />
         <Time id="11" />
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Предвидение</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:23:33.3600000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:03.7178452</RealTime>
+        <RealTime>00:05:03.7100000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="9">
-          <RealTime>00:05:03.7178452</RealTime>
+          <RealTime>00:05:03.7178450</RealTime>
         </Time>
         <Time id="10" />
         <Time id="11" />
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Пропуск за кулисы</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:43:09.4600000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:19:36.1100000</RealTime>
+        <RealTime>00:19:36.1000000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="10" />
         <Time id="11" />
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Назойливая муха</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:49:15.5300000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:06:06.0714444</RealTime>
+        <RealTime>00:06:06.0700000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="10">
-          <RealTime>00:06:06.0714444</RealTime>
+          <RealTime>00:06:06.0714440</RealTime>
         </Time>
         <Time id="11" />
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Открой свой мир</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:56:28.6800000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:07:13.1503681</RealTime>
+        <RealTime>00:07:13.1500000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="11">
-          <RealTime>00:07:13.1503681</RealTime>
+          <RealTime>00:07:13.1503680</RealTime>
         </Time>
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Спасибо за совет</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:05:47.1000000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:09:18.4210740</RealTime>
+        <RealTime>00:09:18.4200000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="11">
           <RealTime>00:09:18.4210740</RealTime>
         </Time>
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Вспомнить</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:08:28.0100000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:40.9119964</RealTime>
+        <RealTime>00:02:40.9100000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="11">
-          <RealTime>00:02:40.9119964</RealTime>
+          <RealTime>00:02:40.9119959</RealTime>
         </Time>
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>А это не пицца</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:17:28.0300000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:09:00.0226187</RealTime>
+        <RealTime>00:09:00.0200000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="11">
-          <RealTime>00:09:00.0226187</RealTime>
+          <RealTime>00:09:00.0226180</RealTime>
         </Time>
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Палки в колеса</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:23:20.8600000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:52.8313787</RealTime>
+        <RealTime>00:05:52.8300000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="11">
-          <RealTime>00:05:52.8313787</RealTime>
+          <RealTime>00:05:52.8313779</RealTime>
         </Time>
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Рыжий тебе не идет</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:36:34.9600000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:13:14.1062422</RealTime>
+        <RealTime>00:13:14.1000000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="11">
-          <RealTime>00:13:14.1062422</RealTime>
+          <RealTime>00:13:14.1062419</RealTime>
         </Time>
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Держись, малыш</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:47:31.0400000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:10:56.0871510</RealTime>
+        <RealTime>00:10:56.0800000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="11">
-          <RealTime>00:10:56.0871510</RealTime>
+          <RealTime>00:10:56.0871509</RealTime>
         </Time>
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Расходные материалы</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:50:07.2800000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:36.2434382</RealTime>
+        <RealTime>00:02:36.2400000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="11">
-          <RealTime>00:02:36.2434382</RealTime>
+          <RealTime>00:02:36.2434380</RealTime>
         </Time>
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Хрупкие вещи</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>02:02:05.1900000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:11:57.9195022</RealTime>
+        <RealTime>00:11:57.9100000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="11">
-          <RealTime>00:11:57.9195022</RealTime>
+          <RealTime>00:11:57.9195020</RealTime>
         </Time>
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Сопутствующий ущерб</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>02:08:28.5800000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:06:23.3977310</RealTime>
+        <RealTime>00:06:23.3900000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="11">
           <RealTime>00:06:23.3977310</RealTime>
         </Time>
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Одной ногой в могиле</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>02:19:38.7700000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:11:10.1963025</RealTime>
+        <RealTime>00:11:10.1900000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="11">
-          <RealTime>00:11:10.1963025</RealTime>
+          <RealTime>00:11:10.1963019</RealTime>
         </Time>
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Вход где-то рядом</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>02:27:19.2900000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:07:40.5232356</RealTime>
+        <RealTime>00:07:40.5200000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
         <Time id="11">
-          <RealTime>00:07:40.5232356</RealTime>
+          <RealTime>00:07:40.5232350</RealTime>
         </Time>
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -348,115 +405,181 @@
       <BestSegmentTime />
       <SegmentHistory>
         <Time id="5" />
+        <Time id="12" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Братская преданность</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>02:35:36.6800000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:08:17.3900000</RealTime>
+      </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
+        <Time id="12">
+          <RealTime>00:08:17.3929249</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Тайрон не потянет</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>02:49:14.3600000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:13:37.6800000</RealTime>
+      </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
+        <Time id="12">
+          <RealTime>00:13:37.6858523</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Незваный гость</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>03:04:12.1400000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:14:57.7800000</RealTime>
+      </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
+        <Time id="12">
+          <RealTime>00:14:57.7845930</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Без шума и пыли</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>03:16:00.7300000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:11:48.5900000</RealTime>
+      </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
+        <Time id="12">
+          <RealTime>00:11:48.5916108</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Взгляд в бездну</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>03:24:45.1300000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:08:44.4000000</RealTime>
+      </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
+        <Time id="12">
+          <RealTime>00:08:44.4052181</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Рисковый ход</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>03:38:02.8000000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:13:17.6700000</RealTime>
+      </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
+        <Time id="12">
+          <RealTime>00:13:17.6724701</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Пример для подражания</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>03:44:17.4700000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:06:14.6700000</RealTime>
+      </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
+        <Time id="12">
+          <RealTime>00:06:14.6744015</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Прослушка</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>03:57:13.6000000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:12:56.1300000</RealTime>
+      </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
+        <Time id="12">
+          <RealTime>00:12:56.1339870</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Проникновение</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>03:58:51.7400000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:01:38.1400000</RealTime>
+      </BestSegmentTime>
       <SegmentHistory>
         <Time id="5" />
+        <Time id="12">
+          <RealTime>00:01:38.1494946</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Последняя зацепка</Name>
+      <Name>Против правил</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>04:23:42.6200000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:24:50.8811840</RealTime>
+        <RealTime>00:24:50.8800000</RealTime>
         <GameTime>00:24:38.5635440</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -470,10 +593,12 @@
       <Name>Шаги за спиной</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>04:36:14.7300000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:12:32.1103660</RealTime>
+        <RealTime>00:12:32.1100000</RealTime>
         <GameTime>00:12:21.1104470</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -487,10 +612,12 @@
       <Name>Напролом</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>04:38:50.5400000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:35.8113200</RealTime>
+        <RealTime>00:02:35.8100000</RealTime>
         <GameTime>00:02:24.4101400</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -504,10 +631,12 @@
       <Name>Будущее не за горами</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>04:55:27.8300000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:16:37.2953310</RealTime>
+        <RealTime>00:16:37.2900000</RealTime>
         <GameTime>00:16:29.2385500</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -521,10 +650,12 @@
       <Name>Для портфолио</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>05:08:02.3400000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:12:34.5174000</RealTime>
+        <RealTime>00:12:34.5100000</RealTime>
         <GameTime>00:12:18.2610750</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -538,10 +669,12 @@
       <Name>Любыми средствами</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>05:25:52.7300000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:17:50.3933130</RealTime>
+        <RealTime>00:17:50.3900000</RealTime>
         <GameTime>00:17:43.8699170</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -555,10 +688,12 @@
       <Name>Стучали</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>05:31:48.2300000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:55.5077350</RealTime>
+        <RealTime>00:05:55.5000000</RealTime>
         <GameTime>00:05:42.4057280</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -572,10 +707,12 @@
       <Name>Лицом к лицу</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>05:37:22.6200000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:34.3903250</RealTime>
+        <RealTime>00:05:34.3900000</RealTime>
         <GameTime>00:05:27.8278410</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -589,10 +726,12 @@
       <Name>Крысиное гнездо</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>05:46:08.8400000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:08:46.2233950</RealTime>
+        <RealTime>00:08:46.2200000</RealTime>
         <GameTime>00:08:38.0274990</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -606,10 +745,12 @@
       <Name>Дефолтная ситуация</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>06:02:31.6200000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:16:22.7896740</RealTime>
+        <RealTime>00:16:22.7800000</RealTime>
         <GameTime>00:16:03.5137710</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -623,10 +764,12 @@
       <Name>Младшая сестра</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>06:10:22.6700000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:07:51.0578880</RealTime>
+        <RealTime>00:07:51.0500000</RealTime>
         <GameTime>00:07:44.5097410</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -640,10 +783,12 @@
       <Name>Призраки прошлого</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>06:15:00.0300000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:37.3660190</RealTime>
+        <RealTime>00:04:37.3600000</RealTime>
         <GameTime>00:04:29.0399600</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -657,10 +802,12 @@
       <Name>Нет пути назад</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>06:40:54.9900000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:25:54.9665730</RealTime>
+        <RealTime>00:25:54.9600000</RealTime>
         <GameTime>00:25:18.9727040</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
