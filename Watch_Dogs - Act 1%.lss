@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Watch_Dogs</GameName>
+  <CategoryName>Act 1%</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="03/03/2023 00:55:16" isStartedSynced="False" ended="03/03/2023 00:55:17" isEndedSynced="False" />
+    <Attempt id="2" started="03/03/2023 00:55:27" isStartedSynced="False" ended="03/03/2023 00:55:45" isEndedSynced="False" />
+    <Attempt id="3" started="03/06/2023 20:01:27" isStartedSynced="False" ended="03/06/2023 20:01:34" isEndedSynced="False" />
+    <Attempt id="4" started="03/06/2023 20:01:36" isStartedSynced="False" ended="03/06/2023 20:01:37" isEndedSynced="False" />
+    <Attempt id="5" started="03/06/2023 20:01:45" isStartedSynced="False" ended="03/06/2023 22:54:08" isEndedSynced="True">
+      <PauseTime>00:03:48.8715350</PauseTime>
+    </Attempt>
+    <Attempt id="6" started="03/07/2023 14:34:58" isStartedSynced="False" ended="03/07/2023 15:15:02" isEndedSynced="False">
+      <PauseTime>00:13:31.1943180</PauseTime>
+    </Attempt>
+    <Attempt id="7" started="03/07/2023 15:27:43" isStartedSynced="False" ended="03/07/2023 15:27:49" isEndedSynced="False" />
+    <Attempt id="8" started="03/07/2023 15:27:52" isStartedSynced="False" ended="03/07/2023 16:20:30" isEndedSynced="False">
+      <PauseTime>00:09:20.2937960</PauseTime>
+    </Attempt>
+    <Attempt id="9" started="03/07/2023 20:40:20" isStartedSynced="True" ended="03/07/2023 21:08:24" isEndedSynced="True">
+      <PauseTime>00:00:54.5587860</PauseTime>
+    </Attempt>
+    <Attempt id="10" started="03/07/2023 21:09:22" isStartedSynced="True" ended="03/07/2023 21:15:57" isEndedSynced="True">
+      <PauseTime>00:00:13.4300440</PauseTime>
+    </Attempt>
+    <Attempt id="11" started="03/07/2023 21:15:59" isStartedSynced="True" ended="03/07/2023 22:56:32" isEndedSynced="True">
+      <PauseTime>00:02:12.3137050</PauseTime>
+    </Attempt>
+    <Attempt id="12" started="03/08/2023 23:08:01" isStartedSynced="False" ended="03/09/2023 00:45:45" isEndedSynced="True">
+      <PauseTime>00:05:04.4495420</PauseTime>
+    </Attempt>
+    <Attempt id="13" started="03/10/2023 19:32:44" isStartedSynced="True" ended="03/10/2023 22:25:41" isEndedSynced="True">
+      <PauseTime>00:10:47.5205800</PauseTime>
+    </Attempt>
+    <Attempt id="14" started="03/11/2023 16:35:06" isStartedSynced="True" ended="03/11/2023 17:50:51" isEndedSynced="True">
+      <PauseTime>00:05:30.1810080</PauseTime>
+    </Attempt>
+    <Attempt id="15" started="03/11/2023 18:33:04" isStartedSynced="True" ended="03/11/2023 21:11:02" isEndedSynced="True">
+      <RealTime>02:27:27.2036750</RealTime>
+      <PauseTime>00:10:30.9488210</PauseTime>
+    </Attempt>
+    <Attempt id="16" started="03/13/2023 14:15:34" isStartedSynced="True" ended="03/13/2023 14:18:40" isEndedSynced="True" />
+    <Attempt id="17" started="03/13/2023 14:21:18" isStartedSynced="True" ended="03/13/2023 14:50:40" isEndedSynced="True">
+      <PauseTime>00:03:27.3546260</PauseTime>
+    </Attempt>
+    <Attempt id="18" started="03/13/2023 14:50:55" isStartedSynced="True" ended="03/13/2023 15:08:30" isEndedSynced="True">
+      <PauseTime>00:00:12.6450410</PauseTime>
+    </Attempt>
+    <Attempt id="19" started="03/13/2023 15:52:16" isStartedSynced="True" ended="03/13/2023 15:52:26" isEndedSynced="True" />
+    <Attempt id="20" started="03/13/2023 15:52:33" isStartedSynced="True" ended="03/13/2023 15:52:46" isEndedSynced="True" />
+    <Attempt id="21" started="03/13/2023 15:52:51" isStartedSynced="True" ended="03/13/2023 15:53:05" isEndedSynced="True" />
+    <Attempt id="22" started="03/13/2023 15:53:12" isStartedSynced="True" ended="03/13/2023 16:16:50" isEndedSynced="True" />
+    <Attempt id="23" started="03/13/2023 16:21:21" isStartedSynced="True" ended="03/13/2023 16:21:32" isEndedSynced="True" />
+    <Attempt id="24" started="03/13/2023 16:21:38" isStartedSynced="True" ended="03/13/2023 16:21:53" isEndedSynced="True" />
+    <Attempt id="25" started="03/13/2023 16:22:00" isStartedSynced="True" ended="03/13/2023 16:22:16" isEndedSynced="True" />
+    <Attempt id="26" started="03/13/2023 16:22:23" isStartedSynced="True" ended="03/13/2023 16:22:41" isEndedSynced="True" />
+    <Attempt id="27" started="03/13/2023 16:22:51" isStartedSynced="True" ended="03/13/2023 16:35:38" isEndedSynced="True">
+      <PauseTime>00:03:20.7951810</PauseTime>
+    </Attempt>
+    <Attempt id="28" started="03/13/2023 18:56:12" isStartedSynced="True" ended="03/13/2023 18:56:25" isEndedSynced="True" />
+    <Attempt id="29" started="03/13/2023 18:56:30" isStartedSynced="True" ended="03/13/2023 18:56:54" isEndedSynced="True" />
+    <Attempt id="30" started="03/13/2023 18:56:55" isStartedSynced="True" ended="03/13/2023 19:36:24" isEndedSynced="True">
+      <PauseTime>00:01:55.7308720</PauseTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Конец восьмого иннинга</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:04.4000000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:04.4000000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:07:32.6300000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:19:02.3259030</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:07:32.6359290</RealTime>
+        </Time>
+        <Time id="11" />
+        <Time id="13">
+          <RealTime>00:06:04.4026240</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:06:04.4000000</RealTime>
+        </Time>
+        <Time id="18" />
+        <Time id="22">
+          <RealTime>00:06:04.4000000</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:06:04.4000000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:06:04.4000000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Старший брат</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:01.4200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:57.0200000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="9">
+          <RealTime>00:10:57.0294220</RealTime>
+        </Time>
+        <Time id="11" />
+        <Time id="13">
+          <RealTime>00:17:15.9530250</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:10:57.0200000</RealTime>
+        </Time>
+        <Time id="18" />
+        <Time id="22">
+          <RealTime>00:11:28.3215430</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:10:57.0200000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Пропуск за кулисы</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:26:01.9299990</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:00.5000000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:11:09.7799990</RealTime>
+        </Time>
+        <Time id="11" />
+        <Time id="13">
+          <RealTime>00:09:50.1849850</RealTime>
+        </Time>
+        <Time id="18" />
+        <Time id="22">
+          <RealTime>00:09:00.5000000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:09:00.5000000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Назойливая муха</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:28:37.5900000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:35.6600000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:19:36.1000010</RealTime>
+        </Time>
+        <Time id="11" />
+        <Time id="13">
+          <RealTime>00:02:35.6672470</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:07:01.0202490</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:03:26.8482800</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:05:22.2805169</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Открой свой мир</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:35:50.7399990</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:13.1400000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:07:13.1500000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:07:13.1503680</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:08:39.2798650</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:07:13.1400000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:07:13.1400000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Спасибо за совет</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:44:12.5800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:21.8400000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:09:18.4200000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:09:18.4210740</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:08:21.8450250</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:08:21.8400000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Вспомнить</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:46:14.6800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:02.1000000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:02:40.9100000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:02:40.9119950</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:02.1072680</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>А это не пицца</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:50:36.9800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:22.3000000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:09:00.0200000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:09:00.0226180</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:04:22.3033340</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Палки в колеса</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:55:40.7600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:03.7799999</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:05:52.8300000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:05:52.8313760</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:05:03.7841140</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Рыжий тебе не идет</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:05:24.3800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:43.6200000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:13:14.1000000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:13:14.1062410</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:09:43.6257800</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

@@ -72,7 +72,7 @@
     <Attempt id="28" started="03/13/2023 18:56:12" isStartedSynced="True" ended="03/13/2023 18:56:25" isEndedSynced="True" />
     <Attempt id="29" started="03/13/2023 18:56:30" isStartedSynced="True" ended="03/13/2023 18:56:54" isEndedSynced="True" />
     <Attempt id="30" started="03/13/2023 18:56:55" isStartedSynced="True" ended="03/13/2023 19:36:24" isEndedSynced="True">
-      <PauseTime>00:01:55.7308724</PauseTime>
+      <PauseTime>00:01:55.7308720</PauseTime>
     </Attempt>
   </AttemptHistory>
   <Segments>
@@ -217,7 +217,7 @@
           <RealTime>00:03:26.8482800</RealTime>
         </Time>
         <Time id="30">
-          <RealTime>00:05:22.2805177</RealTime>
+          <RealTime>00:05:22.2805169</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -347,7 +347,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:03.7800000</RealTime>
+        <RealTime>00:05:03.7799999</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0">
@@ -533,7 +533,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:07:33.9100000</RealTime>
+        <RealTime>00:07:33.9099990</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0">
@@ -909,7 +909,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:09:01.6800000</RealTime>
+        <RealTime>00:09:01.6799999</RealTime>
         <GameTime>00:12:18.2610750</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
