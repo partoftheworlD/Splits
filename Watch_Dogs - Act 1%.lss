@@ -13,8 +13,10 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>0</AttemptCount>
-  <AttemptHistory />
+  <AttemptCount>27</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="03/20/2023 20:20:23" isStartedSynced="True" ended="03/20/2023 20:27:47" isEndedSynced="True" />
+  </AttemptHistory>
   <Segments>
     <Segment>
       <Name>Конец восьмого иннинга</Name>
