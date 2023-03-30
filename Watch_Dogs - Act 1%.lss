@@ -24,6 +24,8 @@
       <RealTime>00:52:22.2048150</RealTime>
       <PauseTime>00:06:27.1252510</PauseTime>
     </Attempt>
+    <Attempt id="5" started="03/30/2023 00:55:21" isStartedSynced="False" ended="03/30/2023 00:55:25" isEndedSynced="False" />
+    <Attempt id="6" started="03/30/2023 00:55:35" isStartedSynced="False" ended="03/30/2023 00:56:24" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -43,6 +45,9 @@
         </Time>
         <Time id="4">
           <RealTime>00:04:42.5377210</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:05:55.5335906</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
