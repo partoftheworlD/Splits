@@ -3,8 +3,7 @@
   <GameIcon />
   <GameName>Watch_Dogs</GameName>
   <CategoryName>Act 1%</CategoryName>
-  <LayoutPath>
-  </LayoutPath>
+  <LayoutPath>D:\Speedruns\DefaultLayer\wd.lsl</LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">PC</Platform>
@@ -37,7 +36,7 @@
     <Attempt id="15" started="04/03/2023 17:23:09" isStartedSynced="True" ended="04/03/2023 17:23:10" isEndedSynced="True" />
     <Attempt id="16" started="04/03/2023 17:26:12" isStartedSynced="True" ended="04/03/2023 17:26:13" isEndedSynced="True" />
     <Attempt id="17" started="04/03/2023 17:26:39" isStartedSynced="True" ended="04/03/2023 18:31:37" isEndedSynced="True">
-      <RealTime>01:04:58.3868177</RealTime>
+      <RealTime>01:04:58.3868170</RealTime>
       <GameTime>00:50:09.9218380</GameTime>
     </Attempt>
     <Attempt id="18" started="04/03/2023 18:32:16" isStartedSynced="True" ended="04/03/2023 18:32:26" isEndedSynced="True" />
@@ -48,11 +47,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <GameTime>00:09:17.5593772</GameTime>
+          <GameTime>00:09:17.5593770</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <GameTime>00:09:17.5593772</GameTime>
+        <GameTime>00:09:17.5593770</GameTime>
       </BestSegmentTime>
       <SegmentHistory />
     </Segment>
@@ -61,11 +60,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <GameTime>00:18:06.1052489</GameTime>
+          <GameTime>00:18:06.1052480</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <GameTime>00:08:48.5458717</GameTime>
+        <GameTime>00:08:48.5458710</GameTime>
       </BestSegmentTime>
       <SegmentHistory />
     </Segment>
@@ -74,11 +73,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <GameTime>00:20:24.9040853</GameTime>
+          <GameTime>00:20:24.9040849</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <GameTime>00:02:18.7988364</GameTime>
+        <GameTime>00:02:18.7988360</GameTime>
       </BestSegmentTime>
       <SegmentHistory />
     </Segment>
@@ -87,11 +86,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <GameTime>00:25:07.1619295</GameTime>
+          <GameTime>00:25:07.1619290</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <GameTime>00:04:42.2578442</GameTime>
+        <GameTime>00:04:42.2578440</GameTime>
       </BestSegmentTime>
       <SegmentHistory />
     </Segment>
@@ -100,11 +99,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <GameTime>00:29:11.9569866</GameTime>
+          <GameTime>00:29:11.9569860</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <GameTime>00:04:04.7950571</GameTime>
+        <GameTime>00:04:04.7950570</GameTime>
       </BestSegmentTime>
       <SegmentHistory />
     </Segment>
@@ -113,11 +112,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <GameTime>00:34:35.3436379</GameTime>
+          <GameTime>00:34:35.3436370</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <GameTime>00:05:23.3866513</GameTime>
+        <GameTime>00:05:23.3866509</GameTime>
       </BestSegmentTime>
       <SegmentHistory />
     </Segment>
@@ -126,11 +125,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <GameTime>00:35:51.2650968</GameTime>
+          <GameTime>00:35:51.2650960</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <GameTime>00:01:15.9214589</GameTime>
+        <GameTime>00:01:15.9214580</GameTime>
       </BestSegmentTime>
       <SegmentHistory />
     </Segment>
@@ -139,11 +138,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <GameTime>00:39:39.3413715</GameTime>
+          <GameTime>00:39:39.3413710</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <GameTime>00:03:48.0762747</GameTime>
+        <GameTime>00:03:48.0762740</GameTime>
       </BestSegmentTime>
       <SegmentHistory />
     </Segment>
@@ -152,11 +151,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <GameTime>00:43:19.9900183</GameTime>
+          <GameTime>00:43:19.9900180</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <GameTime>00:03:40.6486468</GameTime>
+        <GameTime>00:03:40.6486460</GameTime>
       </BestSegmentTime>
       <SegmentHistory />
     </Segment>
@@ -169,7 +168,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <GameTime>00:06:49.9318197</GameTime>
+        <GameTime>00:06:49.9318190</GameTime>
       </BestSegmentTime>
       <SegmentHistory />
     </Segment>
