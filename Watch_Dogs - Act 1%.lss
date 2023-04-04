@@ -12,7 +12,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>6</AttemptCount>
+  <AttemptCount>2</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="03/20/2023 20:20:23" isStartedSynced="True" ended="03/20/2023 20:27:47" isEndedSynced="True" />
     <Attempt id="2" started="03/20/2023 20:29:14" isStartedSynced="True" ended="03/20/2023 20:31:31" isEndedSynced="True" />
@@ -53,6 +53,15 @@
     <Attempt id="29" started="04/04/2023 14:35:03" isStartedSynced="True" ended="04/04/2023 14:35:03" isEndedSynced="True" />
     <Attempt id="30" started="04/04/2023 14:35:43" isStartedSynced="True" ended="04/04/2023 14:35:44" isEndedSynced="True" />
     <Attempt id="31" started="04/04/2023 14:35:51" isStartedSynced="True" ended="04/04/2023 14:35:52" isEndedSynced="True" />
+    <Attempt id="32" started="04/04/2023 14:38:57" isStartedSynced="True" ended="04/04/2023 14:38:58" isEndedSynced="True" />
+    <Attempt id="33" started="04/04/2023 14:39:00" isStartedSynced="True" ended="04/04/2023 14:39:00" isEndedSynced="True" />
+    <Attempt id="34" started="04/04/2023 14:39:24" isStartedSynced="True" ended="04/04/2023 14:40:49" isEndedSynced="True" />
+    <Attempt id="35" started="04/04/2023 14:40:50" isStartedSynced="True" ended="04/04/2023 14:40:50" isEndedSynced="True" />
+    <Attempt id="36" started="04/04/2023 14:40:56" isStartedSynced="True" ended="04/04/2023 14:41:06" isEndedSynced="True" />
+    <Attempt id="37" started="04/04/2023 14:41:07" isStartedSynced="True" ended="04/04/2023 14:41:37" isEndedSynced="True" />
+    <Attempt id="38" started="04/04/2023 14:41:37" isStartedSynced="True" ended="04/04/2023 14:41:59" isEndedSynced="True" />
+    <Attempt id="39" started="04/04/2023 14:42:06" isStartedSynced="True" ended="04/04/2023 14:42:09" isEndedSynced="True" />
+    <Attempt id="40" started="04/04/2023 14:42:24" isStartedSynced="True" ended="04/04/2023 15:02:29" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -64,9 +73,15 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <GameTime>00:09:17.5593770</GameTime>
+        <RealTime>00:05:00.7329142</RealTime>
+        <GameTime>00:04:43.3990000</GameTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="40">
+          <RealTime>00:05:00.7329142</RealTime>
+          <GameTime>00:04:43.3990000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Старший брат</Name>
@@ -77,9 +92,15 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <GameTime>00:08:48.5458710</GameTime>
+        <RealTime>00:08:51.9181119</RealTime>
+        <GameTime>00:07:49.2670000</GameTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="40">
+          <RealTime>00:08:51.9181119</RealTime>
+          <GameTime>00:07:49.2670000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Пропуск за кулисы</Name>
@@ -90,9 +111,15 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <GameTime>00:02:18.7988360</GameTime>
+        <RealTime>00:02:53.5002053</RealTime>
+        <GameTime>00:01:54.6910000</GameTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="40">
+          <RealTime>00:02:53.5002053</RealTime>
+          <GameTime>00:01:54.6910000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Назойливая муха</Name>
@@ -129,7 +156,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <GameTime>00:05:23.3866499</GameTime>
+        <GameTime>00:05:23.3866490</GameTime>
       </BestSegmentTime>
       <SegmentHistory />
     </Segment>
