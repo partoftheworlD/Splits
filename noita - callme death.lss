@@ -3,8 +3,7 @@
   <GameIcon />
   <GameName>noita</GameName>
   <CategoryName>callme suicide</CategoryName>
-  <LayoutPath>
-  </LayoutPath>
+  <LayoutPath>D:\Speedruns\DefaultLayer\noita.lsl</LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">
