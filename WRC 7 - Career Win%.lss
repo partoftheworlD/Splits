@@ -2,7 +2,7 @@
 <Run version="1.7.0">
   <GameIcon />
   <GameName>WRC 7</GameName>
-  <CategoryName>Career Win%</CategoryName>
+  <CategoryName>Career Win% Easy</CategoryName>
   <LayoutPath>D:\Speedruns\DefaultLayer\wrc7.lsl</LayoutPath>
   <Metadata>
     <Run id="" />
@@ -13,7 +13,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>0</AttemptCount>
+  <AttemptCount>1</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="06/23/2023 15:17:20" isStartedSynced="True" ended="06/23/2023 15:17:21" isEndedSynced="True" />
     <Attempt id="2" started="06/23/2023 15:17:35" isStartedSynced="True" ended="06/23/2023 15:17:36" isEndedSynced="True" />
@@ -25,10 +25,15 @@
     <Attempt id="8" started="06/23/2023 15:34:54" isStartedSynced="True" ended="06/23/2023 15:35:55" isEndedSynced="True" />
     <Attempt id="9" started="06/23/2023 16:26:23" isStartedSynced="True" ended="06/23/2023 16:26:34" isEndedSynced="True" />
     <Attempt id="10" started="06/23/2023 16:27:44" isStartedSynced="True" ended="06/23/2023 16:27:47" isEndedSynced="True" />
+    <Attempt id="11" started="06/23/2023 17:47:40" isStartedSynced="True" ended="06/23/2023 17:47:45" isEndedSynced="True" />
+    <Attempt id="12" started="06/23/2023 17:47:46" isStartedSynced="True" ended="06/23/2023 17:47:59" isEndedSynced="True" />
+    <Attempt id="13" started="06/23/2023 17:48:00" isStartedSynced="True" ended="06/23/2023 17:48:03" isEndedSynced="True" />
+    <Attempt id="14" started="06/23/2023 17:48:03" isStartedSynced="True" ended="06/23/2023 17:48:04" isEndedSynced="True" />
+    <Attempt id="15" started="06/23/2023 17:49:01" isStartedSynced="True" ended="06/23/2023 17:49:40" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>1</Name>
+      <Name>Pietrosella</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -37,7 +42,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>2</Name>
+      <Name>La Porta</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -46,7 +51,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>3</Name>
+      <Name>Pietrosella 2</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -55,7 +60,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>4</Name>
+      <Name>Novella</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -64,7 +69,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>5</Name>
+      <Name>Pietrosella 3</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -73,7 +78,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>6</Name>
+      <Name>Ittiri Arena</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -82,7 +87,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>7</Name>
+      <Name>Olmedo</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -91,7 +96,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>8</Name>
+      <Name>Monte Lerno</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -100,7 +105,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>9</Name>
+      <Name>Olmedo Monte</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -109,7 +114,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>10</Name>
+      <Name>Chmielewo</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -118,7 +123,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>11</Name>
+      <Name>Baranowo</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -127,7 +132,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>12</Name>
+      <Name>Mikolajki</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -136,7 +141,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>13</Name>
+      <Name>Baranowo 2</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -145,7 +150,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>14</Name>
+      <Name>Harju</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -154,7 +159,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>15</Name>
+      <Name>Horkka</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -163,7 +168,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>16</Name>
+      <Name>Oun</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -172,7 +177,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>17</Name>
+      <Name>Horkka 2</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -181,7 +186,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>18</Name>
+      <Name>Oun 2</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -190,7 +195,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>19</Name>
+      <Name>Arena</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -199,7 +204,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>20</Name>
+      <Name>Freisen</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -208,7 +213,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>21</Name>
+      <Name>Grafchaft</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -217,7 +222,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>22</Name>
+      <Name>La Fuegra</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -226,7 +231,25 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>23</Name>
+      <Name>Barcelona</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Bot</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>La Fuegra 2</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
