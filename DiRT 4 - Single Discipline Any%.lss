@@ -3,6 +3,8 @@
   <GameIcon />
   <GameName>DiRT 4</GameName>
   <CategoryName>Single Discipline Any%</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">PC</Platform>
@@ -13,7 +15,7 @@
     </Variables>
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>15</AttemptCount>
+  <AttemptCount>24</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="07/19/2021 11:41:53" isStartedSynced="True" ended="07/19/2021 13:29:25" isEndedSynced="True">
       <PauseTime>00:07:35.9900000</PauseTime>
@@ -52,6 +54,13 @@
     <Attempt id="13" started="07/28/2021 08:57:05" isStartedSynced="True" ended="07/28/2021 14:33:18" isEndedSynced="True">
       <RealTime>05:36:13.1010000</RealTime>
     </Attempt>
+    <Attempt id="14" started="06/26/2023 22:35:23" isStartedSynced="False" ended="06/26/2023 22:35:27" isEndedSynced="False" />
+    <Attempt id="15" started="06/26/2023 22:35:34" isStartedSynced="False" ended="06/26/2023 22:40:45" isEndedSynced="True" />
+    <Attempt id="16" started="06/26/2023 22:55:07" isStartedSynced="True" ended="06/26/2023 22:55:24" isEndedSynced="True" />
+    <Attempt id="17" started="06/26/2023 23:01:08" isStartedSynced="True" ended="06/26/2023 23:01:11" isEndedSynced="True" />
+    <Attempt id="18" started="06/26/2023 23:01:45" isStartedSynced="True" ended="06/26/2023 23:01:47" isEndedSynced="True" />
+    <Attempt id="19" started="06/26/2023 23:01:52" isStartedSynced="True" ended="06/26/2023 23:03:54" isEndedSynced="True" />
+    <Attempt id="20" started="06/26/2023 23:04:18" isStartedSynced="True" ended="06/26/2023 23:04:19" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
