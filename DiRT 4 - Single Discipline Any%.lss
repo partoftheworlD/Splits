@@ -14,7 +14,7 @@
     </Variables>
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>24</AttemptCount>
+  <AttemptCount>25</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="07/19/2021 11:41:53" isStartedSynced="True" ended="07/19/2021 13:29:25" isEndedSynced="True">
       <PauseTime>00:07:35.9900000</PauseTime>
@@ -131,7 +131,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Contemporary Open E2S1 Skip</Name>
+      <Name>Contemporary Open E2S2 Skip</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -148,7 +148,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>'90 International E2S1 Skip</Name>
+      <Name>'90 International</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
