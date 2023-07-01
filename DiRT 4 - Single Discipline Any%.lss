@@ -14,10 +14,11 @@
     </Variables>
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>37</AttemptCount>
+  <AttemptCount>38</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="07/01/2023 18:49:00" isStartedSynced="True" ended="07/01/2023 19:11:41" isEndedSynced="True" />
     <Attempt id="2" started="07/01/2023 19:12:19" isStartedSynced="True" ended="07/01/2023 19:16:26" isEndedSynced="True" />
+    <Attempt id="3" started="07/01/2023 19:16:43" isStartedSynced="True" ended="07/01/2023 20:15:33" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -30,8 +31,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:56.0700000</RealTime>
-        <GameTime>00:01:48.2300000</GameTime>
+        <RealTime>00:01:55.3163116</RealTime>
+        <GameTime>00:01:47.8920000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -41,6 +42,10 @@
         <Time id="2">
           <RealTime>00:01:56.0720710</RealTime>
           <GameTime>00:01:48.2330000</GameTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:55.3163116</RealTime>
+          <GameTime>00:01:47.8920000</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -54,13 +59,17 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:29.3400000</RealTime>
-        <GameTime>00:04:05.7400000</GameTime>
+        <RealTime>00:04:12.6600370</RealTime>
+        <GameTime>00:03:54.6750000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
           <RealTime>00:04:29.3427105</RealTime>
           <GameTime>00:04:05.7450000</GameTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:04:12.6600370</RealTime>
+          <GameTime>00:03:54.6750000</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -82,34 +91,71 @@
           <RealTime>00:05:37.8460266</RealTime>
           <GameTime>00:05:10.9430000</GameTime>
         </Time>
+        <Time id="3">
+          <RealTime>00:05:54.8812305</RealTime>
+          <GameTime>00:05:24.7810000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Contemporary Open E2 Skip</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:22:35.1200000</RealTime>
+          <GameTime>00:20:56.9500000</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:10:31.8700000</RealTime>
+        <GameTime>00:09:52.0400000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:10:31.8780266</RealTime>
+          <GameTime>00:09:52.0410000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Australian Challenge</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:34:09.2700000</RealTime>
+          <GameTime>00:31:51.8300000</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:11:34.1500000</RealTime>
+        <GameTime>00:10:54.8800000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:11:34.1546433</RealTime>
+          <GameTime>00:10:54.8840000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>'90 International</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:58:35.4600000</RealTime>
+          <GameTime>00:55:18.1700000</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:24:26.1900000</RealTime>
+        <GameTime>00:23:26.3400000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:24:26.1910566</RealTime>
+          <GameTime>00:23:26.3460000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>USA Trophy</Name>
