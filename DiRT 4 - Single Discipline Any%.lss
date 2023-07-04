@@ -13,12 +13,15 @@
       <Variable name="Discipline Any%">Rally</Variable>
     </Variables>
   </Metadata>
-  <Offset>00:00:00</Offset>
-  <AttemptCount>38</AttemptCount>
+  <Offset>00:58:35.4600000</Offset>
+  <AttemptCount>39</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="07/01/2023 18:49:00" isStartedSynced="True" ended="07/01/2023 19:11:41" isEndedSynced="True" />
     <Attempt id="2" started="07/01/2023 19:12:19" isStartedSynced="True" ended="07/01/2023 19:16:26" isEndedSynced="True" />
     <Attempt id="3" started="07/01/2023 19:16:43" isStartedSynced="True" ended="07/01/2023 20:15:33" isEndedSynced="True" />
+    <Attempt id="4" started="07/04/2023 19:13:37" isStartedSynced="True" ended="07/04/2023 19:26:01" isEndedSynced="True">
+      <PauseTime>00:00:17.5744282</PauseTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -47,6 +50,7 @@
           <RealTime>00:01:55.3163116</RealTime>
           <GameTime>00:01:47.8920000</GameTime>
         </Time>
+        <Time id="4" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -71,6 +75,7 @@
           <RealTime>00:04:12.6600370</RealTime>
           <GameTime>00:03:54.6750000</GameTime>
         </Time>
+        <Time id="4" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -95,6 +100,7 @@
           <RealTime>00:05:54.8812305</RealTime>
           <GameTime>00:05:24.7810000</GameTime>
         </Time>
+        <Time id="4" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -115,6 +121,7 @@
           <RealTime>00:10:31.8780266</RealTime>
           <GameTime>00:09:52.0410000</GameTime>
         </Time>
+        <Time id="4" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -135,6 +142,7 @@
           <RealTime>00:11:34.1546433</RealTime>
           <GameTime>00:10:54.8840000</GameTime>
         </Time>
+        <Time id="4" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -155,16 +163,28 @@
           <RealTime>00:24:26.1910566</RealTime>
           <GameTime>00:23:26.3460000</GameTime>
         </Time>
+        <Time id="4" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>USA Trophy</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:10:35.8200000</RealTime>
+          <GameTime>01:06:17.0900000</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:12:00.3600000</RealTime>
+        <GameTime>00:10:58.9200000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>01:10:35.8219810</RealTime>
+          <GameTime>00:10:58.9290000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Winter Stages E2 Skip</Name>
