@@ -13,8 +13,8 @@
       <Variable name="Discipline Any%">Rally</Variable>
     </Variables>
   </Metadata>
-  <Offset>00:58:35.4600000</Offset>
-  <AttemptCount>39</AttemptCount>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>40</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="07/01/2023 18:49:00" isStartedSynced="True" ended="07/01/2023 19:11:41" isEndedSynced="True" />
     <Attempt id="2" started="07/01/2023 19:12:19" isStartedSynced="True" ended="07/01/2023 19:16:26" isEndedSynced="True" />
@@ -22,6 +22,7 @@
     <Attempt id="4" started="07/04/2023 19:13:37" isStartedSynced="True" ended="07/04/2023 19:26:01" isEndedSynced="True">
       <PauseTime>00:00:17.5744282</PauseTime>
     </Attempt>
+    <Attempt id="5" started="07/04/2023 19:28:01" isStartedSynced="True" ended="07/04/2023 19:28:05" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
