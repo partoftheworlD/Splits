@@ -15,7 +15,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>14</AttemptCount>
+  <AttemptCount>16</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="05/07/2023 17:57:16" isStartedSynced="False" ended="05/07/2023 18:07:04" isEndedSynced="True" />
     <Attempt id="2" started="05/07/2023 18:45:34" isStartedSynced="True" ended="05/07/2023 19:05:55" isEndedSynced="True" />
@@ -31,16 +31,27 @@
     <Attempt id="10" started="07/22/2023 11:53:33" isStartedSynced="False" ended="07/22/2023 12:06:36" isEndedSynced="True" />
     <Attempt id="11" started="07/22/2023 12:11:59" isStartedSynced="True" ended="07/22/2023 12:36:25" isEndedSynced="True" />
     <Attempt id="12" started="07/22/2023 12:49:32" isStartedSynced="False" ended="07/22/2023 13:32:21" isEndedSynced="True" />
+    <Attempt id="13" started="07/22/2023 13:43:02" isStartedSynced="True" ended="07/22/2023 14:59:57" isEndedSynced="True">
+      <RealTime>01:16:55.2324271</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
       <Name>End</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:16:55.2300000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>01:16:55.2300000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>01:16:55.2324271</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings />

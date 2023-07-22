@@ -3,7 +3,8 @@
   <GameIcon />
   <GameName>Watch_Dogs</GameName>
   <CategoryName>Act 1%</CategoryName>
-  <LayoutPath>D:\Speedruns\DefaultLayer\wd.lsl</LayoutPath>
+  <LayoutPath>
+  </LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">PC</Platform>

@@ -3,7 +3,8 @@
   <GameIcon />
   <GameName>WRC 7</GameName>
   <CategoryName>Career Win% Easy</CategoryName>
-  <LayoutPath>D:\Speedruns\DefaultLayer\wrc7.lsl</LayoutPath>
+  <LayoutPath>
+  </LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">

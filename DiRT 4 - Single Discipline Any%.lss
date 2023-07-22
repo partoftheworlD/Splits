@@ -3,7 +3,8 @@
   <GameIcon />
   <GameName>DiRT 4</GameName>
   <CategoryName>Single Discipline Any%</CategoryName>
-  <LayoutPath>D:\Speedruns\DefaultLayer\dirt4.lsl</LayoutPath>
+  <LayoutPath>
+  </LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">PC</Platform>
