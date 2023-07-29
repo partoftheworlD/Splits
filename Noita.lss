@@ -15,7 +15,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>26</AttemptCount>
+  <AttemptCount>27</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="05/07/2023 17:57:16" isStartedSynced="False" ended="05/07/2023 18:07:04" isEndedSynced="True" />
     <Attempt id="2" started="05/07/2023 18:45:34" isStartedSynced="True" ended="05/07/2023 19:05:55" isEndedSynced="True" />
@@ -51,6 +51,10 @@
     </Attempt>
     <Attempt id="21" started="07/28/2023 09:52:37" isStartedSynced="False" ended="07/28/2023 10:56:32" isEndedSynced="True" />
     <Attempt id="22" started="07/29/2023 16:11:37" isStartedSynced="False" ended="07/29/2023 16:45:14" isEndedSynced="True" />
+    <Attempt id="23" started="07/29/2023 17:43:58" isStartedSynced="False" ended="07/29/2023 19:19:51" isEndedSynced="True">
+      <RealTime>01:03:07.5694666</RealTime>
+      <PauseTime>00:32:47.9736345</PauseTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -82,6 +86,9 @@
         </Time>
         <Time id="20">
           <RealTime>01:41:03.2909899</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>01:03:07.5694666</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
