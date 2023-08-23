@@ -30,7 +30,7 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>cops</Name>
+      <Name>oh, cops</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -61,11 +61,11 @@
         <RealTime>00:07:46.0690344</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="2">
-          <RealTime>00:08:46.0630720</RealTime>
-        </Time>
         <Time id="0">
           <RealTime>00:07:46.0690344</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:08:46.0630720</RealTime>
         </Time>
         <Time id="3">
           <RealTime>00:08:35.2580611</RealTime>
