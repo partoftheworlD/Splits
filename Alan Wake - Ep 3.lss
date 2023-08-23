@@ -14,17 +14,29 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>0</AttemptCount>
-  <AttemptHistory />
+  <AttemptCount>1</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="08/22/2023 22:57:35" isStartedSynced="True" ended="08/23/2023 00:19:32" isEndedSynced="True">
+      <RealTime>01:21:57.0217894</RealTime>
+    </Attempt>
+  </AttemptHistory>
   <Segments>
     <Segment>
       <Name>end</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:21:57.0217894</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>01:21:57.0217894</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>01:21:57.0217894</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings />
