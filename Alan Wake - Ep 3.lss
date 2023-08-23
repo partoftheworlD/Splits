@@ -62,7 +62,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>train depot</Name>
+      <Name>coal</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -73,10 +73,10 @@
         <RealTime>00:05:22.0512850</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
+        <Time id="1" />
         <Time id="2">
           <RealTime>00:05:22.0512850</RealTime>
         </Time>
-        <Time id="1" />
       </SegmentHistory>
     </Segment>
     <Segment>
