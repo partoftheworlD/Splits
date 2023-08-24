@@ -13,8 +13,8 @@
     </Region>
     <Variables />
   </Metadata>
-  <Offset>02:02:15.3000000</Offset>
-  <AttemptCount>2</AttemptCount>
+  <Offset>03:32:26.3700000</Offset>
+  <AttemptCount>4</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="08/24/2023 12:56:54" isStartedSynced="True" ended="08/24/2023 14:10:26" isEndedSynced="True">
       <RealTime>01:10:59.3237417</RealTime>
@@ -23,6 +23,13 @@
     <Attempt id="2" started="08/24/2023 14:38:35" isStartedSynced="True" ended="08/24/2023 15:29:55" isEndedSynced="True">
       <RealTime>02:02:15.3063217</RealTime>
       <PauseTime>00:00:03.9476465</PauseTime>
+    </Attempt>
+    <Attempt id="3" started="08/24/2023 16:03:42" isStartedSynced="True" ended="08/24/2023 16:26:21" isEndedSynced="True">
+      <RealTime>02:24:54.2742264</RealTime>
+    </Attempt>
+    <Attempt id="4" started="08/24/2023 17:10:31" isStartedSynced="True" ended="08/24/2023 18:22:32" isEndedSynced="True">
+      <RealTime>03:32:26.3779818</RealTime>
+      <PauseTime>00:04:28.4844484</PauseTime>
     </Attempt>
   </AttemptHistory>
   <Segments>
