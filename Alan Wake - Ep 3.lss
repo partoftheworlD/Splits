@@ -25,6 +25,7 @@
     <Attempt id="3" started="08/26/2023 13:54:04" isStartedSynced="False" ended="08/26/2023 14:28:39" isEndedSynced="True">
       <RealTime>00:34:37.3480709</RealTime>
     </Attempt>
+    <Attempt id="4" started="08/26/2023 14:41:24" isStartedSynced="True" ended="08/26/2023 14:42:08" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -101,7 +102,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:17:25.9698380</RealTime>
+          <RealTime>00:21:07.4398380</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -120,7 +121,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:30:20.0788359</RealTime>
+          <RealTime>00:34:01.5488359</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -143,7 +144,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:36:13.3657199</RealTime>
+          <RealTime>00:39:54.8357199</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
