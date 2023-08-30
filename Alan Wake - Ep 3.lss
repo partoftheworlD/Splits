@@ -14,8 +14,11 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>8</AttemptCount>
-  <AttemptHistory />
+  <AttemptCount>10</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="08/30/2023 12:04:45" isStartedSynced="True" ended="08/30/2023 12:06:37" isEndedSynced="True" />
+    <Attempt id="2" started="08/30/2023 12:07:01" isStartedSynced="True" ended="08/30/2023 12:18:45" isEndedSynced="True" />
+  </AttemptHistory>
   <Segments>
     <Segment>
       <Name>oh, cops</Name>
@@ -26,9 +29,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:44.9200000</RealTime>
+        <RealTime>00:02:44.6123939</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:44.6123939</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>run forest, run</Name>
@@ -39,9 +46,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:07:32.5600000</RealTime>
+        <RealTime>00:07:32.4552095</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:07:32.4552095</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>radio</Name>
