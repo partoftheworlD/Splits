@@ -51,40 +51,9 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:39.5564993</RealTime>
-        <GameTime>00:02:40.9357853</GameTime>
+        <RealTime>00:02:39.7066999</RealTime>
       </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="0">
-          <RealTime>00:02:49.1100000</RealTime>
-        </Time>
-        <Time id="2">
-          <RealTime>00:02:44.6123939</RealTime>
-        </Time>
-        <Time id="3">
-          <RealTime>00:02:42.5002768</RealTime>
-        </Time>
-        <Time id="4">
-          <RealTime>00:02:39.6369474</RealTime>
-        </Time>
-        <Time id="5">
-          <RealTime>00:02:39.5564993</RealTime>
-        </Time>
-        <Time id="6">
-          <RealTime>00:02:39.7216410</RealTime>
-        </Time>
-        <Time id="9">
-          <RealTime>00:02:41.0614974</RealTime>
-          <GameTime>00:02:40.9357853</GameTime>
-        </Time>
-        <Time id="10">
-          <RealTime>00:02:45.4501953</RealTime>
-          <GameTime>00:02:45.2633502</GameTime>
-        </Time>
-        <Time id="11">
-          <RealTime>00:02:39.7066999</RealTime>
-        </Time>
-      </SegmentHistory>
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>run forest, run</Name>
