@@ -14,9 +14,12 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>95</AttemptCount>
+  <AttemptCount>96</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="10/05/2023 11:29:21" isStartedSynced="True" ended="10/05/2023 12:01:07" isEndedSynced="True" />
+    <Attempt id="2" started="10/05/2023 12:11:48" isStartedSynced="True" ended="10/05/2023 12:43:38" isEndedSynced="True">
+      <RealTime>00:31:50.6989353</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -33,6 +36,9 @@
       <SegmentHistory>
         <Time id="1">
           <RealTime>00:02:37.5057560</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:39.2557118</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -51,6 +57,9 @@
         <Time id="1">
           <RealTime>00:06:55.6285197</RealTime>
         </Time>
+        <Time id="2">
+          <RealTime>00:07:05.6280384</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -67,6 +76,9 @@
       <SegmentHistory>
         <Time id="1">
           <RealTime>00:05:04.7534521</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:04:59.5777764</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -85,6 +97,9 @@
         <Time id="1">
           <RealTime>00:01:30.5384627</RealTime>
         </Time>
+        <Time id="2">
+          <RealTime>00:01:37.9990587</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -98,7 +113,11 @@
       <BestSegmentTime>
         <RealTime>00:15:28.1000000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:15:28.2383500</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings>
