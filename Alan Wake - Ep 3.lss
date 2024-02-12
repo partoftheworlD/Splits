@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>104</AttemptCount>
+  <AttemptCount>108</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="10/05/2023 11:29:21" isStartedSynced="True" ended="10/05/2023 12:01:07" isEndedSynced="True" />
     <Attempt id="2" started="10/05/2023 12:11:48" isStartedSynced="True" ended="10/05/2023 12:43:38" isEndedSynced="True">
@@ -43,6 +43,9 @@
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:02:39.0406431</RealTime>
+        </SplitTime>
+        <SplitTime name="vs WR">
+          <RealTime>00:02:35</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -79,6 +82,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:09:45.3485801</RealTime>
         </SplitTime>
+        <SplitTime name="vs WR">
+          <RealTime>00:09:45</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:06:53.6900000</RealTime>
@@ -113,6 +119,9 @@
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:14:21.4492646</RealTime>
+        </SplitTime>
+        <SplitTime name="vs WR">
+          <RealTime>00:14:20</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -149,6 +158,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:16:02.4666302</RealTime>
         </SplitTime>
+        <SplitTime name="vs WR">
+          <RealTime>00:16:00</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:01:23.6968622</RealTime>
@@ -183,6 +195,9 @@
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:31:23.3420178</RealTime>
+        </SplitTime>
+        <SplitTime name="vs WR">
+          <RealTime>00:31:59</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
