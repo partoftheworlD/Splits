@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>7</AttemptCount>
+  <AttemptCount>9</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="02/13/2024 14:27:23" isStartedSynced="True" ended="02/13/2024 14:45:56" isEndedSynced="True">
       <RealTime>00:18:33.3692770</RealTime>
@@ -28,6 +28,10 @@
     <Attempt id="6" started="02/13/2024 14:25:39" isStartedSynced="False" ended="02/13/2024 14:36:07" isEndedSynced="False">
       <RealTime>00:10:27.4714942</RealTime>
     </Attempt>
+    <Attempt id="7" started="02/13/2024 14:41:24" isStartedSynced="False" ended="02/13/2024 14:50:22" isEndedSynced="False">
+      <RealTime>00:08:58.2204198</RealTime>
+    </Attempt>
+    <Attempt id="8" started="02/13/2024 14:54:02" isStartedSynced="False" ended="02/13/2024 14:54:14" isEndedSynced="False" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -35,16 +39,19 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:02:50.9661932</RealTime>
+          <RealTime>00:02:32.5911363</RealTime>
         </SplitTime>
         <SplitTime name="vs Goal" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:50.9661932</RealTime>
+        <RealTime>00:02:32.5911363</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="6">
           <RealTime>00:02:50.9661932</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:32.5911363</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -53,7 +60,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:05:42.8958614</RealTime>
+          <RealTime>00:05:25.6826364</RealTime>
         </SplitTime>
         <SplitTime name="vs Goal" />
       </SplitTimes>
@@ -64,23 +71,29 @@
         <Time id="6">
           <RealTime>00:02:51.9296682</RealTime>
         </Time>
+        <Time id="7">
+          <RealTime>00:02:53.0915001</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Toxic Slime dead, Sleep</Name>
+      <Name>Toxic Slime &amp; Sleep</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:08:24.2361235</RealTime>
+          <RealTime>00:07:18.3500670</RealTime>
         </SplitTime>
         <SplitTime name="vs Goal" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:41.3402621</RealTime>
+        <RealTime>00:01:52.6674306</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="6">
           <RealTime>00:02:41.3402621</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:52.6674306</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -89,16 +102,19 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:09:23.7380705</RealTime>
+          <RealTime>00:08:02.5034031</RealTime>
         </SplitTime>
         <SplitTime name="vs Goal" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:59.5019470</RealTime>
+        <RealTime>00:00:44.1533361</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="6">
           <RealTime>00:00:59.5019470</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:44.1533361</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -107,18 +123,21 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:10:27.4714942</RealTime>
+          <RealTime>00:08:58.2204198</RealTime>
         </SplitTime>
         <SplitTime name="vs Goal">
           <RealTime>00:10:00</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:03.7334237</RealTime>
+        <RealTime>00:00:55.7170167</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="6">
           <RealTime>00:01:03.7334237</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:55.7170167</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
