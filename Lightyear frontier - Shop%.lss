@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>9</AttemptCount>
+  <AttemptCount>11</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="02/13/2024 14:27:23" isStartedSynced="True" ended="02/13/2024 14:45:56" isEndedSynced="True">
       <RealTime>00:18:33.3692770</RealTime>
@@ -32,6 +32,8 @@
       <RealTime>00:08:58.2204198</RealTime>
     </Attempt>
     <Attempt id="8" started="02/13/2024 14:54:02" isStartedSynced="False" ended="02/13/2024 14:54:14" isEndedSynced="False" />
+    <Attempt id="9" started="02/13/2024 20:05:55" isStartedSynced="True" ended="02/13/2024 20:05:56" isEndedSynced="True" />
+    <Attempt id="10" started="02/13/2024 20:06:03" isStartedSynced="True" ended="02/13/2024 20:06:07" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -126,7 +128,7 @@
           <RealTime>00:08:58.2204198</RealTime>
         </SplitTime>
         <SplitTime name="vs Goal">
-          <RealTime>00:10:00</RealTime>
+          <RealTime>00:07:59</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
