@@ -157,7 +157,6 @@
         <SplitTime name="Personal Best">
           <RealTime>00:02:47.2729235</RealTime>
         </SplitTime>
-        <SplitTime name="vs Goal" />
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:02:42.2351977</RealTime>
@@ -265,7 +264,6 @@
         <SplitTime name="Personal Best">
           <RealTime>00:05:05.0940319</RealTime>
         </SplitTime>
-        <SplitTime name="vs Goal" />
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:02:13.0135948</RealTime>
@@ -370,7 +368,6 @@
         <SplitTime name="Personal Best">
           <RealTime>00:05:49.7853020</RealTime>
         </SplitTime>
-        <SplitTime name="vs Goal" />
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:32.6438561</RealTime>
@@ -469,9 +466,6 @@
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:06:11.6674135</RealTime>
-        </SplitTime>
-        <SplitTime name="vs Goal">
-          <RealTime>00:06:00</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
