@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>108</AttemptCount>
+  <AttemptCount>109</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="10/05/2023 11:29:21" isStartedSynced="True" ended="10/05/2023 12:01:07" isEndedSynced="True" />
     <Attempt id="2" started="10/05/2023 12:11:48" isStartedSynced="True" ended="10/05/2023 12:43:38" isEndedSynced="True">
@@ -38,7 +38,7 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>gandalf and cops</Name>
+      <Name>-gandalf and cops</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -49,34 +49,12 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:37.5057560</RealTime>
+        <RealTime>00:02:39.0406431</RealTime>
       </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="0">
-          <RealTime>00:02:43.3400000</RealTime>
-        </Time>
-        <Time id="1">
-          <RealTime>00:02:37.5057560</RealTime>
-        </Time>
-        <Time id="2">
-          <RealTime>00:02:39.2557118</RealTime>
-        </Time>
-        <Time id="3">
-          <RealTime>00:02:38.9022047</RealTime>
-        </Time>
-        <Time id="5">
-          <RealTime>00:02:40.2292641</RealTime>
-        </Time>
-        <Time id="6">
-          <RealTime>00:02:39.0406431</RealTime>
-        </Time>
-        <Time id="9">
-          <RealTime>00:02:39.3145130</RealTime>
-        </Time>
-      </SegmentHistory>
+      <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>run forest, run</Name>
+      <Name>-run forest, run</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -114,7 +92,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>radio</Name>
+      <Name>-radio</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -152,7 +130,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>drive to</Name>
+      <Name>-drive to</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -190,7 +168,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>coal mine</Name>
+      <Name>{E3} coal mine</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
