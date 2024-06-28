@@ -44,9 +44,6 @@
         <SplitTime name="Personal Best">
           <RealTime>00:02:39.0406431</RealTime>
         </SplitTime>
-        <SplitTime name="vs WR">
-          <RealTime>00:02:35</RealTime>
-        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:02:39.0406431</RealTime>
@@ -59,9 +56,6 @@
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:09:45.3485801</RealTime>
-        </SplitTime>
-        <SplitTime name="vs WR">
-          <RealTime>00:09:45</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -98,9 +92,6 @@
         <SplitTime name="Personal Best">
           <RealTime>00:14:21.4492646</RealTime>
         </SplitTime>
-        <SplitTime name="vs WR">
-          <RealTime>00:14:20</RealTime>
-        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:04:36.1006845</RealTime>
@@ -136,9 +127,6 @@
         <SplitTime name="Personal Best">
           <RealTime>00:16:02.4666302</RealTime>
         </SplitTime>
-        <SplitTime name="vs WR">
-          <RealTime>00:16:00</RealTime>
-        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:01:23.6968622</RealTime>
@@ -168,14 +156,11 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>{E3} coal mine</Name>
+      <Name>{Ep3} coal mine</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:31:23.3420178</RealTime>
-        </SplitTime>
-        <SplitTime name="vs WR">
-          <RealTime>00:31:59</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
