@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>114</AttemptCount>
+  <AttemptCount>0</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="10/05/2023 11:29:21" isStartedSynced="True" ended="10/05/2023 12:01:07" isEndedSynced="True" />
     <Attempt id="2" started="10/05/2023 12:11:48" isStartedSynced="True" ended="10/05/2023 12:43:38" isEndedSynced="True">
@@ -59,7 +59,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-i'm fast boi</Name>
+      <Name>-bad runner</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
