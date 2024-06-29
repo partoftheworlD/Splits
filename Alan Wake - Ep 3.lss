@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>112</AttemptCount>
+  <AttemptCount>114</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="10/05/2023 11:29:21" isStartedSynced="True" ended="10/05/2023 12:01:07" isEndedSynced="True" />
     <Attempt id="2" started="10/05/2023 12:11:48" isStartedSynced="True" ended="10/05/2023 12:43:38" isEndedSynced="True">
@@ -37,6 +37,8 @@
     <Attempt id="9" started="10/06/2023 19:47:30" isStartedSynced="True" ended="10/06/2023 20:19:10" isEndedSynced="True" />
     <Attempt id="10" started="06/28/2024 19:53:35" isStartedSynced="False" ended="06/28/2024 19:53:37" isEndedSynced="False" />
     <Attempt id="11" started="06/28/2024 19:53:58" isStartedSynced="False" ended="06/28/2024 19:54:02" isEndedSynced="False" />
+    <Attempt id="12" started="06/29/2024 11:15:16" isStartedSynced="False" ended="06/29/2024 11:47:25" isEndedSynced="True" />
+    <Attempt id="13" started="06/29/2024 16:44:47" isStartedSynced="True" ended="06/29/2024 16:44:47" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -50,10 +52,14 @@
       <BestSegmentTime>
         <RealTime>00:02:39.0406431</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="12">
+          <RealTime>00:02:39.2288260</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-run forest, run</Name>
+      <Name>-i'm fast boi</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -85,10 +91,13 @@
         <Time id="9">
           <RealTime>00:07:14.1256154</RealTime>
         </Time>
+        <Time id="12">
+          <RealTime>00:07:08.4554052</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-radio</Name>
+      <Name>{Ep3 On the Run}radio</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -120,10 +129,13 @@
         <Time id="9">
           <RealTime>00:04:37.8978532</RealTime>
         </Time>
+        <Time id="12">
+          <RealTime>00:04:45.2455827</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-drive to</Name>
+      <Name>-road to work</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -155,10 +167,13 @@
         <Time id="9">
           <RealTime>00:01:23.6968622</RealTime>
         </Time>
+        <Time id="12">
+          <RealTime>00:01:41.9555564</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>{Ep3} coal mine</Name>
+      <Name>{Ep3 Mirror Peak} end</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
