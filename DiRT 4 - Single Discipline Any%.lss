@@ -15,7 +15,7 @@
     </Variables>
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>40</AttemptCount>
+  <AttemptCount>44</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="07/01/2023 18:49:00" isStartedSynced="True" ended="07/01/2023 19:11:41" isEndedSynced="True" />
     <Attempt id="2" started="07/01/2023 19:12:19" isStartedSynced="True" ended="07/01/2023 19:16:26" isEndedSynced="True" />
@@ -24,10 +24,12 @@
       <PauseTime>00:00:17.5744282</PauseTime>
     </Attempt>
     <Attempt id="5" started="07/04/2023 19:28:01" isStartedSynced="True" ended="07/04/2023 19:28:05" isEndedSynced="True" />
+    <Attempt id="6" started="06/28/2024 20:01:10" isStartedSynced="True" ended="06/28/2024 20:01:17" isEndedSynced="True" />
+    <Attempt id="7" started="06/28/2024 20:01:29" isStartedSynced="True" ended="06/28/2024 20:01:40" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>National Clubman</Name>
+      <Name>-National Clubman</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -56,7 +58,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>National Rally B</Name>
+      <Name>-National Rally B</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -81,7 +83,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>National Rally A E2 Skip</Name>
+      <Name>{Step 1} National Rally A E2 Skip</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -106,7 +108,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Contemporary Open E2 Skip</Name>
+      <Name>-Contemporary Open E2 Skip</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -127,7 +129,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Australian Challenge</Name>
+      <Name>-Australian Challenge</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -148,7 +150,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>'90 International</Name>
+      <Name>-'90 International</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -169,7 +171,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>USA Trophy</Name>
+      <Name>{Step 2} USA Trophy</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -189,48 +191,68 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Winter Stages E2 Skip</Name>
+      <Name>-Winter Stages E2 Skip</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:49:35.8200000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:39:00</RealTime>
+      </BestSegmentTime>
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Noughties Cup</Name>
+      <Name>-Noughties Cup</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>02:29:16.8200000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:39:41</RealTime>
+      </BestSegmentTime>
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Euro Loose</Name>
+      <Name>{Step 3} Euro Loose</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>03:07:45.8200000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:38:29</RealTime>
+      </BestSegmentTime>
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Intercontinental Series Skip 3</Name>
+      <Name>-Intercontinental Series Skip 3</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>04:28:41</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>01:20:55.1800000</RealTime>
+      </BestSegmentTime>
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Global Rally Series Skip 3,4,5</Name>
+      <Name>{Step 4}Global Rally Series Skip 3,4,5</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>05:33:41</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:38:13.8200000</RealTime>
+      </BestSegmentTime>
       <SegmentHistory />
     </Segment>
   </Segments>
