@@ -13,8 +13,8 @@
     </Region>
     <Variables />
   </Metadata>
-  <Offset>00:14:57.0200000</Offset>
-  <AttemptCount>7</AttemptCount>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>8</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="06/30/2024 09:53:17" isStartedSynced="True" ended="06/30/2024 09:54:37" isEndedSynced="True" />
     <Attempt id="2" started="06/30/2024 09:54:37" isStartedSynced="True" ended="06/30/2024 09:55:16" isEndedSynced="True" />
@@ -30,6 +30,10 @@
     <Attempt id="7" started="06/30/2024 11:13:13" isStartedSynced="True" ended="06/30/2024 11:21:25" isEndedSynced="True">
       <PauseTime>00:00:13.2038297</PauseTime>
     </Attempt>
+    <Attempt id="8" started="06/30/2024 12:35:06" isStartedSynced="True" ended="06/30/2024 13:11:24" isEndedSynced="True">
+      <RealTime>00:33:22.8661577</RealTime>
+      <PauseTime>00:02:54.3538699</PauseTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -41,7 +45,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:49.2371833</RealTime>
+        <RealTime>00:02:44.3778047</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="4">
@@ -49,6 +53,9 @@
         </Time>
         <Time id="6" />
         <Time id="7" />
+        <Time id="8">
+          <RealTime>00:02:44.3778047</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -60,7 +67,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:07:03.9623049</RealTime>
+        <RealTime>00:07:02.9860729</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="4">
@@ -68,10 +75,13 @@
         </Time>
         <Time id="6" />
         <Time id="7" />
+        <Time id="8">
+          <RealTime>00:07:02.9860729</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>{E3P1} radio</Name>
+      <Name>-radio</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -87,6 +97,9 @@
         </Time>
         <Time id="6" />
         <Time id="7" />
+        <Time id="8">
+          <RealTime>00:05:08.8175033</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -98,7 +111,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:38.8119069</RealTime>
+        <RealTime>00:01:29.9388300</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="4">
@@ -110,20 +123,27 @@
         <Time id="7">
           <RealTime>00:16:32.6380540</RealTime>
         </Time>
+        <Time id="8">
+          <RealTime>00:01:29.9388300</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>{E3P2} coal mine</Name>
+      <Name>{EP3} coal mine</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:31:35.8380404</RealTime>
+          <RealTime>00:33:35.8380404</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:15:00</RealTime>
+        <RealTime>00:17:00</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:17:00</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings>
