@@ -13,53 +13,116 @@
     </Region>
     <Variables />
   </Metadata>
-  <Offset>00:00:00</Offset>
-  <AttemptCount>0</AttemptCount>
-  <AttemptHistory />
+  <Offset>00:14:57.0200000</Offset>
+  <AttemptCount>7</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="06/30/2024 09:53:17" isStartedSynced="True" ended="06/30/2024 09:54:37" isEndedSynced="True" />
+    <Attempt id="2" started="06/30/2024 09:54:37" isStartedSynced="True" ended="06/30/2024 09:55:16" isEndedSynced="True" />
+    <Attempt id="3" started="06/30/2024 09:55:16" isStartedSynced="True" ended="06/30/2024 09:55:38" isEndedSynced="True" />
+    <Attempt id="4" started="06/30/2024 10:00:01" isStartedSynced="True" ended="06/30/2024 10:26:09" isEndedSynced="True">
+      <RealTime>00:25:28.2225132</RealTime>
+      <PauseTime>00:00:40.2171566</PauseTime>
+    </Attempt>
+    <Attempt id="5" started="06/30/2024 10:32:51" isStartedSynced="True" ended="06/30/2024 10:42:06" isEndedSynced="True" />
+    <Attempt id="6" started="06/30/2024 11:02:46" isStartedSynced="True" ended="06/30/2024 11:12:52" isEndedSynced="True">
+      <PauseTime>00:01:28.7903607</PauseTime>
+    </Attempt>
+    <Attempt id="7" started="06/30/2024 11:13:13" isStartedSynced="True" ended="06/30/2024 11:21:25" isEndedSynced="True">
+      <PauseTime>00:00:13.2038297</PauseTime>
+    </Attempt>
+  </AttemptHistory>
   <Segments>
     <Segment>
       <Name>-gandalf and cops</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:49.2371833</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:02:49.2371833</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:02:49.2371833</RealTime>
+        </Time>
+        <Time id="6" />
+        <Time id="7" />
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-bad runner</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:53.1994882</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:07:03.9623049</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:07:03.9623049</RealTime>
+        </Time>
+        <Time id="6" />
+        <Time id="7" />
+      </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-radio</Name>
+      <Name>{E3P1} radio</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:57.0261335</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:05:03.8266453</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:05:03.8266453</RealTime>
+        </Time>
+        <Time id="6" />
+        <Time id="7" />
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-road to work</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:16:35.8380404</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:01:38.8119069</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:38.8119069</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:16:43.5657706</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:16:32.6380540</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>{Ep3} end</Name>
+      <Name>{E3P2} coal mine</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:31:35.8380404</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:15:00</RealTime>
+      </BestSegmentTime>
       <SegmentHistory />
     </Segment>
   </Segments>
