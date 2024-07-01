@@ -244,60 +244,6 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>turn power off</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:18:34.0239882</RealTime>
-          <GameTime>00:18:29.7256152</GameTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:02:08.7851208</RealTime>
-        <GameTime>00:02:08.7800000</GameTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="8" />
-        <Time id="9" />
-        <Time id="12" />
-        <Time id="14">
-          <RealTime>00:02:08.7851208</RealTime>
-          <GameTime>00:02:08.7851208</GameTime>
-        </Time>
-        <Time id="20">
-          <RealTime>00:02:12.8785058</RealTime>
-          <GameTime>00:02:12.8785058</GameTime>
-        </Time>
-        <Time id="-1">
-          <GameTime>00:02:08.7800000</GameTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>wagon</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:28:09.5826562</RealTime>
-          <GameTime>00:28:05.2756152</GameTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:09:25.5500000</RealTime>
-        <GameTime>00:09:25.5500000</GameTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="8" />
-        <Time id="9" />
-        <Time id="12" />
-        <Time id="20">
-          <RealTime>00:09:35.5586680</RealTime>
-          <GameTime>00:09:35.5586680</GameTime>
-        </Time>
-        <Time id="-1" />
-      </SegmentHistory>
-    </Segment>
-    <Segment>
       <Name>end</Name>
       <Icon />
       <SplitTimes>
@@ -307,8 +253,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:54.9824401</RealTime>
-        <GameTime>00:03:54.9824401</GameTime>
+        <RealTime>00:15:29.3175609</RealTime>
+        <GameTime>00:15:29.3124401</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="8">
@@ -321,11 +267,11 @@
           <RealTime>00:16:17.8457922</RealTime>
         </Time>
         <Time id="20">
-          <RealTime>00:03:54.9824401</RealTime>
-          <GameTime>00:03:54.9824401</GameTime>
+          <RealTime>00:15:43.4196139</RealTime>
+          <GameTime>00:15:43.4196139</GameTime>
         </Time>
         <Time id="-1">
-          <GameTime>00:13:34.7800000</GameTime>
+          <GameTime>00:15:43.5600000</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -342,11 +288,11 @@
       <Setting id="level2" type="bool">False</Setting>
       <Setting id="video_3300" type="bool">False</Setting>
       <Setting id="level3" type="bool">False</Setting>
-      <Setting id="episode2" type="bool">True</Setting>
+      <Setting id="episode2" type="bool">False</Setting>
       <Setting id="level4" type="bool">False</Setting>
       <Setting id="video_5600" type="bool">False</Setting>
       <Setting id="video_5700" type="bool">False</Setting>
-      <Setting id="level5" type="bool">True</Setting>
+      <Setting id="level5" type="bool">False</Setting>
       <Setting id="episode3" type="bool">True</Setting>
       <Setting id="video_9300" type="bool">False</Setting>
       <Setting id="video_9500" type="bool">False</Setting>
