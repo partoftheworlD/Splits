@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>14</AttemptCount>
+  <AttemptCount>16</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="06/30/2024 09:53:17" isStartedSynced="True" ended="06/30/2024 09:54:37" isEndedSynced="True" />
     <Attempt id="2" started="06/30/2024 09:54:37" isStartedSynced="True" ended="06/30/2024 09:55:16" isEndedSynced="True" />
@@ -46,6 +46,7 @@
       <RealTime>00:32:46.0746319</RealTime>
     </Attempt>
     <Attempt id="13" started="07/01/2024 13:08:51" isStartedSynced="True" ended="07/01/2024 13:08:53" isEndedSynced="True" />
+    <Attempt id="14" started="07/01/2024 14:50:14" isStartedSynced="False" ended="07/01/2024 15:13:26" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -79,6 +80,10 @@
         <Time id="12">
           <RealTime>00:02:39.3940889</RealTime>
         </Time>
+        <Time id="14">
+          <RealTime>00:02:37.6630283</RealTime>
+          <GameTime>00:02:37.4896309</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -109,6 +114,10 @@
         <Time id="12">
           <RealTime>00:07:17.8269149</RealTime>
         </Time>
+        <Time id="14">
+          <RealTime>00:07:05.4025288</RealTime>
+          <GameTime>00:07:05.3238523</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -138,6 +147,10 @@
         </Time>
         <Time id="12">
           <RealTime>00:04:56.0850383</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:04:50.3106952</RealTime>
+          <GameTime>00:04:50.3106952</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -173,19 +186,32 @@
         <Time id="12">
           <RealTime>00:01:34.9227976</RealTime>
         </Time>
+        <Time id="14">
+          <RealTime>00:01:57.5930855</RealTime>
+          <GameTime>00:01:53.5771007</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-turn power off</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <GameTime>00:18:25.5300000</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:02:08.7851208</RealTime>
+        <GameTime>00:02:08.7800000</GameTime>
+      </BestSegmentTime>
       <SegmentHistory>
         <Time id="8" />
         <Time id="9" />
         <Time id="12" />
+        <Time id="14">
+          <RealTime>00:02:08.7851208</RealTime>
+          <GameTime>00:02:08.7851208</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -202,17 +228,17 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>{EP3} coal mine</Name>
+      <Name>{EP3} end</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:31:59.5343198</RealTime>
-          <GameTime>00:31:59.5300000</GameTime>
+          <GameTime>00:32:00.3100000</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:15:42.7833218</RealTime>
-        <GameTime>00:15:42.7800000</GameTime>
+        <GameTime>00:13:34.7800000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="8">
