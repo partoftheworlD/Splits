@@ -61,7 +61,7 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>-gandalf and cops</Name>
+      <Name>gandalf and cops</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -113,7 +113,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-bad runner</Name>
+      <Name>bad runner</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -158,7 +158,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-radio</Name>
+      <Name>radio</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -199,7 +199,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-road to work</Name>
+      <Name>road to work</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -244,7 +244,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-turn power off</Name>
+      <Name>turn power off</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -274,7 +274,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-wagon</Name>
+      <Name>wagon</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -283,7 +283,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:09:35.5586680</RealTime>
+        <RealTime>00:09:25.5500000</RealTime>
         <GameTime>00:09:25.5500000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -298,7 +298,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>{EP3} end</Name>
+      <Name>end</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
