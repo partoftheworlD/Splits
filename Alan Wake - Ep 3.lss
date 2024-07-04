@@ -7,11 +7,12 @@
   </LayoutPath>
   <Metadata>
     <Run id="" />
-    <Platform usesEmulator="False">
-    </Platform>
+    <Platform usesEmulator="False">PC</Platform>
     <Region>
     </Region>
-    <Variables />
+    <Variables>
+      <Variable name="Difficulty">Easy</Variable>
+    </Variables>
   </Metadata>
   <Offset>00:00:00</Offset>
   <AttemptCount>70</AttemptCount>
