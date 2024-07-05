@@ -240,7 +240,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>bad runner +6</Name>
+      <Name>bad runner</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -405,7 +405,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>end +1(2 safe)</Name>
+      <Name>end</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
