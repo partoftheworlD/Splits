@@ -15,7 +15,7 @@
     </Variables>
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>75</AttemptCount>
+  <AttemptCount>76</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="06/30/2024 09:53:17" isStartedSynced="True" ended="06/30/2024 09:54:37" isEndedSynced="True" />
     <Attempt id="2" started="06/30/2024 09:54:37" isStartedSynced="True" ended="06/30/2024 09:55:16" isEndedSynced="True" />
@@ -127,6 +127,7 @@
       <RealTime>00:30:47.9003628</RealTime>
       <GameTime>00:30:46.7552073</GameTime>
     </Attempt>
+    <Attempt id="72" started="07/05/2024 15:21:08" isStartedSynced="False" ended="07/05/2024 15:21:10" isEndedSynced="False" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -139,7 +140,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:19.4831108</RealTime>
+        <RealTime>00:02:19.4800000</RealTime>
         <GameTime>00:02:19.2659096</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -225,10 +226,13 @@
           <RealTime>00:02:19.4831108</RealTime>
           <GameTime>00:02:19.2659096</GameTime>
         </Time>
+        <Time id="72">
+          <RealTime>00:02:19.4800000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>bad runner</Name>
+      <Name>bad runner +6</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -393,7 +397,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>end</Name>
+      <Name>end +1(2 safe)</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
