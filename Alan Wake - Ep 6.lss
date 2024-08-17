@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>5</AttemptCount>
+  <AttemptCount>6</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="08/17/2024 14:09:13" isStartedSynced="True" ended="08/17/2024 14:31:51" isEndedSynced="True">
       <RealTime>00:22:37.8760424</RealTime>
@@ -28,6 +28,7 @@
       <GameTime>00:21:08.2820000</GameTime>
       <PauseTime>00:00:02.7644575</PauseTime>
     </Attempt>
+    <Attempt id="6" started="08/17/2024 17:42:23" isStartedSynced="False" ended="08/17/2024 17:46:55" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -36,22 +37,17 @@
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:01:09.2064228</RealTime>
+        <GameTime>00:01:08.4610000</GameTime>
+      </BestSegmentTime>
       <SegmentHistory>
         <Time id="1" />
         <Time id="5" />
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>trip</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory>
-        <Time id="1" />
-        <Time id="5" />
+        <Time id="6">
+          <RealTime>00:01:09.2064228</RealTime>
+          <GameTime>00:01:08.4610000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -67,19 +63,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>button</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory>
-        <Time id="1" />
-        <Time id="5" />
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>button [2]</Name>
+      <Name>buttons</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
