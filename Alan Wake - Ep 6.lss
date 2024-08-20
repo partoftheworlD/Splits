@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>20</AttemptCount>
+  <AttemptCount>21</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="08/18/2024 12:30:06" isStartedSynced="True" ended="08/18/2024 12:49:40" isEndedSynced="True">
       <RealTime>00:19:34.3897800</RealTime>
@@ -37,6 +37,7 @@
     <Attempt id="7" started="08/19/2024 15:40:36" isStartedSynced="True" ended="08/19/2024 15:44:58" isEndedSynced="True" />
     <Attempt id="8" started="08/19/2024 15:49:54" isStartedSynced="True" ended="08/19/2024 15:55:47" isEndedSynced="True" />
     <Attempt id="9" started="08/19/2024 16:11:41" isStartedSynced="True" ended="08/19/2024 16:17:27" isEndedSynced="True" />
+    <Attempt id="10" started="08/20/2024 16:00:40" isStartedSynced="False" ended="08/20/2024 16:09:36" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -89,6 +90,10 @@
           <RealTime>00:01:08.8499760</RealTime>
           <GameTime>00:01:08.5189367</GameTime>
         </Time>
+        <Time id="10">
+          <RealTime>00:01:08.3694210</RealTime>
+          <GameTime>00:01:08.0578427</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -132,6 +137,10 @@
         <Time id="9">
           <RealTime>00:03:27.9668003</RealTime>
           <GameTime>00:03:27.6589484</GameTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:04:46.2148270</RealTime>
+          <GameTime>00:04:45.0149777</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -238,24 +247,24 @@
     <Start>False</Start>
     <Split>False</Split>
     <CustomSettings>
-      <Setting id="episode1" type="bool">True</Setting>
+      <Setting id="episode1" type="bool">False</Setting>
       <Setting id="level1" type="bool">True</Setting>
       <Setting id="video_2500" type="bool">False</Setting>
       <Setting id="level2" type="bool">True</Setting>
       <Setting id="video_3300" type="bool">False</Setting>
       <Setting id="level3" type="bool">True</Setting>
-      <Setting id="episode2" type="bool">True</Setting>
+      <Setting id="episode2" type="bool">False</Setting>
       <Setting id="level4" type="bool">True</Setting>
       <Setting id="video_5600" type="bool">False</Setting>
       <Setting id="video_5700" type="bool">False</Setting>
       <Setting id="level5" type="bool">True</Setting>
-      <Setting id="episode3" type="bool">True</Setting>
+      <Setting id="episode3" type="bool">False</Setting>
       <Setting id="video_9300" type="bool">False</Setting>
       <Setting id="video_9500" type="bool">False</Setting>
       <Setting id="level9" type="bool">True</Setting>
       <Setting id="video_10300" type="bool">False</Setting>
       <Setting id="level10" type="bool">True</Setting>
-      <Setting id="episode4" type="bool">True</Setting>
+      <Setting id="episode4" type="bool">False</Setting>
       <Setting id="video_11500" type="bool">False</Setting>
       <Setting id="level11" type="bool">True</Setting>
       <Setting id="video_12300" type="bool">False</Setting>
@@ -266,10 +275,10 @@
       <Setting id="level14" type="bool">True</Setting>
       <Setting id="video_15350" type="bool">False</Setting>
       <Setting id="level15" type="bool">True</Setting>
-      <Setting id="episode6" type="bool">True</Setting>
+      <Setting id="episode6" type="bool">False</Setting>
       <Setting id="video_16300" type="bool">False</Setting>
       <Setting id="video_18700" type="bool">False</Setting>
-      <Setting id="level16" type="bool">True</Setting>
+      <Setting id="level16" type="bool">False</Setting>
       <Setting id="any%" type="bool">True</Setting>
     </CustomSettings>
   </AutoSplitterSettings>
