@@ -14,8 +14,13 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>21</AttemptCount>
-  <AttemptHistory />
+  <AttemptCount>22</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="08/21/2024 16:20:04" isStartedSynced="False" ended="08/21/2024 16:38:49" isEndedSynced="False">
+      <RealTime>00:18:44.6014584</RealTime>
+      <GameTime>00:18:43.6461670</GameTime>
+    </Attempt>
+  </AttemptHistory>
   <Segments>
     <Segment>
       <Name>drunk boi</Name>
@@ -27,10 +32,15 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:08</RealTime>
-        <GameTime>00:01:08</GameTime>
+        <RealTime>00:01:07.6429276</RealTime>
+        <GameTime>00:01:07.3704208</GameTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:07.6429276</RealTime>
+          <GameTime>00:01:07.3704208</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>mr. excavo</Name>
@@ -42,10 +52,15 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:28</RealTime>
-        <GameTime>00:03:28</GameTime>
+        <RealTime>00:03:24.9143116</RealTime>
+        <GameTime>00:03:24.5827090</GameTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:24.9143116</RealTime>
+          <GameTime>00:03:24.5827090</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>buttons</Name>
@@ -60,7 +75,12 @@
         <RealTime>00:03:27</RealTime>
         <GameTime>00:03:27</GameTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:34.7361527</RealTime>
+          <GameTime>00:03:34.7361527</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>el tornado</Name>
@@ -75,7 +95,12 @@
         <RealTime>00:09:03</RealTime>
         <GameTime>00:09:03</GameTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:09.7241540</RealTime>
+          <GameTime>00:09:09.7241540</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>wet dream</Name>
@@ -87,10 +112,15 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:31</RealTime>
-        <GameTime>00:01:31</GameTime>
+        <RealTime>00:01:27.5839125</RealTime>
+        <GameTime>00:01:27.2327305</GameTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:27.5839125</RealTime>
+          <GameTime>00:01:27.2327305</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings>
