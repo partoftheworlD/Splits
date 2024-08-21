@@ -14,52 +14,82 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>0</AttemptCount>
+  <AttemptCount>21</AttemptCount>
   <AttemptHistory />
   <Segments>
     <Segment>
       <Name>drunk boi</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:08</RealTime>
+          <GameTime>00:01:08</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:01:08</RealTime>
+        <GameTime>00:01:08</GameTime>
+      </BestSegmentTime>
       <SegmentHistory />
     </Segment>
     <Segment>
       <Name>mr. excavo</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:36</RealTime>
+          <GameTime>00:04:36</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:03:28</RealTime>
+        <GameTime>00:03:28</GameTime>
+      </BestSegmentTime>
       <SegmentHistory />
     </Segment>
     <Segment>
       <Name>buttons</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:04</RealTime>
+          <GameTime>00:08:04</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:03:27</RealTime>
+        <GameTime>00:03:27</GameTime>
+      </BestSegmentTime>
       <SegmentHistory />
     </Segment>
     <Segment>
       <Name>el tornado</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:07</RealTime>
+          <GameTime>00:17:07</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:09:03</RealTime>
+        <GameTime>00:09:03</GameTime>
+      </BestSegmentTime>
       <SegmentHistory />
     </Segment>
     <Segment>
       <Name>wet dream</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:38</RealTime>
+          <GameTime>00:18:38</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:01:31</RealTime>
+        <GameTime>00:01:31</GameTime>
+      </BestSegmentTime>
       <SegmentHistory />
     </Segment>
   </Segments>
