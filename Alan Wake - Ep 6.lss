@@ -334,6 +334,27 @@
       </SegmentHistory>
     </Segment>
     <Segment>
+      <Name>not mario cart</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="-1" />
+        <Time id="0" />
+        <Time id="1" />
+        <Time id="2" />
+        <Time id="5" />
+        <Time id="13" />
+        <Time id="18" />
+        <Time id="19" />
+        <Time id="20" />
+        <Time id="22" />
+        <Time id="25" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
       <Name>el tornado</Name>
       <Icon />
       <SplitTimes>
