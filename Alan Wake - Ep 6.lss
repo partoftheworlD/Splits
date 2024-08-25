@@ -334,27 +334,6 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>not mario cart</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory>
-        <Time id="-1" />
-        <Time id="0" />
-        <Time id="1" />
-        <Time id="2" />
-        <Time id="5" />
-        <Time id="13" />
-        <Time id="18" />
-        <Time id="19" />
-        <Time id="20" />
-        <Time id="22" />
-        <Time id="25" />
-      </SegmentHistory>
-    </Segment>
-    <Segment>
       <Name>el tornado</Name>
       <Icon />
       <SplitTimes>
@@ -367,50 +346,7 @@
         <RealTime>00:08:48.4615264</RealTime>
         <GameTime>00:08:48.4615264</GameTime>
       </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-1">
-          <GameTime>00:09:03</GameTime>
-        </Time>
-        <Time id="0">
-          <RealTime>00:09:03</RealTime>
-        </Time>
-        <Time id="1">
-          <RealTime>00:09:09.7241540</RealTime>
-          <GameTime>00:09:09.7241540</GameTime>
-        </Time>
-        <Time id="2">
-          <RealTime>00:09:28.6432389</RealTime>
-          <GameTime>00:09:24.7938910</GameTime>
-        </Time>
-        <Time id="5">
-          <RealTime>00:09:02.7240158</RealTime>
-          <GameTime>00:09:02.7240158</GameTime>
-        </Time>
-        <Time id="13">
-          <RealTime>00:09:14.1112599</RealTime>
-          <GameTime>00:09:14.1112599</GameTime>
-        </Time>
-        <Time id="18">
-          <RealTime>00:09:14.9498393</RealTime>
-          <GameTime>00:09:14.9498393</GameTime>
-        </Time>
-        <Time id="19">
-          <RealTime>00:08:58.4064234</RealTime>
-          <GameTime>00:08:58.4064234</GameTime>
-        </Time>
-        <Time id="20">
-          <RealTime>00:09:12.2522840</RealTime>
-          <GameTime>00:09:12.2522840</GameTime>
-        </Time>
-        <Time id="22">
-          <RealTime>00:08:48.4615264</RealTime>
-          <GameTime>00:08:48.4615264</GameTime>
-        </Time>
-        <Time id="25">
-          <RealTime>00:09:12.2675930</RealTime>
-          <GameTime>00:09:12.2675930</GameTime>
-        </Time>
-      </SegmentHistory>
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>wet dream</Name>
