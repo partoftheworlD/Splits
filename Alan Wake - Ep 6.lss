@@ -492,7 +492,7 @@
     <Version>1.5</Version>
     <ScriptPath>D:\Speedruns\Livesplit\Components\AlanWake.asl</ScriptPath>
     <Start>False</Start>
-    <Split>False</Split>
+    <Split>True</Split>
     <CustomSettings>
       <Setting id="episode1" type="bool">False</Setting>
       <Setting id="level1" type="bool">True</Setting>
@@ -522,7 +522,7 @@
       <Setting id="level14" type="bool">True</Setting>
       <Setting id="video_15350" type="bool">False</Setting>
       <Setting id="level15" type="bool">True</Setting>
-      <Setting id="episode6" type="bool">False</Setting>
+      <Setting id="episode6" type="bool">True</Setting>
       <Setting id="video_16300" type="bool">False</Setting>
       <Setting id="video_18700" type="bool">False</Setting>
       <Setting id="level16" type="bool">False</Setting>
