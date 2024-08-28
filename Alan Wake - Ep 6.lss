@@ -329,45 +329,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>el tornado</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:16:53.3382140</RealTime>
-          <GameTime>00:16:51.7200000</GameTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:08:39.9672928</RealTime>
-        <GameTime>00:08:39.9672928</GameTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-3">
-          <GameTime>00:08:53.4600000</GameTime>
-        </Time>
-        <Time id="-2">
-          <RealTime>00:08:48.4615264</RealTime>
-        </Time>
-        <Time id="27">
-          <RealTime>00:09:11.0505133</RealTime>
-          <GameTime>00:09:11.0505133</GameTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:08:39.9672928</RealTime>
-          <GameTime>00:08:39.9672928</GameTime>
-        </Time>
-        <Time id="31">
-          <RealTime>00:08:57.4241361</RealTime>
-          <GameTime>00:08:57.4241361</GameTime>
-        </Time>
-        <Time id="39">
-          <RealTime>00:09:12.9030294</RealTime>
-          <GameTime>00:09:12.6032925</GameTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>wet dream</Name>
+      <Name>end</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -376,70 +338,28 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:25.8697929</RealTime>
-        <GameTime>00:01:25.5000000</GameTime>
+        <RealTime>00:10:05.8370857</RealTime>
+        <GameTime>00:10:05.4672928</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="-3">
-          <GameTime>00:01:30.5800000</GameTime>
-        </Time>
-        <Time id="-1">
-          <GameTime>00:01:31</GameTime>
-        </Time>
-        <Time id="0">
-          <RealTime>00:01:31</RealTime>
-        </Time>
-        <Time id="1">
-          <RealTime>00:01:27.5839125</RealTime>
-          <GameTime>00:01:27.2327305</GameTime>
-        </Time>
-        <Time id="2">
-          <RealTime>00:01:34.8739640</RealTime>
-          <GameTime>00:01:34.5282912</GameTime>
-        </Time>
-        <Time id="5">
-          <RealTime>00:01:25.8697929</RealTime>
-          <GameTime>00:01:25.5158198</GameTime>
-        </Time>
-        <Time id="13">
-          <RealTime>00:01:29.0841631</RealTime>
-          <GameTime>00:01:28.7496947</GameTime>
-        </Time>
-        <Time id="18">
-          <RealTime>00:01:28.8006376</RealTime>
-          <GameTime>00:01:28.4701095</GameTime>
-        </Time>
-        <Time id="19">
-          <RealTime>00:01:30.1552277</RealTime>
-          <GameTime>00:01:29.7911684</GameTime>
-        </Time>
-        <Time id="20">
-          <RealTime>00:01:29.7097762</RealTime>
-          <GameTime>00:01:29.3961869</GameTime>
-        </Time>
-        <Time id="22">
-          <RealTime>00:01:28.9301888</RealTime>
-          <GameTime>00:01:28.5848479</GameTime>
-        </Time>
-        <Time id="25">
-          <RealTime>00:01:28.6068454</RealTime>
-          <GameTime>00:01:28.2715034</GameTime>
+          <GameTime>00:10:24.0400000</GameTime>
         </Time>
         <Time id="27">
-          <RealTime>00:01:27.9839802</RealTime>
-          <GameTime>00:01:27.6257701</GameTime>
+          <RealTime>00:10:39.0344935</RealTime>
+          <GameTime>00:10:38.6762834</GameTime>
         </Time>
         <Time id="29">
-          <RealTime>00:01:28.4262759</RealTime>
-          <GameTime>00:01:28.0874925</GameTime>
+          <RealTime>00:10:08.3935687</RealTime>
+          <GameTime>00:10:08.0547853</GameTime>
         </Time>
         <Time id="31">
-          <RealTime>00:01:30.5500176</RealTime>
-          <GameTime>00:01:30.2190192</GameTime>
+          <RealTime>00:10:27.9741537</RealTime>
+          <GameTime>00:10:27.6431553</GameTime>
         </Time>
         <Time id="39">
-          <RealTime>00:01:30.2986832</RealTime>
-          <GameTime>00:01:29.9616448</GameTime>
+          <RealTime>00:10:43.2017126</RealTime>
+          <GameTime>00:10:42.5649373</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
