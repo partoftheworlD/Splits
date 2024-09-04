@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>124</AttemptCount>
+  <AttemptCount>127</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="08/30/2024 17:00:13" isStartedSynced="False" ended="08/30/2024 17:19:44" isEndedSynced="False">
       <RealTime>00:18:51.0474555</RealTime>
@@ -95,6 +95,9 @@
       <RealTime>00:18:09.6188409</RealTime>
       <GameTime>00:18:08.6594121</GameTime>
     </Attempt>
+    <Attempt id="43" started="09/04/2024 15:39:44" isStartedSynced="False" ended="09/04/2024 15:44:00" isEndedSynced="False" />
+    <Attempt id="44" started="09/04/2024 15:48:48" isStartedSynced="False" ended="09/04/2024 15:51:59" isEndedSynced="False" />
+    <Attempt id="45" started="09/04/2024 15:53:00" isStartedSynced="False" ended="09/04/2024 16:09:55" isEndedSynced="False" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -107,7 +110,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:38.7738869</RealTime>
+        <RealTime>00:02:38.4802332</RealTime>
         <GameTime>00:02:36.1932924</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -259,6 +262,18 @@
           <RealTime>00:02:46.7712193</RealTime>
           <GameTime>00:02:46.1321195</GameTime>
         </Time>
+        <Time id="43">
+          <RealTime>00:02:39.8631341</RealTime>
+          <GameTime>00:02:39.2231394</GameTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:02:40.1716183</RealTime>
+          <GameTime>00:02:39.5529482</GameTime>
+        </Time>
+        <Time id="45">
+          <RealTime>00:02:38.4802332</RealTime>
+          <GameTime>00:02:37.8450374</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -359,6 +374,10 @@
           <RealTime>00:01:54.0588818</RealTime>
           <GameTime>00:01:54.0588818</GameTime>
         </Time>
+        <Time id="45">
+          <RealTime>00:01:48.5500046</RealTime>
+          <GameTime>00:01:48.5500046</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -451,6 +470,10 @@
           <RealTime>00:01:40.1989045</RealTime>
           <GameTime>00:01:40.1989045</GameTime>
         </Time>
+        <Time id="45">
+          <RealTime>00:01:49.6492106</RealTime>
+          <GameTime>00:01:49.6492106</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -535,6 +558,10 @@
           <RealTime>00:01:42.0972514</RealTime>
           <GameTime>00:01:42.0972514</GameTime>
         </Time>
+        <Time id="45">
+          <RealTime>00:01:44.4131783</RealTime>
+          <GameTime>00:01:44.4131783</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -611,6 +638,10 @@
           <RealTime>00:02:15.6941401</RealTime>
           <GameTime>00:02:15.6941401</GameTime>
         </Time>
+        <Time id="45">
+          <RealTime>00:02:17.5821354</RealTime>
+          <GameTime>00:02:17.5821354</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -686,6 +717,10 @@
           <RealTime>00:01:29.0300900</RealTime>
           <GameTime>00:01:29.0300900</GameTime>
         </Time>
+        <Time id="45">
+          <RealTime>00:01:32.5634699</RealTime>
+          <GameTime>00:01:32.5634699</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -748,6 +783,10 @@
           <RealTime>00:02:34.0358628</RealTime>
           <GameTime>00:02:34.0358628</GameTime>
         </Time>
+        <Time id="45">
+          <RealTime>00:02:31.6778146</RealTime>
+          <GameTime>00:02:31.6778146</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -807,6 +846,10 @@
         <Time id="42">
           <RealTime>00:02:17.8245151</RealTime>
           <GameTime>00:02:17.8245151</GameTime>
+        </Time>
+        <Time id="45">
+          <RealTime>00:02:25.8561258</RealTime>
+          <GameTime>00:02:25.8561258</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
