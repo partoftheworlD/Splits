@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>12</AttemptCount>
+  <AttemptCount>13</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="10/27/2024 11:48:22" isStartedSynced="False" ended="10/27/2024 11:48:23" isEndedSynced="False" />
     <Attempt id="2" started="10/27/2024 11:49:11" isStartedSynced="False" ended="10/27/2024 11:49:12" isEndedSynced="False" />
@@ -49,6 +49,7 @@
       <RealTime>00:18:49.9883388</RealTime>
       <GameTime>00:18:40.4408903</GameTime>
     </Attempt>
+    <Attempt id="14" started="10/29/2024 16:52:14" isStartedSynced="False" ended="10/29/2024 17:01:16" isEndedSynced="False" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -92,6 +93,10 @@
         <Time id="13">
           <RealTime>00:06:06.3209431</RealTime>
           <GameTime>00:06:06.2885392</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:06:02.6959026</RealTime>
+          <GameTime>00:06:02.6627762</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
