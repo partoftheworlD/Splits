@@ -18,25 +18,7 @@
   <AttemptHistory />
   <Segments>
     <Segment>
-      <Name>P1</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>P2</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>P3</Name>
+      <Name>No flashlight</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
