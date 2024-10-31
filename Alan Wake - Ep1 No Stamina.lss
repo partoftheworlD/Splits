@@ -14,35 +14,90 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>0</AttemptCount>
-  <AttemptHistory />
+  <AttemptCount>3</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="10/31/2024 13:11:39" isStartedSynced="False" ended="10/31/2024 13:29:52" isEndedSynced="False">
+      <RealTime>00:18:13.0723487</RealTime>
+      <GameTime>00:18:03.8633284</GameTime>
+    </Attempt>
+    <Attempt id="2" started="10/31/2024 13:30:47" isStartedSynced="False" ended="10/31/2024 13:32:06" isEndedSynced="False" />
+    <Attempt id="3" started="10/31/2024 13:32:11" isStartedSynced="False" ended="10/31/2024 13:50:23" isEndedSynced="False">
+      <RealTime>00:18:12.4777678</RealTime>
+      <GameTime>00:17:57.7409657</GameTime>
+    </Attempt>
+  </AttemptHistory>
   <Segments>
     <Segment>
       <Name>P1</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:02.1476938</RealTime>
+          <GameTime>00:06:02.1137026</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:06:02.1476938</RealTime>
+        <GameTime>00:06:02.1137026</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:03.9689319</RealTime>
+          <GameTime>00:06:03.7546403</GameTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:06:02.1476938</RealTime>
+          <GameTime>00:06:02.1137026</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>P2</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:01.0210053</RealTime>
+          <GameTime>00:10:50.6377870</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:04:58.8733115</RealTime>
+        <GameTime>00:04:48.5240844</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:05:00.5243721</RealTime>
+          <GameTime>00:04:55.5212650</GameTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:04:58.8733115</RealTime>
+          <GameTime>00:04:48.5240844</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>P3</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:12.4777678</RealTime>
+          <GameTime>00:17:57.7409657</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:07:08.5790447</RealTime>
+        <GameTime>00:07:04.5874231</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:07:08.5790447</RealTime>
+          <GameTime>00:07:04.5874231</GameTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:07:11.4567625</RealTime>
+          <GameTime>00:07:07.1031787</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings>
