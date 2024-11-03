@@ -2,7 +2,7 @@
 <Run version="1.7.0">
   <GameIcon />
   <GameName>Alan Wake</GameName>
-  <CategoryName>Episode 1</CategoryName>
+  <CategoryName>Episode 1%</CategoryName>
   <LayoutPath>
   </LayoutPath>
   <Metadata>
@@ -252,9 +252,9 @@
     <Split>True</Split>
     <CustomSettings>
       <Setting id="episode1" type="bool">True</Setting>
-      <Setting id="level1" type="bool">False</Setting>
+      <Setting id="level1" type="bool">True</Setting>
       <Setting id="video_2500" type="bool">False</Setting>
-      <Setting id="level2" type="bool">False</Setting>
+      <Setting id="level2" type="bool">True</Setting>
       <Setting id="video_3300" type="bool">False</Setting>
       <Setting id="level3" type="bool">True</Setting>
       <Setting id="episode2" type="bool">True</Setting>
