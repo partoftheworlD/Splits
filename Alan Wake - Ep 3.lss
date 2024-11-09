@@ -413,8 +413,6 @@
         <GameTime>00:01:27.9561100</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-5" />
-        <Time id="-4" />
         <Time id="53">
           <RealTime>00:01:36.2978975</RealTime>
           <GameTime>00:01:32.2873574</GameTime>
@@ -447,12 +445,6 @@
         <GameTime>00:15:06.4500000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-5">
-          <GameTime>00:15:25.7133820</GameTime>
-        </Time>
-        <Time id="-4">
-          <RealTime>00:15:28.4344735</RealTime>
-        </Time>
         <Time id="-3">
           <GameTime>00:15:43.4109459</GameTime>
         </Time>
