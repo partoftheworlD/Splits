@@ -310,8 +310,8 @@
   <AutoSplitterSettings>
     <Version>1.5</Version>
     <ScriptPath>D:\Speedruns\Livesplit\Components\AlanWake.asl</ScriptPath>
-    <Start>True</Start>
-    <Split>True</Split>
+    <Start>False</Start>
+    <Split>False</Split>
     <CustomSettings>
       <Setting id="episode1" type="bool">True</Setting>
       <Setting id="level1" type="bool">True</Setting>
