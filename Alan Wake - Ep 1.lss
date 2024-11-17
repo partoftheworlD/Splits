@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>50</AttemptCount>
+  <AttemptCount>55</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="10/27/2024 11:48:22" isStartedSynced="False" ended="10/27/2024 11:48:23" isEndedSynced="False" />
     <Attempt id="2" started="10/27/2024 11:49:11" isStartedSynced="False" ended="10/27/2024 11:49:12" isEndedSynced="False" />
@@ -138,6 +138,14 @@
       <RealTime>00:18:28.9197376</RealTime>
       <GameTime>00:18:18.2888093</GameTime>
     </Attempt>
+    <Attempt id="52" started="11/17/2024 14:45:56" isStartedSynced="False" ended="11/17/2024 14:46:11" isEndedSynced="False" />
+    <Attempt id="53" started="11/17/2024 14:46:11" isStartedSynced="False" ended="11/17/2024 14:50:58" isEndedSynced="False" />
+    <Attempt id="54" started="11/17/2024 14:52:10" isStartedSynced="False" ended="11/17/2024 14:52:49" isEndedSynced="False" />
+    <Attempt id="55" started="11/17/2024 14:52:52" isStartedSynced="False" ended="11/17/2024 14:59:41" isEndedSynced="False" />
+    <Attempt id="56" started="11/17/2024 15:00:38" isStartedSynced="False" ended="11/17/2024 15:18:56" isEndedSynced="False">
+      <RealTime>00:18:17.8346514</RealTime>
+      <GameTime>00:18:08.4935582</GameTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -145,8 +153,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:05:58.6364561</RealTime>
-          <GameTime>00:05:58.6050767</GameTime>
+          <RealTime>00:06:01.1998828</RealTime>
+          <GameTime>00:06:01.1620624</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -269,6 +277,14 @@
           <RealTime>00:06:01.9071883</RealTime>
           <GameTime>00:06:01.8909059</GameTime>
         </Time>
+        <Time id="55">
+          <RealTime>00:06:08.9637562</RealTime>
+          <GameTime>00:06:08.9392036</GameTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:06:01.1998828</RealTime>
+          <GameTime>00:06:01.1620624</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -276,13 +292,13 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:10:57.4524904</RealTime>
-          <GameTime>00:10:52.2347741</GameTime>
+          <RealTime>00:10:53.7823329</RealTime>
+          <GameTime>00:10:48.7456324</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:53.6066581</RealTime>
-        <GameTime>00:04:48.7782434</GameTime>
+        <RealTime>00:04:52.5824501</RealTime>
+        <GameTime>00:04:47.5835700</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="-2">
@@ -343,6 +359,10 @@
           <RealTime>00:05:02.0893079</RealTime>
           <GameTime>00:04:52.2985778</GameTime>
         </Time>
+        <Time id="56">
+          <RealTime>00:04:52.5824501</RealTime>
+          <GameTime>00:04:47.5835700</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -350,13 +370,13 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:18:27.4509689</RealTime>
-          <GameTime>00:18:16.1499937</GameTime>
+          <RealTime>00:18:17.8346514</RealTime>
+          <GameTime>00:18:08.4935582</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:07:24.8075696</RealTime>
-        <GameTime>00:07:23.9152196</GameTime>
+        <RealTime>00:07:24.0523185</RealTime>
+        <GameTime>00:07:19.7479258</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0">
@@ -449,6 +469,10 @@
         <Time id="51">
           <RealTime>00:07:24.9232414</RealTime>
           <GameTime>00:07:24.0993256</GameTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:07:24.0523185</RealTime>
+          <GameTime>00:07:19.7479258</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
