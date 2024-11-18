@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>55</AttemptCount>
+  <AttemptCount>57</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="10/27/2024 11:48:22" isStartedSynced="False" ended="10/27/2024 11:48:23" isEndedSynced="False" />
     <Attempt id="2" started="10/27/2024 11:49:11" isStartedSynced="False" ended="10/27/2024 11:49:12" isEndedSynced="False" />
@@ -145,6 +145,11 @@
     <Attempt id="56" started="11/17/2024 15:00:38" isStartedSynced="False" ended="11/17/2024 15:18:56" isEndedSynced="False">
       <RealTime>00:18:17.8346514</RealTime>
       <GameTime>00:18:08.4935582</GameTime>
+    </Attempt>
+    <Attempt id="57" started="11/18/2024 15:07:55" isStartedSynced="False" ended="11/18/2024 15:09:14" isEndedSynced="False" />
+    <Attempt id="58" started="11/18/2024 15:09:49" isStartedSynced="False" ended="11/18/2024 15:28:15" isEndedSynced="False">
+      <RealTime>00:18:26.0576646</RealTime>
+      <GameTime>00:18:16.9736902</GameTime>
     </Attempt>
   </AttemptHistory>
   <Segments>
@@ -285,6 +290,10 @@
           <RealTime>00:06:01.1998828</RealTime>
           <GameTime>00:06:01.1620624</GameTime>
         </Time>
+        <Time id="58">
+          <RealTime>00:06:01.7574724</RealTime>
+          <GameTime>00:06:01.7258155</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -362,6 +371,10 @@
         <Time id="56">
           <RealTime>00:04:52.5824501</RealTime>
           <GameTime>00:04:47.5835700</GameTime>
+        </Time>
+        <Time id="58">
+          <RealTime>00:04:54.1689125</RealTime>
+          <GameTime>00:04:49.1572680</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -473,6 +486,10 @@
         <Time id="56">
           <RealTime>00:07:24.0523185</RealTime>
           <GameTime>00:07:19.7479258</GameTime>
+        </Time>
+        <Time id="58">
+          <RealTime>00:07:30.1312797</RealTime>
+          <GameTime>00:07:26.0906067</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
