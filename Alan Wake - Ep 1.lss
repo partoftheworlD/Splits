@@ -181,7 +181,57 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>UFO tutorial</Name>
+      <Name>Not a Lighthouse</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="0" />
+        <Time id="3" />
+        <Time id="4" />
+        <Time id="5" />
+        <Time id="7" />
+        <Time id="8" />
+        <Time id="10" />
+        <Time id="13" />
+        <Time id="14" />
+        <Time id="16" />
+        <Time id="22" />
+        <Time id="23" />
+        <Time id="24" />
+        <Time id="25" />
+        <Time id="28" />
+        <Time id="29" />
+        <Time id="30" />
+        <Time id="32" />
+        <Time id="33" />
+        <Time id="34" />
+        <Time id="35" />
+        <Time id="36" />
+        <Time id="38" />
+        <Time id="43" />
+        <Time id="44" />
+        <Time id="45" />
+        <Time id="46" />
+        <Time id="49" />
+        <Time id="51" />
+        <Time id="55" />
+        <Time id="56" />
+        <Time id="58" />
+        <Time id="59" />
+        <Time id="60" />
+        <Time id="62" />
+        <Time id="63" />
+        <Time id="64" />
+        <Time id="65" />
+        <Time id="66" />
+        <Time id="67" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>UFO Tutorial</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -356,7 +406,41 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>AFK</Name>
+      <Name>Lighthouse</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="-2" />
+        <Time id="-1" />
+        <Time id="25" />
+        <Time id="28" />
+        <Time id="29" />
+        <Time id="30" />
+        <Time id="32" />
+        <Time id="33" />
+        <Time id="35" />
+        <Time id="36" />
+        <Time id="38" />
+        <Time id="44" />
+        <Time id="45" />
+        <Time id="46" />
+        <Time id="51" />
+        <Time id="56" />
+        <Time id="58" />
+        <Time id="59" />
+        <Time id="60" />
+        <Time id="62" />
+        <Time id="63" />
+        <Time id="65" />
+        <Time id="66" />
+        <Time id="67" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>AFK Cruise</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -466,7 +550,34 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Checklist girl</Name>
+      <Name>AlanTheElectric</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Generator</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Gates</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Checklist Girl</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -475,134 +586,10 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:07:24.0076971</RealTime>
-        <GameTime>00:07:19.6432169</GameTime>
+        <RealTime>00:07:24.0523185</RealTime>
+        <GameTime>00:07:19.7479258</GameTime>
       </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="0">
-          <RealTime>00:07:32.6400000</RealTime>
-        </Time>
-        <Time id="3">
-          <RealTime>00:08:41.1251456</RealTime>
-          <GameTime>00:08:41.1216830</GameTime>
-        </Time>
-        <Time id="4">
-          <RealTime>00:07:32.5390201</RealTime>
-          <GameTime>00:07:31.6817877</GameTime>
-        </Time>
-        <Time id="5">
-          <RealTime>00:08:07.6834976</RealTime>
-          <GameTime>00:08:06.8515908</GameTime>
-        </Time>
-        <Time id="7">
-          <RealTime>00:07:52.9566765</RealTime>
-          <GameTime>00:07:52.0557142</GameTime>
-        </Time>
-        <Time id="8">
-          <RealTime>00:07:41.3462593</RealTime>
-          <GameTime>00:07:41.3462593</GameTime>
-        </Time>
-        <Time id="13">
-          <RealTime>00:07:40.0250873</RealTime>
-          <GameTime>00:07:39.1508945</GameTime>
-        </Time>
-        <Time id="16">
-          <RealTime>00:07:57.6847387</RealTime>
-          <GameTime>00:07:50.5840204</GameTime>
-        </Time>
-        <Time id="22">
-          <RealTime>00:08:04.4152494</RealTime>
-          <GameTime>00:08:00.3832475</GameTime>
-        </Time>
-        <Time id="23">
-          <RealTime>00:07:42.6291044</RealTime>
-          <GameTime>00:07:38.3003310</GameTime>
-        </Time>
-        <Time id="24">
-          <RealTime>00:07:28.8924387</RealTime>
-          <GameTime>00:07:28.0164384</GameTime>
-        </Time>
-        <Time id="25">
-          <RealTime>00:07:32.2435235</RealTime>
-          <GameTime>00:07:28.2423291</GameTime>
-        </Time>
-        <Time id="28">
-          <RealTime>00:07:45.5122048</RealTime>
-          <GameTime>00:07:41.4172081</GameTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:07:42.3891647</RealTime>
-          <GameTime>00:07:41.5657375</GameTime>
-        </Time>
-        <Time id="30">
-          <RealTime>00:07:28.5641205</RealTime>
-          <GameTime>00:07:27.6925313</GameTime>
-        </Time>
-        <Time id="32">
-          <RealTime>00:08:00.3650620</RealTime>
-          <GameTime>00:07:59.2604861</GameTime>
-        </Time>
-        <Time id="33">
-          <RealTime>00:07:36.2100843</RealTime>
-          <GameTime>00:07:32.0742484</GameTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:07:29.9984785</RealTime>
-          <GameTime>00:07:23.9152196</GameTime>
-        </Time>
-        <Time id="38">
-          <RealTime>00:07:32.0730490</RealTime>
-          <GameTime>00:07:28.0259635</GameTime>
-        </Time>
-        <Time id="44">
-          <RealTime>00:07:39.8202723</RealTime>
-          <GameTime>00:07:35.6147483</GameTime>
-        </Time>
-        <Time id="45">
-          <RealTime>00:07:24.8075696</RealTime>
-          <GameTime>00:07:23.9360571</GameTime>
-        </Time>
-        <Time id="46">
-          <RealTime>00:07:30.2081298</RealTime>
-          <GameTime>00:07:26.2116932</GameTime>
-        </Time>
-        <Time id="51">
-          <RealTime>00:07:24.9232414</RealTime>
-          <GameTime>00:07:24.0993256</GameTime>
-        </Time>
-        <Time id="56">
-          <RealTime>00:07:24.0523185</RealTime>
-          <GameTime>00:07:19.7479258</GameTime>
-        </Time>
-        <Time id="58">
-          <RealTime>00:07:30.1312797</RealTime>
-          <GameTime>00:07:26.0906067</GameTime>
-        </Time>
-        <Time id="59">
-          <RealTime>00:07:59.7527149</RealTime>
-          <GameTime>00:07:55.7662666</GameTime>
-        </Time>
-        <Time id="60">
-          <RealTime>00:07:29.7395234</RealTime>
-          <GameTime>00:07:25.5111925</GameTime>
-        </Time>
-        <Time id="62">
-          <RealTime>00:07:24.0076971</RealTime>
-          <GameTime>00:07:19.6432169</GameTime>
-        </Time>
-        <Time id="63">
-          <RealTime>00:07:25.3589873</RealTime>
-          <GameTime>00:07:24.4533132</GameTime>
-        </Time>
-        <Time id="65">
-          <RealTime>00:07:26.7931067</RealTime>
-          <GameTime>00:07:22.7458464</GameTime>
-        </Time>
-        <Time id="67">
-          <RealTime>00:07:35.0772057</RealTime>
-          <GameTime>00:07:30.8846158</GameTime>
-        </Time>
-      </SegmentHistory>
+      <SegmentHistory />
     </Segment>
   </Segments>
   <AutoSplitterSettings>
