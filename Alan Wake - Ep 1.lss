@@ -14,113 +14,79 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>69</AttemptCount>
-  <AttemptHistory>
-    <Attempt id="1" started="11/21/2024 21:40:01" isStartedSynced="False" ended="11/21/2024 21:40:01" isEndedSynced="False" />
-  </AttemptHistory>
+  <AttemptCount>66</AttemptCount>
+  <AttemptHistory />
   <Segments>
     <Segment>
       <Name>Not a Lighthouse</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <GameTime>00:02:07.1200000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <GameTime>00:02:07</GameTime>
-      </BestSegmentTime>
+      <BestSegmentTime />
       <SegmentHistory />
     </Segment>
     <Segment>
       <Name>UFO Tutorial</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <GameTime>00:04:42.2400000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <GameTime>00:02:35</GameTime>
-      </BestSegmentTime>
+      <BestSegmentTime />
       <SegmentHistory />
     </Segment>
     <Segment>
       <Name>Lighthouse</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <GameTime>00:06:02.3600000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <GameTime>00:01:20</GameTime>
-      </BestSegmentTime>
+      <BestSegmentTime />
       <SegmentHistory />
     </Segment>
     <Segment>
       <Name>AFK Cruise</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <GameTime>00:08:24.4800000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <GameTime>00:02:22</GameTime>
-      </BestSegmentTime>
+      <BestSegmentTime />
       <SegmentHistory />
     </Segment>
     <Segment>
       <Name>This retard can't run</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <GameTime>00:10:49.6000000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <GameTime>00:02:25</GameTime>
-      </BestSegmentTime>
+      <BestSegmentTime />
       <SegmentHistory />
     </Segment>
     <Segment>
       <Name>Phone</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <GameTime>00:12:28.7200000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <GameTime>00:01:39</GameTime>
-      </BestSegmentTime>
+      <BestSegmentTime />
       <SegmentHistory />
     </Segment>
     <Segment>
       <Name>Questionable bridge</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <GameTime>00:14:55.8400000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <GameTime>00:02:27</GameTime>
-      </BestSegmentTime>
+      <BestSegmentTime />
       <SegmentHistory />
     </Segment>
     <Segment>
       <Name>Checklist Girl</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <GameTime>00:18:08.9900000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <GameTime>00:03:13.1500000</GameTime>
-      </BestSegmentTime>
+      <BestSegmentTime />
       <SegmentHistory />
     </Segment>
   </Segments>
