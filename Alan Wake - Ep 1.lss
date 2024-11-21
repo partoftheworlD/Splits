@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>66</AttemptCount>
+  <AttemptCount>67</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="10/27/2024 11:48:22" isStartedSynced="False" ended="10/27/2024 11:48:23" isEndedSynced="False" />
     <Attempt id="2" started="10/27/2024 11:49:11" isStartedSynced="False" ended="10/27/2024 11:49:12" isEndedSynced="False" />
@@ -178,6 +178,7 @@
       <RealTime>00:18:36.4278675</RealTime>
       <GameTime>00:18:23.1695864</GameTime>
     </Attempt>
+    <Attempt id="68" started="11/21/2024 21:07:57" isStartedSynced="False" ended="11/21/2024 21:09:59" isEndedSynced="False" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -559,7 +560,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Generator</Name>
+      <Name>Cabin</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -568,7 +569,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Gates</Name>
+      <Name>Generator</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -599,11 +600,11 @@
     <Split>False</Split>
     <CustomSettings>
       <Setting id="episode1" type="bool">True</Setting>
-      <Setting id="level1" type="bool">True</Setting>
+      <Setting id="level1" type="bool">False</Setting>
       <Setting id="video_2500" type="bool">False</Setting>
-      <Setting id="level2" type="bool">True</Setting>
+      <Setting id="level2" type="bool">False</Setting>
       <Setting id="video_3300" type="bool">False</Setting>
-      <Setting id="level3" type="bool">True</Setting>
+      <Setting id="level3" type="bool">False</Setting>
       <Setting id="episode2" type="bool">True</Setting>
       <Setting id="level4" type="bool">True</Setting>
       <Setting id="video_5600" type="bool">False</Setting>
