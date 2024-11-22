@@ -356,7 +356,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>This retard can't run</Name>
+      <Name>AFK Cruise</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -608,8 +608,8 @@
   <AutoSplitterSettings>
     <Version>1.5</Version>
     <ScriptPath>D:\Speedruns\Livesplit\Components\AlanWake.asl</ScriptPath>
-    <Start>False</Start>
-    <Split>False</Split>
+    <Start>True</Start>
+    <Split>True</Split>
     <CustomSettings>
       <Setting id="episode1" type="bool">True</Setting>
       <Setting id="level1" type="bool">True</Setting>
@@ -617,33 +617,33 @@
       <Setting id="level2" type="bool">True</Setting>
       <Setting id="video_3300" type="bool">False</Setting>
       <Setting id="level3" type="bool">True</Setting>
-      <Setting id="episode2" type="bool">True</Setting>
-      <Setting id="level4" type="bool">True</Setting>
+      <Setting id="episode2" type="bool">False</Setting>
+      <Setting id="level4" type="bool">False</Setting>
       <Setting id="video_5600" type="bool">False</Setting>
       <Setting id="video_5700" type="bool">False</Setting>
-      <Setting id="level5" type="bool">True</Setting>
-      <Setting id="episode3" type="bool">True</Setting>
+      <Setting id="level5" type="bool">False</Setting>
+      <Setting id="episode3" type="bool">False</Setting>
       <Setting id="video_9300" type="bool">False</Setting>
       <Setting id="video_9500" type="bool">False</Setting>
-      <Setting id="level9" type="bool">True</Setting>
+      <Setting id="level9" type="bool">False</Setting>
       <Setting id="video_10300" type="bool">False</Setting>
-      <Setting id="level10" type="bool">True</Setting>
-      <Setting id="episode4" type="bool">True</Setting>
+      <Setting id="level10" type="bool">False</Setting>
+      <Setting id="episode4" type="bool">False</Setting>
       <Setting id="video_11500" type="bool">False</Setting>
-      <Setting id="level11" type="bool">True</Setting>
+      <Setting id="level11" type="bool">False</Setting>
       <Setting id="video_12300" type="bool">False</Setting>
-      <Setting id="level12" type="bool">True</Setting>
-      <Setting id="level13" type="bool">True</Setting>
-      <Setting id="episode5" type="bool">True</Setting>
+      <Setting id="level12" type="bool">False</Setting>
+      <Setting id="level13" type="bool">False</Setting>
+      <Setting id="episode5" type="bool">False</Setting>
       <Setting id="video_14300" type="bool">False</Setting>
-      <Setting id="level14" type="bool">True</Setting>
+      <Setting id="level14" type="bool">False</Setting>
       <Setting id="video_15350" type="bool">False</Setting>
-      <Setting id="level15" type="bool">True</Setting>
-      <Setting id="episode6" type="bool">True</Setting>
+      <Setting id="level15" type="bool">False</Setting>
+      <Setting id="episode6" type="bool">False</Setting>
       <Setting id="video_16300" type="bool">False</Setting>
       <Setting id="video_18700" type="bool">False</Setting>
-      <Setting id="level16" type="bool">True</Setting>
-      <Setting id="any%" type="bool">True</Setting>
+      <Setting id="level16" type="bool">False</Setting>
+      <Setting id="any%" type="bool">False</Setting>
     </CustomSettings>
   </AutoSplitterSettings>
 </Run>
