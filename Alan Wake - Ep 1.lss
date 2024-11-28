@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>108</AttemptCount>
+  <AttemptCount>109</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="10/27/2024 11:48:22" isStartedSynced="False" ended="10/27/2024 11:48:23" isEndedSynced="False" />
     <Attempt id="2" started="10/27/2024 11:49:11" isStartedSynced="False" ended="10/27/2024 11:49:12" isEndedSynced="False" />
@@ -259,6 +259,10 @@
     <Attempt id="106" started="11/28/2024 16:02:00" isStartedSynced="True" ended="11/28/2024 16:08:15" isEndedSynced="True" />
     <Attempt id="107" started="11/28/2024 16:11:24" isStartedSynced="True" ended="11/28/2024 16:11:38" isEndedSynced="True" />
     <Attempt id="108" started="11/28/2024 16:12:23" isStartedSynced="True" ended="11/28/2024 16:18:40" isEndedSynced="True" />
+    <Attempt id="109" started="11/28/2024 16:26:16" isStartedSynced="True" ended="11/28/2024 16:44:49" isEndedSynced="True">
+      <RealTime>00:18:33.3854792</RealTime>
+      <GameTime>00:18:16.2344922</GameTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -529,6 +533,10 @@
           <RealTime>00:06:01.4427219</RealTime>
           <GameTime>00:06:00.3321156</GameTime>
         </Time>
+        <Time id="109">
+          <RealTime>00:06:01.9925596</RealTime>
+          <GameTime>00:06:00.9915868</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -697,6 +705,10 @@
         <Time id="98">
           <RealTime>00:05:00.8302237</RealTime>
           <GameTime>00:04:50.6497610</GameTime>
+        </Time>
+        <Time id="109">
+          <RealTime>00:05:00.8240465</RealTime>
+          <GameTime>00:04:50.2617895</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -887,6 +899,10 @@
         <Time id="98">
           <RealTime>00:07:27.3224917</RealTime>
           <GameTime>00:07:21.3130344</GameTime>
+        </Time>
+        <Time id="109">
+          <RealTime>00:07:30.5688731</RealTime>
+          <GameTime>00:07:24.9811159</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
