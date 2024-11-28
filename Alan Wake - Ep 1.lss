@@ -271,7 +271,7 @@
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:06:03.0959227</RealTime>
-          <GameTime>00:06:00.6000000</GameTime>
+          <GameTime>00:10:00</GameTime>
         </SplitTime>
         <SplitTime name="Goal">
           <GameTime>00:05:51.9900000</GameTime>
@@ -545,7 +545,7 @@
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:11:01.2129520</RealTime>
-          <GameTime>00:10:49.2400000</GameTime>
+          <GameTime>00:20:00</GameTime>
         </SplitTime>
         <SplitTime name="Goal">
           <GameTime>00:10:33.9900000</GameTime>
@@ -718,7 +718,7 @@
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:18:25.1868397</RealTime>
-          <GameTime>00:18:09.6900000</GameTime>
+          <GameTime>00:30:00</GameTime>
         </SplitTime>
         <SplitTime name="Goal">
           <GameTime>00:17:37.9900000</GameTime>
