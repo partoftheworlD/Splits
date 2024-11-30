@@ -54,7 +54,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Generator</Name>
+      <Name>Generator [1]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -72,7 +72,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Generator</Name>
+      <Name>Generator [2]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
