@@ -14,8 +14,10 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>0</AttemptCount>
-  <AttemptHistory />
+  <AttemptCount>71</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="12/02/2024 19:49:50" isStartedSynced="True" ended="12/02/2024 19:49:51" isEndedSynced="True" />
+  </AttemptHistory>
   <Segments>
     <Segment>
       <Name>Lighthouse</Name>
@@ -39,9 +41,13 @@
       <Name>Checklist girl</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <GameTime>00:18:09.9900000</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <GameTime>00:18:09.9900000</GameTime>
+      </BestSegmentTime>
       <SegmentHistory />
     </Segment>
   </Segments>
