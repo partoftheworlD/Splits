@@ -14,41 +14,83 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>71</AttemptCount>
+  <AttemptCount>74</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="12/02/2024 19:49:50" isStartedSynced="True" ended="12/02/2024 19:49:51" isEndedSynced="True" />
+    <Attempt id="2" started="12/02/2024 19:58:10" isStartedSynced="True" ended="12/02/2024 19:58:52" isEndedSynced="True" />
+    <Attempt id="3" started="12/02/2024 19:59:10" isStartedSynced="True" ended="12/02/2024 20:17:25" isEndedSynced="True">
+      <RealTime>00:18:15.4409254</RealTime>
+      <GameTime>00:17:59.5670182</GameTime>
+    </Attempt>
+    <Attempt id="4" started="12/02/2024 20:34:08" isStartedSynced="True" ended="12/02/2024 20:56:26" isEndedSynced="True">
+      <PauseTime>00:11:09.4442621</PauseTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
       <Name>Lighthouse</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:56.0414857</RealTime>
+          <GameTime>00:05:54.9583907</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:05:56.0414857</RealTime>
+        <GameTime>00:05:54.9583907</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:05:56.0414857</RealTime>
+          <GameTime>00:05:54.9583907</GameTime>
+        </Time>
+        <Time id="-1" />
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>AFK Cruise</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:53.9493501</RealTime>
+          <GameTime>00:10:44.7462837</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:04:57.9078644</RealTime>
+        <GameTime>00:04:49.7878930</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:04:57.9078644</RealTime>
+          <GameTime>00:04:49.7878930</GameTime>
+        </Time>
+        <Time id="-1" />
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Checklist girl</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <GameTime>00:18:09.9900000</GameTime>
+          <RealTime>00:18:15.4409254</RealTime>
+          <GameTime>00:17:59.5670182</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <GameTime>00:18:09.9900000</GameTime>
+        <RealTime>00:07:21.4915753</RealTime>
+        <GameTime>00:07:14.8207345</GameTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:07:21.4915753</RealTime>
+          <GameTime>00:07:14.8207345</GameTime>
+        </Time>
+        <Time id="-1">
+          <GameTime>00:18:09.9900000</GameTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings>
