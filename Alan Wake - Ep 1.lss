@@ -18,15 +18,6 @@
   <AttemptHistory />
   <Segments>
     <Segment>
-      <Name>Not a Lighthouse</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
       <Name>Lighthouse</Name>
       <Icon />
       <SplitTimes>
@@ -37,51 +28,6 @@
     </Segment>
     <Segment>
       <Name>AFK Cruise</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Diner</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Generator [1]</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Phone</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Generator [2]</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Flare Gun</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -108,7 +54,7 @@
       <Setting id="episode1" type="bool">True</Setting>
       <Setting id="level1" type="bool">True</Setting>
       <Setting id="video_2500" type="bool">False</Setting>
-      <Setting id="level2" type="bool">False</Setting>
+      <Setting id="level2" type="bool">True</Setting>
       <Setting id="video_3300" type="bool">False</Setting>
       <Setting id="level3" type="bool">True</Setting>
       <Setting id="episode2" type="bool">True</Setting>
