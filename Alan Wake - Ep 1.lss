@@ -47,6 +47,46 @@
   </AttemptHistory>
   <Segments>
     <Segment>
+      <Name>Not a Lighthouse</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="-1" />
+        <Time id="3" />
+        <Time id="8" />
+        <Time id="9" />
+        <Time id="10" />
+        <Time id="11" />
+        <Time id="12" />
+        <Time id="13" />
+        <Time id="14" />
+        <Time id="15" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>UFO tutorial</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="-1" />
+        <Time id="3" />
+        <Time id="8" />
+        <Time id="9" />
+        <Time id="10" />
+        <Time id="11" />
+        <Time id="12" />
+        <Time id="13" />
+        <Time id="14" />
+        <Time id="15" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
       <Name>Lighthouse</Name>
       <Icon />
       <SplitTimes>
@@ -137,7 +177,77 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Checklist girl</Name>
+      <Name>Diner</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="-1" />
+        <Time id="3" />
+        <Time id="8" />
+        <Time id="11" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Generator [1]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="-1" />
+        <Time id="3" />
+        <Time id="8" />
+        <Time id="11" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Phone</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="-1" />
+        <Time id="3" />
+        <Time id="8" />
+        <Time id="11" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Generator [2]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="-1" />
+        <Time id="3" />
+        <Time id="8" />
+        <Time id="11" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Flare Gun</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="-1" />
+        <Time id="3" />
+        <Time id="8" />
+        <Time id="11" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>E1 Sucks</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -172,7 +282,7 @@
     <Version>1.5</Version>
     <ScriptPath>D:\Speedruns\Livesplit\Components\AlanWake.asl</ScriptPath>
     <Start>True</Start>
-    <Split>True</Split>
+    <Split>False</Split>
     <CustomSettings>
       <Setting id="episode1" type="bool">True</Setting>
       <Setting id="level1" type="bool">True</Setting>
