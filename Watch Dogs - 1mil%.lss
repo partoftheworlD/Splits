@@ -15,7 +15,7 @@
     <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>1</AttemptCount>
+  <AttemptCount>2</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="02/19/2025 21:37:49" isStartedSynced="True" ended="02/19/2025 21:37:57" isEndedSynced="True" />
     <Attempt id="2" started="02/19/2025 21:37:58" isStartedSynced="True" ended="02/19/2025 21:39:47" isEndedSynced="True">
@@ -28,6 +28,7 @@
       <RealTime>01:17:06.9422363</RealTime>
       <PauseTime>00:02:02.6223180</PauseTime>
     </Attempt>
+    <Attempt id="5" started="02/19/2025 23:09:52" isStartedSynced="True" ended="02/19/2025 23:25:39" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -39,27 +40,19 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:42.1524596</RealTime>
+        <RealTime>00:05:36.9445040</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="4">
           <RealTime>00:05:42.1524596</RealTime>
         </Time>
+        <Time id="5">
+          <RealTime>00:05:36.9445040</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>G106</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory>
-        <Time id="4" />
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Loop</Name>
+      <Name>Loop tower</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -93,7 +86,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Mad Mile</Name>
+      <Name>Mad Mile tower</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
