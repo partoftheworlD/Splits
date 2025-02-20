@@ -42,7 +42,7 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>ATM Upgrade</Name>
+      <Name>ATM Upgrade 1</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -74,7 +74,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>G106 &amp; Loop tower</Name>
+      <Name>G106 Loop tower</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -100,7 +100,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Open Your World &amp; Profiler Upgrade</Name>
+      <Name>Profiler Upgrade</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -124,7 +124,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Mad Mile tower &amp; ATM Upgrade 2</Name>
+      <Name>Mad Mile tower ATM Upgrade 2</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
