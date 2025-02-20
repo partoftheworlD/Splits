@@ -80,7 +80,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>G106 Loop tower</Name>
+      <Name>G106 &amp; Loop tower</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -109,7 +109,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Profiler Upgrade</Name>
+      <Name>Open Your World &amp; Profiler Upgrade</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -117,7 +117,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:07:29.0465482</RealTime>
+        <RealTime>00:10:12.4860000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="4">
@@ -128,10 +128,10 @@
         </Time>
         <Time id="8" />
         <Time id="9">
-          <RealTime>00:07:29.0465482</RealTime>
+          <RealTime>00:10:12.4860000</RealTime>
         </Time>
         <Time id="10">
-          <RealTime>00:09:28.7021236</RealTime>
+          <RealTime>00:10:12.4860000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
