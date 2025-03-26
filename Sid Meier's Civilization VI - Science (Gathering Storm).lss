@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Run version="1.7.0">
   <GameIcon />
-  <GameName>Civilization VI</GameName>
+  <GameName>Sid Meier's Civilization VI</GameName>
   <CategoryName>Science (Gathering Storm)</CategoryName>
   <LayoutPath>
   </LayoutPath>
@@ -12,6 +12,7 @@
     <Region>
     </Region>
     <Variables />
+    <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
   <AttemptCount>62</AttemptCount>
