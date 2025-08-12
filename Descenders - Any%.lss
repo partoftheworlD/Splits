@@ -110,11 +110,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:29:19.2681344</RealTime>
+          <RealTime>00:26:41.0957264</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:09:38.1720000</RealTime>
+        <RealTime>00:07:00</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="7">
