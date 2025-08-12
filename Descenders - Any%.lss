@@ -40,6 +40,9 @@
         <RealTime>00:05:38.3496052</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:05:43.1870000</RealTime>
+        </Time>
         <Time id="1">
           <RealTime>00:05:43.1871931</RealTime>
         </Time>
@@ -47,9 +50,6 @@
           <RealTime>00:05:38.3496052</RealTime>
         </Time>
         <Time id="5" />
-        <Time id="0">
-          <RealTime>00:05:43.1870000</RealTime>
-        </Time>
         <Time id="7">
           <RealTime>00:06:38.3413540</RealTime>
         </Time>
@@ -67,6 +67,9 @@
         <RealTime>00:05:40.8920000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:05:40.8920000</RealTime>
+        </Time>
         <Time id="1">
           <RealTime>00:05:40.8926644</RealTime>
         </Time>
@@ -74,9 +77,6 @@
           <RealTime>00:06:02.0216873</RealTime>
         </Time>
         <Time id="5" />
-        <Time id="0">
-          <RealTime>00:05:40.8920000</RealTime>
-        </Time>
         <Time id="7">
           <RealTime>00:05:57.0563724</RealTime>
         </Time>
@@ -87,18 +87,18 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:18:40.0965920</RealTime>
+          <RealTime>00:19:41.0957264</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:06:04.6988656</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="5">
-          <RealTime>00:07:13.1811550</RealTime>
-        </Time>
         <Time id="0">
           <RealTime>00:07:13.1810000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:07:13.1811550</RealTime>
         </Time>
         <Time id="7">
           <RealTime>00:06:04.6988656</RealTime>
@@ -110,7 +110,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:28:18.2690000</RealTime>
+          <RealTime>00:29:19.2681344</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
