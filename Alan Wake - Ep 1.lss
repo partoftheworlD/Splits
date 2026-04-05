@@ -40,6 +40,34 @@
   </AttemptHistory>
   <Segments>
     <Segment>
+      <Name>Cabin</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="1" />
+        <Time id="6" />
+        <Time id="7" />
+        <Time id="8" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>UFO</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="1" />
+        <Time id="6" />
+        <Time id="7" />
+        <Time id="8" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
       <Name>Lighthouse</Name>
       <Icon />
       <SplitTimes>
@@ -97,6 +125,32 @@
           <RealTime>00:05:11.6246492</RealTime>
           <GameTime>00:04:59.4676858</GameTime>
         </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Generator [1]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="1" />
+        <Time id="6" />
+        <Time id="7" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Generator [2]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="1" />
+        <Time id="6" />
+        <Time id="7" />
       </SegmentHistory>
     </Segment>
     <Segment>
