@@ -15,7 +15,7 @@
     <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>12</AttemptCount>
+  <AttemptCount>13</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="04/05/2026 10:00:30" isStartedSynced="True" ended="04/05/2026 10:20:58" isEndedSynced="True">
       <RealTime>00:20:27.9756538</RealTime>
@@ -37,20 +37,30 @@
     <Attempt id="9" started="04/05/2026 17:44:08" isStartedSynced="True" ended="04/05/2026 17:44:15" isEndedSynced="True" />
     <Attempt id="10" started="04/05/2026 17:50:10" isStartedSynced="True" ended="04/05/2026 17:55:47" isEndedSynced="True" />
     <Attempt id="11" started="04/05/2026 17:56:38" isStartedSynced="True" ended="04/05/2026 17:56:40" isEndedSynced="True" />
+    <Attempt id="12" started="04/05/2026 18:16:29" isStartedSynced="True" ended="04/05/2026 18:19:00" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
       <Name>Cabin</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <GameTime>00:02:00.9340000</GameTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:02:01.9558842</RealTime>
+        <GameTime>00:02:00.9340000</GameTime>
+      </BestSegmentTime>
       <SegmentHistory>
         <Time id="1" />
         <Time id="6" />
         <Time id="7" />
         <Time id="8" />
+        <Time id="12">
+          <RealTime>00:02:01.9558842</RealTime>
+          <GameTime>00:02:00.9346309</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -73,7 +83,7 @@
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:05:59.1995271</RealTime>
-          <GameTime>00:05:58.1722845</GameTime>
+          <GameTime>00:07:59.1062845</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -139,7 +149,7 @@
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:18:54.8146490</RealTime>
-          <GameTime>00:18:40.8068406</GameTime>
+          <GameTime>00:20:41.7408406</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
