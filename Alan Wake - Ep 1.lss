@@ -15,7 +15,7 @@
     <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>11</AttemptCount>
+  <AttemptCount>12</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="04/05/2026 10:00:30" isStartedSynced="True" ended="04/05/2026 10:20:58" isEndedSynced="True">
       <RealTime>00:20:27.9756538</RealTime>
@@ -100,45 +100,25 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>AFK Cruise</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:11:10.8241763</RealTime>
-          <GameTime>00:10:57.6399703</GameTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:05:04.8938684</RealTime>
-        <GameTime>00:04:54.8695679</GameTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="1">
-          <RealTime>00:05:44.5354128</RealTime>
-          <GameTime>00:05:37.0788391</GameTime>
-        </Time>
-        <Time id="6">
-          <RealTime>00:05:04.8938684</RealTime>
-          <GameTime>00:04:54.8695679</GameTime>
-        </Time>
-        <Time id="7">
-          <RealTime>00:05:11.6246492</RealTime>
-          <GameTime>00:04:59.4676858</GameTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
       <Name>Generator [1]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime />
-      <SegmentHistory>
-        <Time id="1" />
-        <Time id="6" />
-        <Time id="7" />
-      </SegmentHistory>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Birds stole my wife</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:04.8938684</RealTime>
+        <GameTime>00:04:54.8695679</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>Generator [2]</Name>
