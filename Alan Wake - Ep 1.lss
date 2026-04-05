@@ -15,52 +15,34 @@
     <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>1</AttemptCount>
+  <AttemptCount>0</AttemptCount>
   <AttemptHistory />
   <Segments>
     <Segment>
       <Name>Lighthouse</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:06:08.0516734</RealTime>
-          <GameTime>00:06:04.1890323</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:06:01.3300000</RealTime>
-        <GameTime>00:05:59.8132297</GameTime>
-      </BestSegmentTime>
+      <BestSegmentTime />
       <SegmentHistory />
     </Segment>
     <Segment>
       <Name>AFK Cruise</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:16:02.2888513</RealTime>
-          <GameTime>00:15:47.8467167</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:09:51.6372751</RealTime>
-        <GameTime>00:09:39.1952480</GameTime>
-      </BestSegmentTime>
+      <BestSegmentTime />
       <SegmentHistory />
     </Segment>
     <Segment>
       <Name>E1 Sucks</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:18:33.7842061</RealTime>
-          <GameTime>00:18:19.3420715</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:02:31.4953548</RealTime>
-        <GameTime>00:02:31.4953548</GameTime>
-      </BestSegmentTime>
+      <BestSegmentTime />
       <SegmentHistory />
     </Segment>
   </Segments>
