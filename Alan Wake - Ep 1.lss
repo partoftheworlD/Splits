@@ -15,7 +15,7 @@
     <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>19</AttemptCount>
+  <AttemptCount>20</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="04/05/2026 10:00:30" isStartedSynced="True" ended="04/05/2026 10:20:58" isEndedSynced="True">
       <RealTime>00:20:27.9756538</RealTime>
@@ -60,6 +60,11 @@
       <RealTime>00:18:51.7825604</RealTime>
       <GameTime>00:18:20.0488225</GameTime>
       <PauseTime>00:00:54.5560250</PauseTime>
+    </Attempt>
+    <Attempt id="19" started="04/08/2026 19:39:58" isStartedSynced="True" ended="04/08/2026 19:59:12" isEndedSynced="True">
+      <RealTime>00:18:36.5709519</RealTime>
+      <GameTime>00:18:21.1306992</GameTime>
+      <PauseTime>00:00:37.6398828</PauseTime>
     </Attempt>
   </AttemptHistory>
   <Segments>
@@ -107,6 +112,10 @@
           <RealTime>00:06:06.0371318</RealTime>
           <GameTime>00:05:57.9822670</GameTime>
         </Time>
+        <Time id="19">
+          <RealTime>00:05:58.5975948</RealTime>
+          <GameTime>00:05:57.5796271</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -119,7 +128,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:01.5834505</RealTime>
+        <RealTime>00:04:59.8509528</RealTime>
         <GameTime>00:04:50.1260851</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -146,6 +155,10 @@
         <Time id="18">
           <RealTime>00:05:08.7063528</RealTime>
           <GameTime>00:04:52.0484740</GameTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:04:59.8509528</RealTime>
+          <GameTime>00:04:51.7186325</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -188,6 +201,10 @@
         <Time id="18">
           <RealTime>00:07:37.0390758</RealTime>
           <GameTime>00:07:30.0180815</GameTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:07:38.1224043</RealTime>
+          <GameTime>00:07:31.8324396</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
