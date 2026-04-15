@@ -12,9 +12,10 @@
     <Region>
     </Region>
     <Variables />
+    <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>11</AttemptCount>
+  <AttemptCount>12</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="12/21/2023 17:03:37" isStartedSynced="True" ended="12/21/2023 17:03:41" isEndedSynced="True" />
     <Attempt id="2" started="12/23/2023 16:33:54" isStartedSynced="True" ended="12/23/2023 16:33:54" isEndedSynced="True" />
@@ -34,7 +35,67 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>End</Name>
+      <Name>Holy 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="7" />
+        <Time id="8" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Holy 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="7" />
+        <Time id="8" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Holy 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="7" />
+        <Time id="8" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Holy 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="7" />
+        <Time id="8" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Holy 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="7" />
+        <Time id="8" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Win</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
