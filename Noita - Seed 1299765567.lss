@@ -15,8 +15,18 @@
     <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>0</AttemptCount>
-  <AttemptHistory />
+  <AttemptCount>7</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="04/19/2026 10:20:43" isStartedSynced="True" ended="04/19/2026 10:25:31" isEndedSynced="True" />
+    <Attempt id="2" started="04/19/2026 10:25:37" isStartedSynced="True" ended="04/19/2026 10:26:35" isEndedSynced="True" />
+    <Attempt id="3" started="04/19/2026 10:26:41" isStartedSynced="True" ended="04/19/2026 10:59:38" isEndedSynced="True" />
+    <Attempt id="4" started="04/19/2026 11:42:54" isStartedSynced="True" ended="04/19/2026 11:44:10" isEndedSynced="True" />
+    <Attempt id="5" started="04/19/2026 11:44:17" isStartedSynced="True" ended="04/19/2026 11:45:41" isEndedSynced="True" />
+    <Attempt id="6" started="04/19/2026 11:45:43" isStartedSynced="True" ended="04/19/2026 11:47:03" isEndedSynced="True" />
+    <Attempt id="7" started="04/19/2026 11:47:08" isStartedSynced="True" ended="04/19/2026 12:09:05" isEndedSynced="True">
+      <PauseTime>00:06:34.4524644</PauseTime>
+    </Attempt>
+  </AttemptHistory>
   <Segments>
     <Segment>
       <Name>Win</Name>
