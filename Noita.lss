@@ -15,7 +15,7 @@
     <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>19</AttemptCount>
+  <AttemptCount>22</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="12/21/2023 17:03:37" isStartedSynced="True" ended="12/21/2023 17:03:41" isEndedSynced="True" />
     <Attempt id="2" started="12/23/2023 16:33:54" isStartedSynced="True" ended="12/23/2023 16:33:54" isEndedSynced="True" />
@@ -42,10 +42,104 @@
     <Attempt id="16" started="04/16/2026 13:54:40" isStartedSynced="True" ended="04/16/2026 14:02:37" isEndedSynced="True">
       <RealTime>00:07:56.8437558</RealTime>
     </Attempt>
+    <Attempt id="17" started="04/19/2026 12:59:06" isStartedSynced="True" ended="04/19/2026 13:06:53" isEndedSynced="True" />
+    <Attempt id="18" started="04/19/2026 13:07:50" isStartedSynced="True" ended="04/19/2026 13:07:51" isEndedSynced="True" />
+    <Attempt id="19" started="04/19/2026 13:07:53" isStartedSynced="True" ended="04/19/2026 13:12:44" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>Win</Name>
+      <Name>Coal Pits</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="0" />
+        <Time id="15" />
+        <Time id="16" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Snowy Depths</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="0" />
+        <Time id="15" />
+        <Time id="16" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Hiisi Base</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="0" />
+        <Time id="15" />
+        <Time id="16" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Underground Jungle</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="0" />
+        <Time id="15" />
+        <Time id="16" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Vault</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="0" />
+        <Time id="15" />
+        <Time id="16" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Temple of the Art</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="0" />
+        <Time id="15" />
+        <Time id="16" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Laboratory</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="0" />
+        <Time id="15" />
+        <Time id="16" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Work</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
